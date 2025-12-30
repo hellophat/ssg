@@ -1,0 +1,1097 @@
+{
+  "appId": 1940340,
+  "gameName": "Darkest Dungeon® II",
+  "achievements": [
+    {
+      "apiname": "affinity_meltdown_first_time",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Don't Make Me Turn This Coach Around",
+      "description": "Have a hero meltdown",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/c3b94ca51c662f3f1cc4dc10765ed96e01b1cf95.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "affinity_resolute_first_time",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Serenity Now!",
+      "description": "Have a hero become resolute",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/8de99e5063eb92f6a576231da3fbf6d39595657b.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_memory_equip_first_time",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "It Rings a Bell",
+      "description": "Apply a memory onto a hero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/389e86ab0fb966e6ef3aaabebb917a4a00ce32c1.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_memory_equip_five_same_hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Life Well Lived",
+      "description": "Apply 5 memories onto a single hero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/616f002d8e77123d42dd13d848d847b7988f0e13.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_unlock_hero_flagellant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Resurrection",
+      "description": "Unlock the Flagellant",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/b5a6cbb78a6348d52b298c423ca9e0fe81c2b8bd.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_unlock_hero_hellion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Unleash Hell",
+      "description": "Unlock the Hellion",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/82cd777548fcc74e7153153a8ebeb8ae9c403fa0.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_unlock_hero_jester",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Funny Guy",
+      "description": "Unlock the Jester",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/fa0b9977a0dd6eab235a1d7bb1d02a2265d42483.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_unlock_hero_leper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Long Live the King",
+      "description": "Unlock the Leper",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/29b9192db359a2ebe9941fbdcde645776f4a7582.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_unlock_hero_occultist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Wyrdly Reconstructed",
+      "description": "Unlock the Occultist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/32c6526911a478cb121ca4b5cb22a2b026ffcf26.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_unlock_hero_runaway",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Boxcar Kid",
+      "description": "Unlock the Runaway",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/986f8b4531c672f59c4cb25edca91f68b803c70e.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_unlock_hero_vestal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Unfulfilled Desires",
+      "description": "Unlock the Vestal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/bd08e1572ace1254d29cc405f51a08b0c48babf7.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_upgrade_total_full",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The World As It Was",
+      "description": "Unlock 100% of the Altar of Hope",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/44ee961b0f7891dc63b065c1c23fecda226198dc.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_upgrade_total_half",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "This Looks Familiar",
+      "description": "Unlock 50% of the Altar of Hope",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/7966e6717d0c4261e7bb3879fc9ebd3ec1815801.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_upgrade_total_quarter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Hope Rekindled",
+      "description": "Unlock 25% of the Altar of Hope",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/2b001dbc5147ccd7193bf72b4060683d96c482ff.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "application_start_on_release_anniversary",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Loop Year",
+      "description": "Play the game on the anniversary of release",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/314315452ab42a0444f6443a45e84718638b60c3.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_animal",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Predator",
+      "description": "Kill 100 Creatures",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/3859945557dd922f42a5c348bece2d97f09b99bf.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_antiquarian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "This Belongs in a Museum",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/e012a786627b1b28b086a4e3b3df06386eed8279.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "combat_kill_cadavers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Dissector",
+      "description": "Kill 100 Cadavers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/f41fa03748d393a9fffece27714466624203c645.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_cosmic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Banishment",
+      "description": "Kill 100 Cosmic Beings",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/f54358c34c5c0f0898c42659aff030bd4bbab579.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Not Today!",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/e8aa496d1bfa2a1ce0a93d67ef90ffab76f1d1aa.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "combat_kill_dreaming_general",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Creep and Sleep",
+      "description": "Defeat the lair boss found in the Tangle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/6d57302f96ae23676b41f493bb09de44c69dd221.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_fanatics",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Deprogramming",
+      "description": "Kill 100 Fanatics",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/03b1916b94629ca9efe2fb9d3e437cd3c236cd4d.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_fisherfolk",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ichthyophobic",
+      "description": "Kill 100 Fisherfolk",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/70516109392fcf8dbc66eb54358deefedd305388.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_gaunts",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Now Stay Dead",
+      "description": "Kill 100 Gaunt",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/fe5193e82fd97bcc35e29d1a15be49b2c3b244c1.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_gentry",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "No More Mouths to Feed",
+      "description": "Kill 100 Gentry",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/70285e968067fd0da2d564075e11f9ca3e75c391.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_harvest_child",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Meat and Greet",
+      "description": "Defeat the lair boss found in the Foetor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/6857bf33fb826c9e247fabe54a86e73ee53f2abc.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_lair_boss_bounty_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Clearing the Ledger",
+      "description": "Land the killing blow on a lair boss from the Bounty Hunter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/13363602fff2a58ad5844eef6228772647cc9de6.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_leviathan",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Catch and Decease",
+      "description": "Defeat the lair boss found in the Shroud",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/fdcf761473e4995f256e8fb19425c0d2aba0d7db.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_librarian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Overdue Notice",
+      "description": "Defeat the lair boss found in the Sprawl",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/40bdc2a6d9535dd2457f49c0013fc9d4a472a036.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_pillagers",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Reverse Banditry",
+      "description": "Kill 100 Pillagers",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/e2c76fce6d0f6cd347b5d2abbb234a1787cc05d7.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_shambler",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Escape from the Black Hole",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/cfa74f3a4ce2d9cbb04c25cd50c12bb7c154f041.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "combat_kill_shambler_pet_shambler",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Circle of Life",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/b6aa44775e9a599a92eddbca5e13916492f4694b.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "combat_kill_swine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Bacon Bits",
+      "description": "Kill 100 Swine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/4a888de45dc38aabb1933f5ce0b579d3c8989bc2.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_party_wipe_all_run_bosses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "No Gravestone Left Unturned",
+      "description": "Party wipe against each Confession endboss",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/70c0072d32b578cae1a948002956280f3486642c.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_party_wipe_any_run_boss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "It Happens",
+      "description": "Party wipe against any Confession endboss",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/54d484a81295b8fb82055637111839a02d330c4b.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_run_kill_three_lair_bosses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Hat Trick",
+      "description": "Defeat 3 lair bosses in a single expedition",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/b6de7f7f28a20a3b6a6cb93e8dece147ba642da5.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "driving_biome_clear_cave",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Spelunker",
+      "description": "Clear the Sluice",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/481f9e52b20149f04ec05fe8f241572a3a3f172a.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "driving_biome_clear_city",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Rush Hour",
+      "description": "Clear the Sprawl",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/b03695bc806662fab67e7ec83dc2afb45950a372.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "driving_biome_clear_coast",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Merry Time",
+      "description": "Clear the Shroud",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/87dac6ef25aefbb62e6092820bd11b88878ef7ff.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "driving_biome_clear_farm",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Harvest Festival",
+      "description": "Clear the Foetor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/80037d13a664baf542bab922f10019893568e2c3.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "driving_biome_clear_forest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "To Grandmother's House",
+      "description": "Clear the Tangle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/34dc25688ea95c4c0fc646442ea6563c8c7efda7.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "driving_distance_easy",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ramble On",
+      "description": "Drive 1,000 leagues in the stagecoach",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/303fe98fc4d0da44cb82a769ba8d3e55ab740450.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "driving_distance_hard",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "20,000 Leagues Above the Sea",
+      "description": "Drive 20,000 leagues in the stagecoach",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/7b2ef4de5beb7f47449ad831c304f7af337493c9.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "hero_loss_memoried",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Tears in the Rain",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/dd09fd82bba6414100a546fc1b23018c17975032.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "hero_skill_mastery_five",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Autodidact",
+      "description": "Master 5 skills on a single hero during an expedition",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/f3ad5627aa5f555554c5dc17290a7d9548449cd7.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "hero_story_complete_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Shrine of Reflection",
+      "description": "Complete all heroes' entire backstory",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/5e2b4eb8fb1470576e9f0387c23aaff1971ae5c5.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "hero_story_complete_any",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Clear Conscience",
+      "description": "Complete any hero's entire backstory",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/c536e35571ee3948cd4626c97bd87f98f0503a9b.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "hoarder_buy_epic_trinket",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Whale",
+      "description": "Purchase an indelible trinket from the Hoarder",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/36c1699547c4e6328aef930fe60cf80b46df90fb.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "hospital_full_service",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Triage",
+      "description": "Treat a disease, remove a negative quirk, and lock-in a positive quirk at a single Field Hospital",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/6e1fa632cb6ddaf44978b55af347cd68d01ecf17.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "inn_first_time",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Place to Lay Your Head",
+      "description": "Reach the first Inn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/e49f4502e38344844ace990dffc891bb26a8e841.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "inn_hire_mercenary_bounty_hunter",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "When You Want Something Done Right",
+      "description": "Hire the Bounty Hunter",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/c0b62343afa12e437e2aa12acd5f4c5df830c6bf.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "inn_replacement_hero_add",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "FNG",
+      "description": "Find a replacement for a fallen hero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/42d96673ccb4f535b45c63961a89d2675f037f3c.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "inn_visit_all_variants",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Worldly Traveler",
+      "description": "Visit every Inn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/24a2ec1986f8651456d79939953de0d8426e8bd8.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "relationships_all_negative_mountain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Clash",
+      "description": "Enter the Mountain with a full party and all negative relationships",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/b9ad7f788b59878305f06e8a5f5e457471011df8.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "relationships_all_positive_mountain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Utopia",
+      "description": "Enter the Mountain with a full party and all positive relationships",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/ac9f809ae17b03821d5fdf862fdf7a2e85630c6c.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "roster_confirm_all_memoried",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Eidetic",
+      "description": "Have a full roster of heroes with at least one memory each",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/48f294d942f1a34689f96d4e2e71c78bc4bf6942.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "run_end_abandon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Nope",
+      "description": "Abandon an expedition",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/84edbf0c17a58bf55f06ab1d4ab259aa5e5c6712.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "run_victory_act01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Unshackled",
+      "description": "Complete Denial",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/e535cc5ec2bf1ebae20578a148aee1116980148f.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "run_victory_act02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Hot Air",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/ebac2dbcfa1ea90b13ce49bd508a019603686d10.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "run_victory_act03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Eyes Up",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/7119dbc2d18c57d109522bfa73616311df2abb06.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "run_victory_act04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Handled",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/1d1ea75dd8ed77da78edbdb8bbf0e8ff11ba8e57.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "run_victory_act05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Body of Work",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/e7f697a19ebc604f0d865f342409f8cd297fd750.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "run_victory_all_confessions_back_to_back",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Grand Slam",
+      "description": "Defeat all 5 Confessions with the same four heroes without any of them dying",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/6661a06c93969a933b1f9242ad73ebc4521a5246.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "run_victory_final_boss_infernal_flame",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Hard Mode",
+      "description": "Defeat the final boss with the Stygian Blaze equipped",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/2ce462fbc60c8d29b0f90b94a72b32e12438b9e1.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "stagecoach_upgrade_equip_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Road Trip",
+      "description": "Have a trophy, pet, and four stagecoach items equipped all at once",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/1ba2c556125f14670c5dc4509ad4a2c7dfe9f4aa.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_collector",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "This guy... again?",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/69fc0bf1c7ed4256778723bfebf8759dae69cfe3.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "combat_kill_chirurgeon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Malpractice Assurance",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/75280ca7b61dbc1165fcfba82a7be94c36d8567d.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "combat_land_riposte_maa_hwy_dul",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Et Tu, Riposte?",
+      "description": "Land a Riposte with Man-at-Arms, Highwayman, and Duelist in a single fight",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/4bb83ddd748c1089d2dd9757bc58782e38cef8e0.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_lair_boss_the_boot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "These Boots Are Made For Kickin'",
+      "description": "Land the killing blow on a lair boss with The Boot from the Duelist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/52f69936d43499d01090eb17d685c327e698fb6b.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_land_riposte_dmg_threshold_duelist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Slap on the Wrist",
+      "description": "Deal 20 damage with a Riposte skill from the Duelist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/55a705c8228828f13f44be56d609bd80b09dee88.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "hero_story_complete_duelist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Bloody Graduation",
+      "description": "Complete the Duelist's backstory",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/ef4d854a147c881049a6074a29bfa3e226f96119.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_memory_equip_all_duelist",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Maître De La Lame",
+      "description": "Apply 5 memories onto the Duelist",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/b1b5dc986bed85c8a1f1701b1f1bbce2a8bd151f.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_memory_equip_all_crusader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Battle Hardened",
+      "description": "Apply 5 memories onto the Crusader",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/30ecb42ec3004c0a4deeb7d39ef024413d69c110.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "hero_story_complete_crusader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ploughshares to Swords",
+      "description": "Complete the Crusader's backstory",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/d9fbeabd0a5dc46b4051b2f3b1dfea74c3bcae54.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "run_victory_final_boss_hwy_cru",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "On This Long Road, We Found Redemption",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/470ceaf4fa58ae6423756e22e9aba9475c9df4e1.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "combat_kill_warlord_crusader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "No Mercy",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/c5714ef86e6d47e68cb62d6fce30393f2d5a2bf5.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "quest_complete_crusader",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Lost and Found",
+      "description": "Complete The Lost Crusade",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/0ba927839fee390b7f4a653921a5d7a96391422a.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "relationships_positive_hwy_cru",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Friends 'Til the End",
+      "description": "Have the Highwayman and the Crusader form a positive relationship",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/9089bcb5ed0f952ac6be93b81d12bf7249711fca.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "run_victory_any_ves_pd_hwy_cru",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "For Old Time' Sake",
+      "description": "Complete an expedition with The Usual Suspects",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/baca83e26014c6ba61346166c6e47137173da3e2.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_kill_ectoplasms",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Unnerving Mass",
+      "description": "Kill 7+ Slimes in a single combat",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/a3797f1347c7685cf96c2e330d65040334067f39.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_use_catacombs_inn_deliverable",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Catacomb Cracker",
+      "description": "Have any hero use a Cracked Geode in combat",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/427f45666d4222c51993c98cb2a2a7ba133c1220.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "driving_biome_clear_underground_same_run",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Chthonian Nightmares",
+      "description": "Clear the Catacombs and the Sluice in a single expedition",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/c3266f9cf87f06de2998ff51e202d89aec44f2d0.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "hero_story_complete_abomination",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Transformed",
+      "description": "Complete Abomination's Backstory",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/a13738d0e0c7e2e5e1724c8d582122e61b92a4cb.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "altar_of_hope_memory_equip_all_abomination",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Inquisition's Prize",
+      "description": "Apply 5 memories onto the Abomination",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/1a67bb75db9c0b2dadf684663039c93df6dbcfdf.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "party_classes_abomination_sacrilegious",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sacrilegious",
+      "description": "Form a team with the Abomination and 3 of the following heroes: Vestal, Crusader, Flagellant, Leper",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/7b60b8ea5aefeff48fea5f002c341eec3dae34ce.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_abomination_overstress_chain",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "It's Not A Phase",
+      "description": "Have two different members of your party forced into a resolve check due to the Abomination over the course of a single Expedition or Kingdom campaign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/d58d455bad7890ffa425de97c4035f289bb56eef.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_abomination_use_chain_item_on_caretaker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Three Chains",
+      "description": "Have the Abomination use a Coiled Chain on the Cryptkeeper in the Catacombs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/1afd7eef9189256c1f6dd516592f773d158b2f8f.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_abomination_transforms",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Undecided",
+      "description": "Have the Abomination transform into beast form three times in a single fight",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/e281a4c730d360dca5bc3ef3df1d3ff0343a5e3c.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_abomination_kill_beastmen_alpha",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Let Them Fight",
+      "description": "Land the killing blow on the Alpha Rot Claw from the Abomination",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/8d0a49473ba616265196554fdd0c1211a5f911a9.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "combat_use_purse_item_on_antiquarian",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Paid Off",
+      "description": "Hit the Antiquarian with a Ragged Coin Purse",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/7246f71adf04220f73f6ba7bc28857b25d36b70c.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "cat_pet_all_effects_same_run",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Toxoplasma Gondii",
+      "description": "Gain each of the effects from the Purloiner Felid at least once in a single expedition or campaign",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/3440f6ce7b6e59b9efb6405f8fc635b830bbe3b9.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_victory_beastmen",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Beasts Brought Low",
+      "description": "Successfully complete the K1: Hunger of the Beast Clan module on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/79ee173ff920b66611bfff65f33d6b5a8168a800.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_siege_victory_militia_only",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Fanfare for the Common",
+      "description": "Defend a siege using only Peasant Militia",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/fa6113cec88b9610d868900726198c7a52a5673c.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_combat_use_signal_flare",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Bat Signal",
+      "description": "Use a Signal Flare",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/6caefeccbb5bf0d6f97799bb694f3205799469f2.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_purchase_inn_capstone",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Little Hope",
+      "description": "Purchase an Inn Capstone",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/ee93ef1adebffc2409661a5f79650c4b9ca37e89.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_complete_kill_contracts",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Professional",
+      "description": "Complete 5 kill contracts in a single campaign",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/0ef4422cb66a9fbc207b80c9d46a73fe2405287d.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_trophy_collection",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Trophy Case",
+      "description": "Possess a Trophy from the Sprawl, Foetor, Tangle, Tundra and Shroud at once in a single campaign",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/a96408b2139b128abe4fc88752491b06e0e28d06.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_roster_relationships",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "It's Complicated",
+      "description": "Have 8 heroes involved in relationships at the same time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/b4466d6c8a85c31a5097dbd855feb9b925bda654.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_all_inn_capstones",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Rebuilt",
+      "description": "Purchase one of each Inn Capstone in a single campaign",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/e9fc7ff087bdc3a178de76b0749d1ad1e4d1db97.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_deliver_node_rumours",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Rumormonger",
+      "description": "Deliver 5 rumours over the course of a single campaign",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/eae14ca7b3a54e555f63e02fb8f88568faac557c.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_victory_beastmen_blood_moon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Beast Blood",
+      "description": "Successfully complete the K1: Hunger of the Beast Clan module on Blood Moon difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/b38a7548b1a685df6432250deac2002c43c240da.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_collect_inn_treasures",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Tax Collector",
+      "description": "Collect 5 Inn treasures over the course of a single campagin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/0b105bbd864aecd1a8d6a41a547648e9f0d58d32.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_victory_no_rest_days",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Hard Day's Night",
+      "description": "Successfully complete a Kingdoms campaign on any difficulty without ever passing a day.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/034af9bb8b4be6867683eb99b4235444cf9f395f.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_combat_kill_beastmen_hatchet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Taste of their Own",
+      "description": "Land the killing blow on a beastman with a Huntsman's Hatchet",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/924043c8dc18a3c8563abcb015cedd83896eabe4.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_victory_no_remaining_inn_losses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Teetering on the Brink",
+      "description": "Successfully complete a Kingdoms campaign with no possible Inn losses remaining",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/8dba80fb931be0e9b2097360f9276c2a86233035.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_victory_low_inn_losses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Great Tomorrow",
+      "description": "Successfully complete a Kingdoms campaign only losing up to a single Inn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/04c98da38b7cf03fe12a14f16dd42ca62622a907.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_victory_coven",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Veni Vidi VVitchy",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/4fb5b98a2bcde1e07213f56cf1f98cc974d17082.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "kingdom_combat_coven_root_self_stun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Pure Skill",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/3feda487aff740560eced9b97b41876992b326de.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "kingdom_combat_use_shroom_on_chirurgeon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "License Revoked",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/2b6c2abffcfef51dd429e39354291b4218529f3c.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "kingdom_combat_stealth_tokens_cleared",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I've Been Here the Whole Time",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/a25b3626e718456eea3fb87a497d067dcdcea9f4.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "kingdom_perfect_coven_assist_choices",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "True Sight",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/8504849e9c9342d1682a780980bb9e5052526ad8.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "kingdom_combat_cauldron_kill_before_effects",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Soup's On",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/ec2746f76dd33371a2e57c32ed23c91d11b6ada0.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "kingdom_victory_coven_blood_moon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Killing Moon",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/f6e7e7edfc184f264fd4c2395747bbae2dc4fcc7.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "kingdom_victory_courtier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "(Arch)duke it out",
+      "description": "Successfully complete the K3: Curse of the Court module on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/2e4f2dc53619c9a9948b650dcf13709a9430a7a4.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_victory_courtier_blood_moon",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ducal Destruction",
+      "description": "Successfully complete the K3: Curse of the Court module on Blood Moon difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/b86739180706eb1774b52e24060df7b84fd96b13.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_combat_kill_cocoon_accelerant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Kill it with Fire",
+      "description": "Kill 4 cocoons with a single Accelerant",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/18378a71c2fbeae321f95f77c8fc36f9a25baad6.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_victory_courtier_uncursed_heroes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Social Distancing",
+      "description": "Win the Curse of the Court module where at least 2 surviving heroes never contract the Crimson Curse",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/7de3701d17fa4603309b80c3c1331c8702613056.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_combat_use_proboscis_on_bloodsucker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Reverse Card",
+      "description": "Hit a Bloodsucker with a Fractured Proboscis",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/48ebddec03c90cc2e259aa32d7cf38c9623a3b2f.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_combat_party_has_bloodlust",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Lust on Pull",
+      "description": "Begin combat with each hero Bloodlusting",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/98b7a7253e96a2c26356ca31967ed4ca2418a3e3.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_combat_kill_esquire_with_riposte",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "En garde!",
+      "description": "Kill an Esquire with a riposte attack",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/be5273af36eb5da31aed490ca084367ac66dae47.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "kingdom_use_blood_and_wine",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Fine Vintage",
+      "description": "Use both The Blood and The Wine over the course of a single campaign",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1940340/e599f9771d0988417f7e138072dc529af19a1f55.jpg",
+      "hidden": 0
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2025-12-30T05:59:44.204Z"
+}
