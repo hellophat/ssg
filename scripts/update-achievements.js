@@ -25,6 +25,7 @@ async function fetchGameSchema(appId) {
     
     return [];
   } catch (error) {
+    // Schema fetch failed - this is normal for some games
     return [];
   }
 }
@@ -73,13 +74,20 @@ async function updateAchievements() {
         // Merge player progress with schema data
         const mergedAchievements = playerAchievements.map(playerAch => {
           const schemaAch = schemaAchievements.find(s => s.name === playerAch.apiname);
-          return {
-            ...playerAch,
-            displayName: schemaAch?.displayName || playerAch.name,
-            description: schemaAch?.description || '',
-            icon: playerAch.achieved ? schemaAch?.icon : schemaAch?.icongray,
-            hidden: schemaAch?.hidden || 0
-          };
+          
+          // Only add schema fields if schema data was found
+          if (schemaAch) {
+            return {
+              ...playerAch,
+              displayName: schemaAch.displayName,
+              description: schemaAch.description || '',
+              icon: playerAch.achieved ? schemaAch.icon : schemaAch.icongray,
+              hidden: schemaAch.hidden || 0
+            };
+          }
+          
+          // Return just the player achievement data if no schema found
+          return playerAch;
         });
         
         const achievements = {
