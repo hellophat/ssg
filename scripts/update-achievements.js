@@ -30,6 +30,26 @@ async function fetchGameSchema(appId) {
   }
 }
 
+async function fetchGlobalAchievementPercentages(appId) {
+  try {
+    const response = await axios.get('https://api.steampowered.com/ISteamUserStats/GetGlobalAchievementPercentagesForApp/v2/', {
+      params: {
+        key: STEAM_API_KEY,
+        gameid: appId
+      }
+    });
+    
+    if (response.data.achievementpercentages && response.data.achievementpercentages.achievements) {
+      return response.data.achievementpercentages.achievements;
+    }
+    
+    return [];
+  } catch (error) {
+    // Global percentages unavailable
+    return [];
+  }
+}
+
 async function updateAchievements() {
   console.log('🏆 Updating achievements for active games...');
   
@@ -51,9 +71,13 @@ async function updateAchievements() {
   const achievementsDir = path.join(process.cwd(), 'site', 'static', 'history', 'achievements');
   let updatedCount = 0;
   
+  console.log(`   Processing ${recentGames.length} recently played game(s)...\n`);
+  
   for (const game of recentGames) {
     try {
       await sleep(API_DELAY);
+      
+      console.log(`   Checking ${game.name}...`);
       
       // Fetch player achievements
       const response = await axios.get('http://api.steampowered.com/ISteamUserStats/GetPlayerAchievements/v0001/', {
@@ -71,9 +95,14 @@ async function updateAchievements() {
         await sleep(API_DELAY);
         const schemaAchievements = await fetchGameSchema(game.appid);
         
-        // Merge player progress with schema data
+        // Fetch global achievement percentages
+        await sleep(API_DELAY);
+        const globalPercentages = await fetchGlobalAchievementPercentages(game.appid);
+        
+        // Merge player progress with schema data and global percentages
         const mergedAchievements = playerAchievements.map(playerAch => {
           const schemaAch = schemaAchievements.find(s => s.name === playerAch.apiname);
+          const globalAch = globalPercentages.find(g => g.name === playerAch.apiname);
           
           // Only add schema fields if schema data was found
           if (schemaAch) {
@@ -82,12 +111,16 @@ async function updateAchievements() {
               displayName: schemaAch.displayName,
               description: schemaAch.description || '',
               icon: playerAch.achieved ? schemaAch.icon : schemaAch.icongray,
-              hidden: schemaAch.hidden || 0
+              hidden: schemaAch.hidden || 0,
+              globalPercent: globalAch ? parseFloat(globalAch.percent) : null
             };
           }
           
           // Return just the player achievement data if no schema found
-          return playerAch;
+          return {
+            ...playerAch,
+            globalPercent: globalAch ? parseFloat(globalAch.percent) : null
+          };
         });
         
         const achievements = {
@@ -101,16 +134,20 @@ async function updateAchievements() {
         const filename = path.join(achievementsDir, `${game.appid}.json`);
         fs.writeFileSync(filename, JSON.stringify(achievements, null, 2));
         updatedCount++;
-        console.log(`   ✅ ${game.name}`);
+        console.log(`      ✅ Updated with ${mergedAchievements.length} achievements`);
+      } else {
+        console.log(`      ⊘ No achievements available`);
       }
     } catch (error) {
-      if (error.response && error.response.status !== 400) {
-        console.warn(`   ⚠️  Failed to update ${game.name}`);
+      if (error.response && error.response.status === 400) {
+        console.log(`      ⊘ No achievements (game doesn't support achievements)`);
+      } else {
+        console.warn(`      ⚠️  Failed: ${error.message}`);
       }
     }
   }
   
-  console.log(`✅ Updated achievements for ${updatedCount} game(s)`);
+  console.log(`\n✅ Updated achievements for ${updatedCount} game(s)`);
 }
 
 updateAchievements();

@@ -112,11 +112,11 @@
 					<span class="stat-num">{summary.stats.totalPlaytime}h</span>
 					<span class="stat-label">Played</span>
 				</div>
-				<div class="stat-divider"></div>
+				<!-- <div class="stat-divider"></div>
 				<div class="stat-item">
 					<span class="stat-num">{summary.stats.gamesWithAchievements}</span>
 					<span class="stat-label">Achievements</span>
-				</div>
+				</div> -->
 			</div>
 		{/if}
 		

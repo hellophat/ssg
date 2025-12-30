@@ -95,9 +95,15 @@
 	// Load achievements for paginated games
 	$effect(() => {
 		if (paginatedGames.length > 0) {
+			// Use untrack to prevent the effect from re-running when gameAchievements changes
+			const currentAchievements = $state.snapshot(gameAchievements);
+			
 			for (const game of paginatedGames) {
 				const appidStr = game.appid.toString();
-				if (gameAchievements[appidStr] === undefined) {
+				if (currentAchievements[appidStr] === undefined) {
+					// Mark as loading immediately to prevent duplicate requests
+					gameAchievements[appidStr] = null;
+					
 					fetch(`${base}/history/achievements/${game.appid}.json`)
 						.then(res => res.ok ? res.json() : null)
 						.then(data => {

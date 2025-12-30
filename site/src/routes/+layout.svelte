@@ -12,6 +12,15 @@
 	
 	// Theme state with localStorage persistence
 	let theme = $state('dark');
+	let pastelColor = $state('#ffd1dc'); // Default pastel pink
+	
+	// Generate random pastel color
+	function generatePastelColor() {
+		const hue = Math.floor(Math.random() * 360);
+		const saturation = 60 + Math.random() * 15; // 60-75%
+		const lightness = 80 + Math.random() * 10; // 80-90%
+		return `hsl(${hue}, ${saturation}%, ${lightness}%)`;
+	}
 	
 	onMount(() => {
 		// Get URL parameters (only works in browser)
@@ -27,10 +36,32 @@
 			const stored = localStorage.getItem('theme');
 			theme = stored || 'dark';
 		}
+		
+		// Load stored pastel color or generate new one
+		const storedColor = localStorage.getItem('pastelColor');
+		if (storedColor) {
+			pastelColor = storedColor;
+		}
+		
+		// Apply pastel color if theme is pastel
+		if (theme === 'pastel') {
+			document.documentElement.style.setProperty('--pastel-bg', pastelColor);
+		}
 	});
 	
 	function toggleTheme() {
-		theme = theme === 'dark' ? 'light' : 'dark';
+		// Cycle through: dark -> light -> pastel -> dark
+		if (theme === 'dark') {
+			theme = 'light';
+		} else if (theme === 'light') {
+			theme = 'pastel';
+			// Generate new random pastel color
+			pastelColor = generatePastelColor();
+			localStorage.setItem('pastelColor', pastelColor);
+			document.documentElement.style.setProperty('--pastel-bg', pastelColor);
+		} else {
+			theme = 'dark';
+		}
 		localStorage.setItem('theme', theme);
 	}
 </script>
@@ -46,7 +77,7 @@
 			<nav>
 				<a href="{base}/" class="logo">
 					<span class="icon">🎮</span>
-					<span>Steam Profile</span>
+					<span>Gaming Profile</span>
 				</a>
 				<div class="nav-center">
 					<div class="nav-links">
@@ -55,16 +86,20 @@
 						<!-- <a href="{base}/stats/">Stats</a> -->
 					</div>
 				</div>
-				<button class="theme-toggle" onclick={toggleTheme} aria-label="Toggle theme">
-					{#if theme === 'dark'}
-						☀️
-					{:else}
-						🌙
-					{/if}
-				</button>
 			</nav>
 		</header>
 	{/if}
+	
+	<!-- Floating theme toggle button -->
+	<button class="theme-toggle-floating" onclick={toggleTheme} aria-label="Toggle theme">
+		{#if theme === 'dark'}
+			☀️
+		{:else if theme === 'light'}
+			🎨
+		{:else}
+			🌙
+		{/if}
+	</button>
 	
 	<main class:no-header={hideHeader}>
 		{@render children()}

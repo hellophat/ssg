@@ -42,6 +42,26 @@ async function fetchGameSchema(appId) {
   }
 }
 
+async function fetchGlobalAchievementPercentages(appId) {
+  try {
+    const response = await axios.get('https://api.steampowered.com/ISteamUserStats/GetGlobalAchievementPercentagesForApp/v2/', {
+      params: {
+        key: STEAM_API_KEY,
+        gameid: appId
+      }
+    });
+    
+    if (response.data.achievementpercentages && response.data.achievementpercentages.achievements) {
+      return response.data.achievementpercentages.achievements;
+    }
+    
+    return [];
+  } catch (error) {
+    // Global percentages unavailable
+    return [];
+  }
+}
+
 async function fetchAchievementsForGame(appId, gameName) {
   try {
     await sleep(API_DELAY);
@@ -62,9 +82,14 @@ async function fetchAchievementsForGame(appId, gameName) {
       await sleep(API_DELAY);
       const schemaAchievements = await fetchGameSchema(appId);
       
-      // Merge player progress with schema data
+      // Fetch global achievement percentages
+      await sleep(API_DELAY);
+      const globalPercentages = await fetchGlobalAchievementPercentages(appId);
+      
+      // Merge player progress with schema data and global percentages
       const mergedAchievements = playerAchievements.map(playerAch => {
         const schemaAch = schemaAchievements.find(s => s.name === playerAch.apiname);
+        const globalAch = globalPercentages.find(g => g.name === playerAch.apiname);
         
         // Only add schema fields if schema data was found
         if (schemaAch) {
@@ -73,12 +98,16 @@ async function fetchAchievementsForGame(appId, gameName) {
             displayName: schemaAch.displayName,
             description: schemaAch.description || '',
             icon: playerAch.achieved ? schemaAch.icon : schemaAch.icongray,
-            hidden: schemaAch.hidden || 0
+            hidden: schemaAch.hidden || 0,
+            globalPercent: globalAch ? parseFloat(globalAch.percent) : null
           };
         }
         
         // Return just the player achievement data if no schema found
-        return playerAch;
+        return {
+          ...playerAch,
+          globalPercent: globalAch ? parseFloat(globalAch.percent) : null
+        };
       });
       
       return {
