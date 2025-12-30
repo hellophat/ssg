@@ -8,7 +8,7 @@ async function downloadCovers() {
   console.log('🖼️  Downloading game cover images...');
   
   // Load games list
-  const gamesFile = path.join(process.cwd(), 'history', 'games', 'latest.json');
+  const gamesFile = path.join(process.cwd(), 'site', 'static', 'history', 'games', 'latest.json');
   if (!fs.existsSync(gamesFile)) {
     console.error('❌ Games list not found.');
     process.exit(1);

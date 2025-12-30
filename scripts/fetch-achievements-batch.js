@@ -94,7 +94,7 @@ async function fetchAchievementsBatch() {
   console.log('📥 Fetching achievements in batches...');
   
   // Load games list
-  const gamesFile = path.join(process.cwd(), 'history', 'games', 'latest.json');
+  const gamesFile = path.join(process.cwd(), 'site', 'static', 'history', 'games', 'latest.json');
   if (!fs.existsSync(gamesFile)) {
     console.error('❌ Games list not found. Run fetch-games.js first.');
     process.exit(1);
@@ -104,7 +104,7 @@ async function fetchAchievementsBatch() {
   const games = gamesData.games;
   
   // Create achievements directory
-  const achievementsDir = path.join(process.cwd(), 'history', 'achievements');
+  const achievementsDir = path.join(process.cwd(), 'site', 'static', 'history', 'achievements');
   if (!fs.existsSync(achievementsDir)) {
     fs.mkdirSync(achievementsDir, { recursive: true });
   }

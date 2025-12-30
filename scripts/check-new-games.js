@@ -25,7 +25,7 @@ async function checkNewGames() {
     const currentGames = response.data.response.games || [];
     
     // Load previous games list
-    const gamesFile = path.join(process.cwd(), 'history', 'games', 'latest.json');
+    const gamesFile = path.join(process.cwd(), 'site', 'static', 'history', 'games', 'latest.json');
     if (!fs.existsSync(gamesFile)) {
       console.log('   No previous games data found');
       return;
@@ -52,7 +52,7 @@ async function checkNewGames() {
         fetchedAt: timestamp
       };
       
-      const historyDir = path.join(process.cwd(), 'history', 'games');
+      const historyDir = path.join(process.cwd(), 'site', 'static', 'history', 'games');
       const filename = path.join(historyDir, `${timestamp.split('T')[0]}.json`);
       fs.writeFileSync(filename, JSON.stringify(gamesWithTimestamp, null, 2));
       
@@ -60,7 +60,7 @@ async function checkNewGames() {
       fs.writeFileSync(latestFile, JSON.stringify(gamesWithTimestamp, null, 2));
       
       // Download covers for new games
-      const coversDir = path.join(process.cwd(), 'site', 'public', 'covers');
+      const coversDir = path.join(process.cwd(), 'site', 'static', 'covers');
       for (const game of newGames) {
         try {
           const imageUrl = `https://cdn.cloudflare.steamstatic.com/steam/apps/${game.appid}/library_600x900.jpg`;

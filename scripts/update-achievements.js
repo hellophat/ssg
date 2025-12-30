@@ -33,7 +33,7 @@ async function updateAchievements() {
   console.log('🏆 Updating achievements for active games...');
   
   // Load recent games
-  const recentFile = path.join(process.cwd(), 'history', 'stats', 'recent-latest.json');
+  const recentFile = path.join(process.cwd(), 'site', 'static', 'history', 'stats', 'recent-latest.json');
   if (!fs.existsSync(recentFile)) {
     console.log('   No recent games data found');
     return;
@@ -47,7 +47,7 @@ async function updateAchievements() {
     return;
   }
   
-  const achievementsDir = path.join(process.cwd(), 'history', 'achievements');
+  const achievementsDir = path.join(process.cwd(), 'site', 'static', 'history', 'achievements');
   let updatedCount = 0;
   
   for (const game of recentGames) {

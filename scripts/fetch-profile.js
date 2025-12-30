@@ -32,7 +32,7 @@ async function fetchProfile() {
     const timestamp = new Date().toISOString();
     
     // Create history directory if it doesn't exist
-    const historyDir = path.join(process.cwd(), 'history', 'profile');
+    const historyDir = path.join(process.cwd(), 'site', 'static', 'history', 'profile');
     if (!fs.existsSync(historyDir)) {
       fs.mkdirSync(historyDir, { recursive: true });
     }

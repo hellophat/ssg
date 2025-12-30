@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { base } from '$app/paths';
 	import { page } from '$app/stores';
+	import { goto } from '$app/navigation';
 	import { onMount } from 'svelte';
 	import { browser } from '$app/environment';
 	import type { PageData } from './$types';
@@ -19,15 +20,33 @@
 	
 	// URL parameters - set defaults for SSR
 	let sortParam = $state('playtime');
-	let filterParam = $state('');
+	let searchQuery = $state(''); // Local state for real-time search
+	let previousSearch = $state(''); // Track previous search to detect changes
 	
 	// Update URL parameters in browser
 	if (browser) {
 		$effect(() => {
 			sortParam = $page.url.searchParams.get('sort') || 'playtime';
-			filterParam = $page.url.searchParams.get('filter') || '';
+			// Initialize search from URL only on mount
+			const urlFilter = $page.url.searchParams.get('filter');
+			if (urlFilter && !searchQuery) {
+				searchQuery = urlFilter;
+				previousSearch = urlFilter;
+			}
 		});
 	}
+	
+	// Navigate to page 1 when search changes
+	$effect(() => {
+		if (browser && searchQuery !== previousSearch && currentPage !== 1) {
+			previousSearch = searchQuery;
+			const url = new URL(window.location.href);
+			url.pathname = `${base}/games/1/`;
+			goto(url.pathname + url.search, { replaceState: true, keepFocus: true });
+		} else if (browser && searchQuery !== previousSearch) {
+			previousSearch = searchQuery;
+		}
+	});
 	
 	// Use $derived.by for filtered and sorted games
 	let filteredGames = $derived.by(() => {
@@ -36,9 +55,9 @@
 		let result = [...games];
 		
 		// Apply search filter
-		if (filterParam) {
+		if (searchQuery) {
 			result = result.filter(g => 
-				g.name.toLowerCase().includes(filterParam.toLowerCase())
+				g.name.toLowerCase().includes(searchQuery.toLowerCase())
 			);
 		}
 		
@@ -138,24 +157,7 @@
 			<input 
 				type="text" 
 				placeholder="Search games..." 
-				value={filterParam}
-				oninput={(e) => {
-					// Clear existing timeout
-					if (searchTimeout) {
-						clearTimeout(searchTimeout);
-					}
-					
-					// Set new timeout to update URL after 500ms of no typing
-					searchTimeout = setTimeout(() => {
-						const url = new URL(window.location.href);
-						if (e.currentTarget.value) {
-							url.searchParams.set('filter', e.currentTarget.value);
-						} else {
-							url.searchParams.delete('filter');
-						}
-						window.location.href = url.toString();
-					}, 500);
-				}}
+				bind:value={searchQuery}
 			/>
 		</div>
 		
@@ -177,7 +179,7 @@
 		<div class="loading">Loading games...</div>
 	{:else if paginatedGames.length === 0}
 		<div class="no-results card">
-			<p>No games found{filterParam ? ` matching "${filterParam}"` : ''}.</p>
+			<p>No games found{searchQuery ? ` matching "${searchQuery}"` : ''}.</p>
 		</div>
 	{:else}
 		<div class="games-grid">
@@ -216,7 +218,7 @@
 		{#if totalPages > 1}
 			<div class="pagination">
 				{#if currentPage > 1}
-					<a href="{base}/games/{currentPage - 1}/?sort={sortParam}&filter={filterParam}" class="button">
+					<a href="{base}/games/{currentPage - 1}/?sort={sortParam}" class="button">
 						← Previous
 					</a>
 				{/if}
@@ -226,7 +228,7 @@
 				</span>
 				
 				{#if currentPage < totalPages}
-					<a href="{base}/games/{currentPage + 1}/?sort={sortParam}&filter={filterParam}" class="button">
+					<a href="{base}/games/{currentPage + 1}/?sort={sortParam}" class="button">
 						Next →
 					</a>
 				{/if}

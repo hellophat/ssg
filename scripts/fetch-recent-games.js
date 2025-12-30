@@ -26,7 +26,7 @@ async function fetchRecentGames() {
     const recentGames = response.data.response;
     
     // Create stats directory
-    const statsDir = path.join(process.cwd(), 'history', 'stats');
+    const statsDir = path.join(process.cwd(), 'site', 'static', 'history', 'stats');
     if (!fs.existsSync(statsDir)) {
       fs.mkdirSync(statsDir, { recursive: true });
     }

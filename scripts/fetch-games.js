@@ -35,7 +35,7 @@ async function fetchGames() {
     }
     
     // Create history directory
-    const historyDir = path.join(process.cwd(), 'history', 'games');
+    const historyDir = path.join(process.cwd(), 'site', 'static', 'history', 'games');
     if (!fs.existsSync(historyDir)) {
       fs.mkdirSync(historyDir, { recursive: true });
     }
