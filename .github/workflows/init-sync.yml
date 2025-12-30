@@ -95,7 +95,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add history/ api/ site/public/covers/ .sync-state.json
+          
+          # Add directories that exist
+          git add history/ api/ .sync-state.json
+          [ -d site/public/covers ] && git add site/public/covers/ || echo "covers directory not found, skipping"
           
           if git diff --staged --quiet; then
             echo "No changes to commit"
