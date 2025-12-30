@@ -1,0 +1,97 @@
+name: Steam Data Update
+
+on:
+  schedule:
+    # Run every 30 minutes (unlimited minutes for public repos)
+    - cron: '*/30 * * * *'
+  
+  workflow_dispatch:
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: |
+          npm install js-yaml axios
+      
+      - name: Load configuration
+        id: config
+        run: |
+          node -e "
+          const fs = require('fs');
+          const yaml = require('js-yaml');
+          const config = yaml.load(fs.readFileSync('.steamrc.yml', 'utf8'));
+          console.log('STEAM_ID=' + config.steamId);
+          console.log('API_DELAY=' + config.dataCollection.apiDelay);
+          " >> $GITHUB_OUTPUT
+      
+      - name: Check sync state
+        id: check
+        run: |
+          if [ ! -f .sync-state.json ] || [ "$(jq -r '.completed' .sync-state.json)" != "true" ]; then
+            echo "ERROR=true" >> $GITHUB_OUTPUT
+            echo "⚠️ Initial sync not completed. Please run 'Initial Steam Data Sync' workflow first."
+            exit 1
+          fi
+          echo "ERROR=false" >> $GITHUB_OUTPUT
+      
+      - name: Update profile data
+        run: |
+          node scripts/fetch-profile.js
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ steps.config.outputs.STEAM_ID }}
+      
+      - name: Update recent games
+        run: |
+          node scripts/fetch-recent-games.js
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ steps.config.outputs.STEAM_ID }}
+          API_DELAY: ${{ steps.config.outputs.API_DELAY }}
+      
+      - name: Check for new games
+        run: |
+          node scripts/check-new-games.js
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ steps.config.outputs.STEAM_ID }}
+      
+      - name: Update achievements for active games
+        run: |
+          node scripts/update-achievements.js
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ steps.config.outputs.STEAM_ID }}
+          API_DELAY: ${{ steps.config.outputs.API_DELAY }}
+      
+      - name: Generate API endpoints
+        run: |
+          node scripts/generate-api.js
+      
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add history/ api/ site/public/covers/
+          
+          if git diff --staged --quiet; then
+            echo "No changes detected"
+          else
+            TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M:%S UTC")
+            git commit -m "data: update Steam data - $TIMESTAMP"
+            git push
+          fi

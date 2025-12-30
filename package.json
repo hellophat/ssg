@@ -1,0 +1,29 @@
+{
+  "name": "steam-profile-tracker",
+  "version": "1.0.0",
+  "description": "Steam Profile Static Site Generator using GitHub Actions",
+  "main": "index.js",
+  "scripts": {
+    "sync": "bash scripts/sync-local.sh",
+    "sync:quick": "export $(cat .env | grep -v '^#' | xargs) && node scripts/fetch-profile.js && node scripts/fetch-games.js && node scripts/fetch-recent-games.js && node scripts/generate-api.js",
+    "validate": "bash scripts/validate-config.sh",
+    "reset": "bash scripts/reset-sync.sh",
+    "dev": "cd site && npm run dev",
+    "build": "cd site && npm run build",
+    "preview": "cd site && npm run preview",
+    "setup": "npm install && cd site && npm install && cd .. && cp .env.example .env && echo '\n✅ Setup complete! Edit .env with your credentials, then run: npm run sync'"
+  },
+  "keywords": [
+    "steam",
+    "profile",
+    "static-site",
+    "github-actions",
+    "upptime"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "js-yaml": "^4.1.0"
+  }
+}

@@ -1,0 +1,86 @@
+# Steam Profile Static Site Generator Configuration
+# Based on Upptime architecture - using GitHub Actions as serverless backend
+
+# Your Steam ID (64-bit SteamID)
+# Find yours at: https://steamid.io/
+steamId: "REPLACE_WITH_YOUR_STEAM_ID"
+
+# Steam Web API Key (store actual key in GitHub Secrets as STEAM_API_KEY)
+# Get your key at: https://steamcommunity.com/dev/apikey
+# This value is a reference only - actual key loaded from secrets
+apiKey: ${{ secrets.STEAM_API_KEY }}
+
+# Data collection settings
+dataCollection:
+  # Batch size for achievement fetching (games per batch)
+  batchSize: 10
+  
+  # Delay between batches (milliseconds)
+  batchDelay: 2000
+  
+  # Delay between individual API calls (milliseconds)
+  apiDelay: 500
+
+# Update schedules (cron format)
+schedule:
+  # Incremental updates - check for recent changes
+  incremental: "*/30 * * * *"  # Every 30 minutes
+  
+  # Full profile sync (optional, for data verification)
+  fullSync: "0 0 * * 0"  # Weekly on Sunday at midnight
+
+# Site configuration
+site:
+  # Site name displayed in header
+  name: "My Steam Profile"
+  
+  # Theme options: dark, light, auto
+  theme: "dark"
+  
+  # Pagination settings
+  pagination:
+    gamesPerPage: 30
+    
+  # Default sorting: playtime, name, recent, achievements
+  defaultSort: "playtime"
+  
+  # Features to display
+  features:
+    showFriends: false
+    showRecentActivity: true
+    showAchievements: true
+    showPlaytime: true
+    showBadges: false
+  
+  # Iframe embedding settings
+  iframe:
+    allowEmbedding: true
+    # Allowed origins (empty = all origins)
+    allowedOrigins: []
+
+# Featured/tracked games (optional - for special highlighting)
+# Leave empty to track all games automatically
+trackedGames: []
+  # - appId: 440
+  #   name: "Team Fortress 2"
+  # - appId: 730
+  #   name: "Counter-Strike 2"
+
+# Data retention (set to 0 for indefinite)
+dataRetention:
+  # Keep full history indefinitely
+  historyDays: 0
+  
+  # Maximum cover images to store (0 = unlimited)
+  maxCoverImages: 0
+
+# Advanced settings
+advanced:
+  # Skip games without achievements
+  skipGamesWithoutAchievements: false
+  
+  # Include free to play games
+  includeFreeGames: true
+  
+  # Minimum playtime to include game (minutes)
+  minPlaytime: 0

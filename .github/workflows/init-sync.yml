@@ -1,0 +1,118 @@
+name: Initial Steam Data Sync
+
+on:
+  workflow_dispatch:
+    inputs:
+      force:
+        description: 'Force complete resync (ignore resume state)'
+        required: false
+        default: 'false'
+
+jobs:
+  init-sync:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Install dependencies
+        run: |
+          npm install js-yaml axios
+      
+      - name: Load configuration
+        id: config
+        run: |
+          node -e "
+          const fs = require('fs');
+          const yaml = require('js-yaml');
+          const config = yaml.load(fs.readFileSync('.steamrc.yml', 'utf8'));
+          console.log('STEAM_ID=' + config.steamId);
+          console.log('BATCH_SIZE=' + config.dataCollection.batchSize);
+          console.log('BATCH_DELAY=' + config.dataCollection.batchDelay);
+          console.log('API_DELAY=' + config.dataCollection.apiDelay);
+          " >> $GITHUB_OUTPUT
+      
+      - name: Check resume state
+        id: resume
+        run: |
+          if [ "${{ github.event.inputs.force }}" == "true" ] || [ ! -f .sync-state.json ]; then
+            echo "RESUME=false" >> $GITHUB_OUTPUT
+            echo "LAST_BATCH=0" >> $GITHUB_OUTPUT
+            echo "Starting fresh sync..."
+          else
+            LAST_BATCH=$(jq -r '.lastCompletedBatch // 0' .sync-state.json)
+            echo "RESUME=true" >> $GITHUB_OUTPUT
+            echo "LAST_BATCH=$LAST_BATCH" >> $GITHUB_OUTPUT
+            echo "Resuming from batch $LAST_BATCH..."
+          fi
+      
+      - name: Fetch Steam profile
+        run: |
+          node scripts/fetch-profile.js
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ steps.config.outputs.STEAM_ID }}
+      
+      - name: Fetch owned games list
+        run: |
+          node scripts/fetch-games.js
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ steps.config.outputs.STEAM_ID }}
+      
+      - name: Fetch achievements in batches
+        run: |
+          node scripts/fetch-achievements-batch.js
+        env:
+          STEAM_API_KEY: ${{ secrets.STEAM_API_KEY }}
+          STEAM_ID: ${{ steps.config.outputs.STEAM_ID }}
+          BATCH_SIZE: ${{ steps.config.outputs.BATCH_SIZE }}
+          BATCH_DELAY: ${{ steps.config.outputs.BATCH_DELAY }}
+          API_DELAY: ${{ steps.config.outputs.API_DELAY }}
+          RESUME: ${{ steps.resume.outputs.RESUME }}
+          LAST_BATCH: ${{ steps.resume.outputs.LAST_BATCH }}
+      
+      - name: Download game cover images
+        run: |
+          node scripts/download-covers.js
+        env:
+          STEAM_ID: ${{ steps.config.outputs.STEAM_ID }}
+      
+      - name: Generate API endpoints
+        run: |
+          node scripts/generate-api.js
+      
+      - name: Commit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add history/ api/ site/public/covers/ .sync-state.json
+          
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: initial Steam data sync completed
+            
+            - Profile data updated
+            - Games library synced
+            - Achievements data fetched
+            - Cover images downloaded"
+            git push
+          fi
+      
+      - name: Mark sync complete
+        if: success()
+        run: |
+          echo '{"completed": true, "timestamp": "'$(date -u +%Y-%m-%dT%H:%M:%SZ)'", "lastCompletedBatch": -1}' > .sync-state.json
+          git add .sync-state.json
+          git commit -m "chore: mark initial sync as complete"
+          git push
