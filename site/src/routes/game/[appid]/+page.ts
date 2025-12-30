@@ -4,14 +4,29 @@ import path from 'path';
 
 export const entries: EntryGenerator = () => {
   try {
-    // Load games data to get all app IDs
-    const gamesPath = path.join(process.cwd(), '..', 'history', 'games', 'latest.json');
-    if (!fs.existsSync(gamesPath)) {
+    // Try multiple possible paths for the games data
+    const possiblePaths = [
+      path.join(process.cwd(), '..', 'api', 'games.json'),
+      path.join(process.cwd(), 'static', 'api', 'games.json'),
+      path.join(process.cwd(), '..', '..', 'api', 'games.json'),
+    ];
+    
+    let gamesData = null;
+    for (const gamesPath of possiblePaths) {
+      if (fs.existsSync(gamesPath)) {
+        console.log(`Loading games from: ${gamesPath}`);
+        gamesData = JSON.parse(fs.readFileSync(gamesPath, 'utf8'));
+        break;
+      }
+    }
+    
+    if (!gamesData) {
+      console.warn('No games data found for prerendering game pages');
       return [];
     }
     
-    const gamesData = JSON.parse(fs.readFileSync(gamesPath, 'utf8'));
     const games = gamesData.games || [];
+    console.log(`Found ${games.length} games for prerendering`);
     
     // Generate entries for each game
     return games.map((game: any) => ({ appid: String(game.appid) }));
@@ -21,5 +36,6 @@ export const entries: EntryGenerator = () => {
   }
 };
 
+// Make prerender optional - only prerender if we have data
 export const prerender = true;
 export const trailingSlash = 'always';

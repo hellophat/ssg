@@ -2,6 +2,7 @@
 	import { base } from '$app/paths';
 	import { page } from '$app/stores';
 	import { onMount } from 'svelte';
+	import { browser } from '$app/environment';
 	import type { PageData } from './$types';
 	
 	let { data }: { data: PageData } = $props();
@@ -15,8 +16,18 @@
 	let gamesPerPage = $derived(data?.gamesPerPage || 30);
 	
 	let currentPage = $derived(parseInt($page.params.page) || 1);
-	let sortParam = $derived($page.url.searchParams.get('sort') || 'playtime');
-	let filterParam = $derived($page.url.searchParams.get('filter') || '');
+	
+	// URL parameters - set defaults for SSR
+	let sortParam = $state('playtime');
+	let filterParam = $state('');
+	
+	// Update URL parameters in browser
+	if (browser) {
+		$effect(() => {
+			sortParam = $page.url.searchParams.get('sort') || 'playtime';
+			filterParam = $page.url.searchParams.get('filter') || '';
+		});
+	}
 	
 	// Use $derived.by for filtered and sorted games
 	let filteredGames = $derived.by(() => {

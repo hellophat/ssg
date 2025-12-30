@@ -1,20 +1,25 @@
 <script lang="ts">
-	import { page } from '$app/stores';
 	import { base } from '$app/paths';
 	import { onMount } from 'svelte';
+	import { browser } from '$app/environment';
 	import '../app.css';
 	
 	let { children } = $props();
 	
-	// Get URL parameters for iframe customization
-	let urlTheme = $derived($page.url.searchParams.get('theme'));
-	let compact = $derived($page.url.searchParams.get('compact') === 'true');
-	let hideHeader = $derived($page.url.searchParams.get('hideHeader') === 'true');
+	// URL parameters - only accessible in browser
+	let compact = $state(false);
+	let hideHeader = $state(false);
 	
 	// Theme state with localStorage persistence
 	let theme = $state('dark');
 	
 	onMount(() => {
+		// Get URL parameters (only works in browser)
+		const params = new URLSearchParams(window.location.search);
+		const urlTheme = params.get('theme');
+		compact = params.get('compact') === 'true';
+		hideHeader = params.get('hideHeader') === 'true';
+		
 		// Use URL parameter if provided, otherwise use localStorage or default
 		if (urlTheme) {
 			theme = urlTheme;

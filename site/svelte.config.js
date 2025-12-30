@@ -14,7 +14,7 @@ const config = {
 			assets: 'build',
 			fallback: null,
 			precompress: false,
-			strict: true
+			strict: false  // Allow build without all dynamic routes prerendered (for initial build before data sync)
 		}),
 		paths: {
 			base: process.env.NODE_ENV === 'production' ? '/project_2912' : ''
