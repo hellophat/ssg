@@ -9,7 +9,8 @@
       "displayName": "Seeding",
       "description": "Witnessed the beginning.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/0be2d6dcfb7fe1b06bcf892419b508195ea5aa60.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 56.4
     },
     {
       "apiname": "ACH_FINISH_FOLLOWING_01",
@@ -18,7 +19,8 @@
       "displayName": "Starstruck",
       "description": "Picked up the trail.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/ab388c573ba72d83a8d0a3b00fc62e6f74b0c669.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 42.9
     },
     {
       "apiname": "ACH_FINISH_PRIMORDIAL",
@@ -27,7 +29,8 @@
       "displayName": "Reflection",
       "description": "No more encores.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/a6ad38ee8569b69977bce2e9bfe0014db10ec169.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 37.8
     },
     {
       "apiname": "ACH_FINISH_HUNT",
@@ -36,7 +39,8 @@
       "displayName": "Hunt",
       "description": "Counted a new variable.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/86cf533d353a510f9ecd34549849b399abcc189c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 31.5
     },
     {
       "apiname": "ACH_FINISH_FOLLOWING_02",
@@ -45,7 +49,8 @@
       "displayName": "Gather",
       "description": "Trailed a destructive history.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/4c8e3dfac9653e07b0fc13c5a5a07ee064d39487.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 29.4
     },
     {
       "apiname": "ACH_FINISH_ZEN",
@@ -54,7 +59,8 @@
       "displayName": "Thaw",
       "description": "Mended a misunderstanding.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/a6fe4fd1f8f6b0d57470e0004a5c0cdfbcdd4af8.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 27.9
     },
     {
       "apiname": "ACH_FINISH_JAZZ",
@@ -63,7 +69,8 @@
       "displayName": "Improvisations",
       "description": "A duo discovers harmony.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/dfcc2209c9d618fa9e1b74d74ff4def52cd0d4bd.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 27.2
     },
     {
       "apiname": "ACH_FINISH_MARS",
@@ -72,7 +79,8 @@
       "displayName": "Collision",
       "description": "A solution; a sacrifice.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/aac7328384b2685ee98dac2729af0ce3491f5280.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 25.3
     },
     {
       "apiname": "ACH_FINISH_PIONEER",
@@ -81,7 +89,8 @@
       "displayName": "Voyage",
       "description": "Witnessed the kickstart of an exodus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/e3d44f8e33078882594b79206ddaf7a8131e2d39.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 23.1
     },
     {
       "apiname": "ACH_FINISH_DYSON",
@@ -90,7 +99,8 @@
       "displayName": "Orbiting",
       "description": "Attraction begins and ends.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/d148159faf56dc33cb8d060af229687dd2b0ef69.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 23.5
     },
     {
       "apiname": "ACH_FINISH_BLACKHOLE",
@@ -99,7 +109,8 @@
       "displayName": "Singularity",
       "description": "Third degree burns.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/35454b3cfa7a3aa168369cc95931d80b7619ba8c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 24
     },
     {
       "apiname": "ACH_FINISH_FREEWILL",
@@ -108,7 +119,8 @@
       "displayName": "Free Will",
       "description": "Saw the End.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/d08e2cbf52afc4267ddfdeda24566410404741cc.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 23.4
     },
     {
       "apiname": "ACH_CHOICE_A",
@@ -117,7 +129,8 @@
       "displayName": "Not Alone",
       "description": "No Man is alone.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/9fa8d42750f6cfd643a601a6107ee98147ff31cc.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 18.9
     },
     {
       "apiname": "ACH_CHOICE_B",
@@ -126,7 +139,8 @@
       "displayName": "Alone",
       "description": "No man is alone.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/328f0321b977cbca1c35431f97a521cbf1810bbd.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 19.5
     },
     {
       "apiname": "ACH_FINISH_HUBBLE_01",
@@ -135,7 +149,8 @@
       "displayName": "Surveil",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/89932c93a77be76d4c1607581905925b12543d9d.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 24.7
     },
     {
       "apiname": "ACH_FINISH_HUBBLE_02",
@@ -144,7 +159,8 @@
       "displayName": "Observe",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/b93ccae974414cecaa64100d74c689f57a353e0b.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 20.2
     },
     {
       "apiname": "ACH_FINISH_HUBBLE_03",
@@ -153,9 +169,10 @@
       "displayName": "Reveal",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/fa75ee1b1ea0bddceec153cc4dc9a3a952a90164.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 15.7
     }
   ],
   "success": true,
-  "fetchedAt": "2025-12-30T15:24:28.669Z"
+  "fetchedAt": "2025-12-30T16:53:53.447Z"
 }

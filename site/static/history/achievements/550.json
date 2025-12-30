@@ -9,7 +9,8 @@
       "displayName": "CL0WND",
       "description": "Honk the noses of 10 Clowns.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/9378a26e8de03f3809eb75c835510a2399bd0684.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 9.7
     },
     {
       "apiname": "ACH_INCENDIARY_CLOWN_POSSE",
@@ -18,7 +19,8 @@
       "displayName": "FRIED PIPER",
       "description": "Using a Molotov, burn a Clown leading at least 10 Common Infected. ",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/d00f26828f010c50d2659f83acc2d07db37f716b.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 15.6
     },
     {
       "apiname": "ACH_MELEE_A_CHARGER",
@@ -27,7 +29,8 @@
       "displayName": "LEVEL A CHARGE",
       "description": "Kill a Charger with a melee weapon while they are charging.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/a5a8f254fe307e0d5627103cf7fc2166f9cecbb8.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 8.1
     },
     {
       "apiname": "ACH_KILL_SPITTER_FAST",
@@ -36,7 +39,8 @@
       "displayName": "ACID REFLEX",
       "description": "Kill a Spitter before she is able to spit.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/8d94a8ffcb20fd11de547a6972bcef319fd93bf6.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 66.7
     },
     {
       "apiname": "ACH_FINISH_CAMPAIGN_MELEE_ONLY",
@@ -45,7 +49,8 @@
       "displayName": "CONFEDERACY OF CRUNCHES",
       "description": "Finish a campaign using only melee weapons.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/c66b04d717db3c2a75651d10eb569f80508865f2.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3.5
     },
     {
       "apiname": "ACH_KILL_EVERY_UNCOMMON_INFECTED",
@@ -54,7 +59,8 @@
       "displayName": "CRASS MENAGERIE",
       "description": "Kill one of each Uncommon Infected.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/1921292f1593086aa0dc7d29124e4c0c1119e084.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 39
     },
     {
       "apiname": "ACH_SAVE_PLAYER_FROM_JOCKEY_FAST",
@@ -63,7 +69,8 @@
       "displayName": "A RIDE DENIED",
       "description": "Kill a Jockey within 2 seconds of it jumping on a Survivor.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/b65a6518c0680448e996e2190d1ed6b00ad14935.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 65.2
     },
     {
       "apiname": "ACH_CUT_OFF_HEADS_MELEE",
@@ -72,7 +79,8 @@
       "displayName": "HEAD HONCHO",
       "description": "Decapitate 200 Infected with a melee weapon.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/b63ffc00c2b049188ee91ba9c3ff32c2159f7d04.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 23.6
     },
     {
       "apiname": "ACH_VS_LEAVE_SAFE_ROOM_DEFIB_TEAMMATE",
@@ -81,7 +89,8 @@
       "displayName": "HEARTWARMER",
       "description": "In a Versus round, leave the saferoom to defibrillate a dead teammate.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/5f3d1cc262e72978d76ce4919129ee4a45e492bb.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.6
     },
     {
       "apiname": "ACH_BEAT_CAMPAIGNS_EXPERT_MODE",
@@ -90,7 +99,8 @@
       "displayName": "STILL SOMETHING TO PROVE",
       "description": "Survive all campaigns on Expert.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/9a7e041fa1870c1f23ed3d675f4c37058253c4a8.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 2.1
     },
     {
       "apiname": "ACH_SURVIVE_EXPERT_REALISM",
@@ -99,7 +109,8 @@
       "displayName": "THE REAL DEAL",
       "description": "Survive a campaign on Expert skill with Realism mode enabled.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/046105cc81ca728e67c0d379065bea2ef2ff6658.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 2.5
     },
     {
       "apiname": "ACH_VS_FORM_PARTY_AND_WIN_4V4",
@@ -108,7 +119,8 @@
       "displayName": "STRENGTH IN NUMBERS",
       "description": "Form a team and beat an enemy team in 4v4 Versus or Scavenge.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/e48a5d0d3c51b5d93acec914d13b144228839f0c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.5
     },
     {
       "apiname": "ACH_KILL_SUBMERGED_MUDMEN",
@@ -117,7 +129,8 @@
       "displayName": "DEAD IN THE WATER",
       "description": "Kill 10 swampy Mudmen while they are in the water.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/e0629618e6c3a477592d641ebaf5a5667e1e3e4b.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 16.7
     },
     {
       "apiname": "ACH_COLLECT_CEDA_VIALS",
@@ -126,7 +139,8 @@
       "displayName": "ROBBED ZOMBIE",
       "description": "Collect 10 vials of Boomer vomit from infected CEDA agents you have killed.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/b5876af218d7712bb76072a4f38574d71b477996.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 14.4
     },
     {
       "apiname": "ACH_KILL_ZOMBIES_GRENADE_BLAST",
@@ -135,7 +149,8 @@
       "displayName": "DISMEMBERMENT PLAN",
       "description": "Kill 15 Infected with a single grenade launcher blast.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/97517cdbb479e1483601e7015763c34be40cb030.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 12.2
     },
     {
       "apiname": "ACH_IGNITE_INFECTED_FIRE_AMMO",
@@ -144,7 +159,8 @@
       "displayName": "BURNING SENSATION",
       "description": "Ignite 50 Common Infected with incendiary ammo.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/b34eabc52f4f7838bc278ea589d35769cb9076e7.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 22.6
     },
     {
       "apiname": "ACH_DEPLOY_AMMO_UPGRADE",
@@ -153,7 +169,8 @@
       "displayName": "ARMORY OF ONE",
       "description": "Deploy an ammo upgrade and have your team use it.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/4fc103dcb52ccc748b5bdea66924d1bf5c9e0705.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 51.1
     },
     {
       "apiname": "ACH_RES_SURVIVORS_WITH_DEFIB",
@@ -162,7 +179,8 @@
       "displayName": "SHOCK JOCK",
       "description": "Revive 10 dead Survivors with the defibrillator.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/348a2c5c3a685cf160bb6c8bc645f0c4f446766a.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 5.4
     },
     {
       "apiname": "ACH_SPEED_REVIVE_WITH_ADRENALINE",
@@ -171,7 +189,8 @@
       "displayName": "THE QUICK AND THE DEAD",
       "description": "Revive 10 incapacitated Survivors while under the speed-boosting effects of adrenaline.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/ebc1b3ac888a061b3a6b2d9d7e3a0e55db334b45.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3.9
     },
     {
       "apiname": "ACH_KILL_INFECTED_WITH_CHAINSAW",
@@ -180,7 +199,8 @@
       "displayName": "CHAIN OF COMMAND",
       "description": "Kill 100 Common Infected with the chainsaw.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/36f24c393d869cdeb65145cf6bbb7f55dff865c4.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 25.5
     },
     {
       "apiname": "ACH_BILE_A_TANK",
@@ -189,7 +209,8 @@
       "displayName": "SEPTIC TANK",
       "description": "Use a bile bomb on a Tank.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/31505f883ee5fd9e3b9548d882c2247e4bc6251b.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 32.6
     },
     {
       "apiname": "ACH_KILL_WITH_EVERY_MELEE",
@@ -198,7 +219,8 @@
       "displayName": "CLUB DEAD",
       "description": "Use every melee weapon to kill Common Infected.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/518dbce4fed3b4dd422fad3bae8b3cdc137d4de3.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 18.3
     },
     {
       "apiname": "ACH_KILL_TANK_MELEE_ONLY",
@@ -207,7 +229,8 @@
       "displayName": "TANK BURGER",
       "description": "Kill a Tank with melee weapons.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/81e782a537cafe94e13e6405a993244da4de0a4e.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 8.2
     },
     {
       "apiname": "ACH_BRIDGE_TIMED_RUN",
@@ -216,7 +239,8 @@
       "displayName": "BRIDGE OVER TREBLED SLAUGHTER",
       "description": "Cross the bridge finale in less than three minutes.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/303cb6ac4cbaf3c3a344906d0304d8647f0f3de0.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 4.3
     },
     {
       "apiname": "ACH_SURVIVE_MALL",
@@ -225,7 +249,8 @@
       "displayName": "PRICE CHOPPER",
       "description": "Survive the Dead Center campaign.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/e31d5069b2f3a7a416e71e9a717831952cdfb48e.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 40.6
     },
     {
       "apiname": "ACH_SURVIVE_ROAD",
@@ -234,7 +259,8 @@
       "displayName": "MIDNIGHT RIDER",
       "description": "Survive the Dark Carnival campaign.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/9bbbf3144ae6bac3a2594b0e2b66677c30165ad9.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 27.1
     },
     {
       "apiname": "ACH_SURVIVE_SWAMP",
@@ -243,7 +269,8 @@
       "displayName": "RAGIN' CAJUN",
       "description": "Survive the Swamp Fever campaign.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/dc3be052184ddfaa16373ce0604a46803eb33c3f.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 20.3
     },
     {
       "apiname": "ACH_SURVIVE_TOWN",
@@ -252,7 +279,8 @@
       "displayName": "WEATHERMAN",
       "description": "Survive the Hard Rain campaign.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/cca4162f272aa5aa3315f3858c32164fd97771a0.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 22.4
     },
     {
       "apiname": "ACH_SURVIVE_BRIDGE",
@@ -261,7 +289,8 @@
       "displayName": "BRIDGE BURNER",
       "description": "Survive the Parish campaign.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/38a5a14ced1db48e96fcb8758f3c98a806dcee90.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 20.4
     },
     {
       "apiname": "ACH_IMPOUND_LOT_NO_ALARMS",
@@ -270,7 +299,8 @@
       "displayName": "VIOLENCE IN SILENCE",
       "description": "Navigate the impound lot and reach the cemetery safe room without tripping any alarms.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/888e93e7f6e215ddef463fd55ef98e8ef7c37769.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 9
     },
     {
       "apiname": "ACH_GNOME_RESCUE",
@@ -279,7 +309,8 @@
       "displayName": "GUARDIN' GNOME",
       "description": "Rescue Gnome Chompski from the Carnival.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/7dfc0811aae1efb9271fb9de7314b53dcf0064c7.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 6.2
     },
     {
       "apiname": "ACH_WITCH_TOWN_NO_WITCH_KILLS",
@@ -288,7 +319,8 @@
       "displayName": "SOB STORY",
       "description": "Navigate the sugar mill and reach the safe room without killing any Witches.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/566c8f757acf3ed786f08a5919dd5349ecbbe143.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 6.3
     },
     {
       "apiname": "ACH_AIRLINE_FINALE_NO_DAMAGE",
@@ -297,7 +329,8 @@
       "displayName": "WING AND A PRAYER",
       "description": "Defend yourself at the crashed airliner without taking damage.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/da5f8409c6ab2ba90707d2347374ac3c6884a465.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 4.3
     },
     {
       "apiname": "ACH_VS_JOCKEY_LONG_RIDE",
@@ -306,7 +339,8 @@
       "displayName": "QUALIFIED RIDE",
       "description": "As the Jockey, ride a Survivor for more than 12 seconds.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/7b5d3f04d803da4bbfc581d60a4e7b1f17a9211b.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 15.1
     },
     {
       "apiname": "ACH_VS_JOCKEY_TWO_PLAYERS",
@@ -315,7 +349,8 @@
       "displayName": "BACK IN THE SADDLE",
       "description": "As the Jockey, ride the Survivors twice in a single life.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/429faf4b747738e71b46e0d352e9683dad019f33.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 14.3
     },
     {
       "apiname": "ACH_VS_JOCKEY_INTO_ACID",
@@ -324,7 +359,8 @@
       "displayName": "RODE HARD, PUT AWAY WET",
       "description": "As the Jockey, ride a Survivor and steer them into a Spitter's acid patch.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/91ae62212f163f234cc3589f9828cc3cf8a79045.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 12.3
     },
     {
       "apiname": "ACH_VS_SPIT_ON_ENEMY_TEAM",
@@ -333,7 +369,8 @@
       "displayName": "GREAT EXPECTORATIONS",
       "description": "As the Spitter, hit every Survivor with a single acid patch.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/77a1d314937d5dab636ca619943d80b94c694885.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 18.3
     },
     {
       "apiname": "ACH_VS_SPIT_ON_SMOKERED_PLAYER",
@@ -342,7 +379,8 @@
       "displayName": "A SPITTLE HELP FROM MY FRIENDS",
       "description": "As the Spitter, spit on a Survivor being choked by a Smoker.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/d39e951ece9d695b3607957b204d153fa933fb36.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 10
     },
     {
       "apiname": "ACH_VS_BOWL_ENEMY_TEAM",
@@ -351,7 +389,8 @@
       "displayName": "SCATTERING RAM",
       "description": "As the Charger, bowl through the entire enemy team in a single charge.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/8684fd523b07209a305217050caf38914bb63951.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 7.6
     },
     {
       "apiname": "ACH_VS_CHARGER_GROUND_SMASH",
@@ -360,7 +399,8 @@
       "displayName": "MEAT TENDERIZER",
       "description": "As the Charger, grab a Survivor and smash them into the ground for a solid 15 seconds.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/436d93a95a0a8f38193f28d892134d6407a9a6ee.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 12.8
     },
     {
       "apiname": "ACH_VS_CHARGER_LONG_CARRY",
@@ -369,7 +409,8 @@
       "displayName": "LONG DISTANCE CARRIER",
       "description": "As the Charger, grab a Survivor and carry them over 80 feet.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/dbee4967cde609341c33dcb0fe1dc117ab2699c4.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 9.7
     },
     {
       "apiname": "ACH_SURVIVAL_GET_MEDAL_MELEE_ONLY",
@@ -378,7 +419,8 @@
       "displayName": "BEAT THE RUSH",
       "description": "In a Survival round, get a medal only using melee weapons.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/8532f1ca6af161f2b64559edaa998a1c574fe1bb.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.9
     },
     {
       "apiname": "ACH_SCAVENGE_WIN_A_GAME",
@@ -387,7 +429,8 @@
       "displayName": "HUNTING PARTY",
       "description": "Win a game of Scavenge.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/70e0b8b2610f285d705567a4bf73510da2dc6165.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 5.5
     },
     {
       "apiname": "ACH_SCAVENGE_COLLECT_CAN_GRIND",
@@ -396,7 +439,8 @@
       "displayName": "GAS GUZZLER",
       "description": "Collect 100 gas cans in Scavenge.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/9f324dbd8188c56a55f777ba757d41360ae8e645.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 2
     },
     {
       "apiname": "ACH_SCAVENGE_COLLECT_ALL_CANS",
@@ -405,7 +449,8 @@
       "displayName": "CACHE AND CARRY",
       "description": "Collect 15 gas cans in a single Scavenge round.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/a934ffb345e9bd1de18449b03a3bc9fc7bad31a1.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 4.3
     },
     {
       "apiname": "ACH_SCAVENGE_SHUT_OUT",
@@ -414,7 +459,8 @@
       "displayName": "SCAVENGE HUNT",
       "description": "Stop the enemy team from collecting any gas cans during a Scavenge round.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/47a8c19257d34aee139890c81e774d924eeb53bb.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 5.2
     },
     {
       "apiname": "ACH_STRONGMAN_GAME",
@@ -423,7 +469,8 @@
       "displayName": "GONG SHOW",
       "description": "Prove you are stronger than Moustachio.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/1012628842f3bfbb47163c395a50f5ae2ca9bfec.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 4.6
     },
     {
       "apiname": "ACH_SCAVENGE_MAKE_SURVIVOR_DROP_CAN",
@@ -432,7 +479,8 @@
       "displayName": "FUEL CRISIS",
       "description": "Make a Survivor drop a gas can during overtime.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/8ca3f9aba07ab0236e4d77e05173d74bcfc15abe.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3
     },
     {
       "apiname": "ACH_SCAVENGE_CAN_DROP_GRIND",
@@ -441,7 +489,8 @@
       "displayName": "GAS SHORTAGE",
       "description": "Cause 25 gas can drops as a Special Infected.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/ef81c1dc25148d8269a078277dced1918195b40a.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.8
     },
     {
       "apiname": "ACH_STASH_WHACKER",
@@ -450,7 +499,8 @@
       "displayName": "STACHE WHACKER",
       "description": "Prove you are faster than Moustachio.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/b8c5628cf9dedf46322b725712495062a1c49902.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 5
     },
     {
       "apiname": "ACH_SURVIVE_THE_PASSING",
@@ -459,7 +509,8 @@
       "displayName": "TORCH BEARER",
       "description": "Survive The Passing Campaign.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/b1daa342fcd4499719c7882815c6dbf7fd1f3a2f.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 29.9
     },
     {
       "apiname": "ACH_VS_CHARGE_THROUGH_CHAIRS",
@@ -468,7 +519,8 @@
       "displayName": "WEDDING CRASHER",
       "description": "As the Charger, grab a Survivor and crash them through 8 chairs at the wedding.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/510442a1246290fd30488b05eb26c21165710787.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.5
     },
     {
       "apiname": "ACH_KILLS_WITH_M60",
@@ -477,7 +529,8 @@
       "displayName": "TIL IT GOES CLICK",
       "description": "Using the M60, kill 25 infected without letting go of the trigger.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/02fbc8d22d2b34f696c2106dd4d104bf67e99ceb.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 6.4
     },
     {
       "apiname": "ACH_SCAVENGE_FALLEN_SURVIVOR",
@@ -486,7 +539,8 @@
       "displayName": "GRAVE ROBBER",
       "description": "Collect 10 items dropped by a Fallen Survivor.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/b2038cfd740e403ea9970fe1db94a5a0a62d8749.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 14.9
     },
     {
       "apiname": "ACH_COMPLETE_CHALLENGE_MODES",
@@ -495,7 +549,8 @@
       "displayName": "MUTANT OVERLORD",
       "description": "Play 6 Mutations.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/50991a2f68a521900b113fef4d1d67afa7803ca0.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3.3
     },
     {
       "apiname": "ACH_HEADS_WITH_GOLF_CLUB",
@@ -504,7 +559,8 @@
       "displayName": "FORE!",
       "description": "Knock off the heads of 18 infected with the golf club.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/9ec2df90465cf011994de77cdb60d6514cba1835.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 11.8
     },
     {
       "apiname": "ACH_HEAR_BALLAD",
@@ -513,7 +569,8 @@
       "displayName": "KILLING THEM SWIFTLY TO THIS SONG",
       "description": "Play the new Midnight Riders song on a jukebox.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/59513aa9a47fedbbdeccc6fb014edbefe9f6fbff.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 10.9
     },
     {
       "apiname": "ACH_KILL_TANK_L4D1_ONLY",
@@ -522,7 +579,8 @@
       "displayName": "KITE LIKE A MAN",
       "description": "Kill a Tank only with damage from the original Survivors.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/0bb983bce633848cf075b610890f16f8ef2d52cb.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 11.4
     },
     {
       "apiname": "ACH_OPEN_FOOT_LOCKERS",
@@ -531,7 +589,8 @@
       "displayName": "CACHE GRAB",
       "description": "Open 5 foot lockers.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/5ced11d4115529a48db5e2d7d58e2ef0e50b9260.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 12
     },
     {
       "apiname": "ACH_SCAVENGE_PLAY_C6_FINALE",
@@ -540,7 +599,8 @@
       "displayName": "PORT OF SCAVENGE",
       "description": "Play 5 full games of Scavenge on The Port.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/70ce71c534ae0575e1a3737c47bbbef016a40770.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.6
     },
     {
       "apiname": "ACH_COMPLETE_THE_SACRIFICE",
@@ -549,7 +609,8 @@
       "displayName": "SUPREME SACRIFICE",
       "description": "Complete \"The Sacrifice\".",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/435148df231e7cc00e1d53a71b146be63533b1c9.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 20.3
     },
     {
       "apiname": "ACH_SACRIFICE_BILL",
@@ -558,7 +619,8 @@
       "displayName": "KILL BILL",
       "description": "Have Bill sacrifice himself for the team.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/1266047f89bdf0ad35fb2a02e40cc94315568a60.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 14.3
     },
     {
       "apiname": "ACH_KILL_SPECIAL_WITH_BARREL",
@@ -567,7 +629,8 @@
       "displayName": "BARREL ROLLED",
       "description": "Kill a Special Infected with an exploding barrel.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/5412a8db6f4d558e340f2e14ae6a246192b88587.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 5.9
     },
     {
       "apiname": "ACH_RUN_ALL_GENERATORS",
@@ -576,7 +639,8 @@
       "displayName": "CHAOS GENERATOR",
       "description": "Have all 3 generators running at once in \"The Sacrifice\" finale.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/5cf4780254b105605a53455faf1597a3efa3bdae.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 6
     },
     {
       "apiname": "ACH_VS_PREVENT_SACRIFICE",
@@ -585,7 +649,8 @@
       "displayName": "SACRIFIZZLE",
       "description": "As a Special Infected, incap someone who is trying to sacrifice themselves.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/20e52c5627b61e1c19f4f2d396484636f255e499.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.5
     },
     {
       "apiname": "ACH_SURVIVE_COLD_STREAM",
@@ -594,7 +659,8 @@
       "displayName": "STREAM CROSSER",
       "description": "Survive the Cold Stream campaign on any difficulty.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/b4d05a3011db6b1029fce2bd38d4f3a0c1489541.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 15.5
     },
     {
       "apiname": "ACH_VS_COMPLETE_DEAD_AIR",
@@ -603,7 +669,8 @@
       "displayName": "CONNECTING FIGHTS",
       "description": "Play a Versus game on Dead Air from start to finish.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/a46ab0da59df4d43ae686d116f7de82736ced05a.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3.7
     },
     {
       "apiname": "ACH_COLLECT_HOLIDAY_GIFTS",
@@ -612,7 +679,8 @@
       "displayName": "Valve Gift Grab 2011 – L4D2",
       "description": "Collect three gifts dropped by Special Infected in Versus Mode.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/bbdbc3e9dde37cf3e5dacc5b38e6c30f9e7410dd.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 7.2
     },
     {
       "apiname": "ACH_HELP_FREE_PLAYER_SURVIVE",
@@ -621,7 +689,8 @@
       "displayName": "GOOD GUY NICK",
       "description": "Plays games with free weekend players and helps them survive a campaign.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/658c9a9f51dc71aa3e678ed68612f551c638a7ff.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 2.2
     },
     {
       "apiname": "ACH_HELP_FREE_CHRISTMAS_PLAYER_SURVIVE",
@@ -630,7 +699,8 @@
       "displayName": "GHOST OF CHRISTMAS PRESENT",
       "description": "Spread cheer by helping a free holiday player survive a campaign.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/51ce55eee8954b91bb30f6a26ae4512908c574ea.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 10.5
     },
     {
       "apiname": "ACH_SURVIVAL_BRONZE_MEDAL",
@@ -639,7 +709,8 @@
       "displayName": "GETTING STARTED",
       "description": "Earn a bronze medal on any official Survival map.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/a7a999f5cb7f46e7b6e5a1f5da45b2ba07642e9c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 10.5
     },
     {
       "apiname": "ACH_SURVIVAL_SILVER_MEDAL",
@@ -648,7 +719,8 @@
       "displayName": "ON OUR WAY",
       "description": "Earn a silver medal on any official survival map.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/922e2fd799fcb7029d0dd1d087e18cfab0a3961c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 4.9
     },
     {
       "apiname": "ACH_SURVIVAL_GOLD_MEDAL",
@@ -657,7 +729,8 @@
       "displayName": "THIS IS WHERE THE FUN BEGINS",
       "description": "Earn a gold medal on any official survival map.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/cafabf6f24c0d0ea4c4e11cb3104384f1dbf9c1d.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3.5
     },
     {
       "apiname": "ACH_SURVIVE_LIGHTHOUSE",
@@ -666,7 +739,8 @@
       "displayName": "STILL STANDING",
       "description": "Survive The Last Stand campaign on any difficulty.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/18c8b3ed140bb6b08cc1eb20fdd36881e0fb610e.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 11.6
     },
     {
       "apiname": "ACH_SURVIVE_LIGHTHOUSE_EXPERT_REALISM",
@@ -675,7 +749,8 @@
       "displayName": "THE LAST FRONTIER",
       "description": "Survive The Last Stand campaign on Expert Realism.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/1afe2388653842e1439978f753d05c76c1105cb9.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 0.9
     },
     {
       "apiname": "ACH_COLLECT_GOLDEN_CROWBARS",
@@ -684,7 +759,8 @@
       "displayName": "GOLDEN FREEMAN",
       "description": "Find the golden crowbars hidden in the Left 4 Dead 1 survival maps.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/88b7f16db20a30832542275169b17e53cf2b27b7.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 0.9
     },
     {
       "apiname": "ACH_REVIVE_WITH_ACTIVE_TANK",
@@ -693,7 +769,8 @@
       "displayName": "ELEPHANT IN THE ROOM",
       "description": "Revive an incapacitated teammate while a Tank is nearby.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/6b4a0772e54be50ff072b8ff2fc55047221fadda.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 32.5
     },
     {
       "apiname": "ACH_VS_SPIT_ON_CHARGED_PLAYER",
@@ -702,7 +779,8 @@
       "displayName": "I SPIT ON YOUR GRAVE",
       "description": "As the Spitter, spit on a Survivor who is pinned by a Charger.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/382ae9b917d7b8f159b096a95ec7afdb837f8d8e.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 4.9
     },
     {
       "apiname": "ACH_VS_SPIT_ON_POUNCED_PLAYER",
@@ -711,7 +789,8 @@
       "displayName": "ACID BATH",
       "description": "As the Spitter, spit on a Survivor who is pinned by a Hunter.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/61ac1f1d4b3614931b8b693f5c8a92f1dc49cd46.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 6.2
     },
     {
       "apiname": "ACH_VS_SPIT_ON_GAS_CANS",
@@ -720,7 +799,8 @@
       "displayName": "SPITFIRE",
       "description": "Destroy 20 gascans as the Spitter.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/36ed626b2fc17ef0684aacbe384bf0cb9b9e2bb3.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 0.9
     },
     {
       "apiname": "ACH_VS_CHARGER_INSTANT_KILL",
@@ -729,7 +809,8 @@
       "displayName": "FLIGHT DECK",
       "description": "Instantly kill a Survivor as the Charger.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/11a78d271f87a5547bf4a066dd79b1cee0666950.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3.6
     },
     {
       "apiname": "ACH_VS_BILE_PLAYER_NO_LINE_OF_SIGHT",
@@ -738,7 +819,8 @@
       "displayName": "FAT NINJA",
       "description": "As the Boomer, vomit on a Survivor without having direct line of sight with them.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/0bb5086eab6aca60ef02324d369ed37477e3159a.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 7.2
     },
     {
       "apiname": "ACH_RESCUE_X_PLAYERS_TOGETHER",
@@ -747,7 +829,8 @@
       "displayName": "THREE’S A CROWD",
       "description": "Rescue three Survivors from a single rescue closet.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/a5da96eadf5538d65e2d79137e77e174f1e8ba28.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3
     },
     {
       "apiname": "ACH_FREE_SELF_FROM_SMOKER_WITH_MELEE",
@@ -756,7 +839,8 @@
       "displayName": "LICKETY-SPLIT",
       "description": "With a sharp melee weapon, cut a Smoker's tongue before he ensnares you.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/0be073a9fee4fcc8cc62f5fc153ff15738571be7.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 10.7
     },
     {
       "apiname": "ACH_KILL_LEAPING_HUNTER_WITH_SHOTGUN",
@@ -765,7 +849,8 @@
       "displayName": "GET SKEETED ON",
       "description": "Kill a pouncing Hunter with a shotgun.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/6161ecba6f9911a4294542b0b70ea9b257448214.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 16.2
     },
     {
       "apiname": "ACH_DESTROY_TANK_ROCK",
@@ -774,7 +859,8 @@
       "displayName": "ROCKY HORROR PICTURE THROW",
       "description": "Destroy a Tank's rock in mid-air.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/01ecdccc2cb06b99c2319ec44f13b42bb77fe5a3.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 15.5
     },
     {
       "apiname": "ACH_ONE_SHOT_KILL_WITCH_BRIDE",
@@ -783,7 +869,8 @@
       "displayName": "SHOTGUN WEDDING",
       "description": "Kill the Witch bride with a single shotgun blast on expert difficulty.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/925c1a7903eb6d2b4021edd16de7d14172fda0e9.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.1
     },
     {
       "apiname": "ACH_CAUSE_X_POUNCE_DAMAGE",
@@ -792,7 +879,8 @@
       "displayName": "ONE HIT WONDER",
       "description": "As the Hunter, land a 25 damage pounce.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/8a49c7c174079cee72b5ad1f390fcaf890f71394.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.4
     },
     {
       "apiname": "ACH_KILL_X_JOCKEYS_WITH_MELEE",
@@ -801,7 +889,8 @@
       "displayName": "PURE SATISFACTION",
       "description": "Kill 20 Jockeys with the shovel or pitchfork.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/68207eccf5d4a9525aaa8f9c05aa6e77dad96c40.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.1
     },
     {
       "apiname": "ACH_SURVIVAL_VERSUS_X_MINUTES",
@@ -810,7 +899,8 @@
       "displayName": "THE BIG TEN",
       "description": "Survive for 10 minutes on any official map in Versus Survival.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/74f4e88e469fc821c1f7e848f2c5027fb0369fac.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 0.7
     },
     {
       "apiname": "ACH_KILL_X_INFECTED_LIFETIME",
@@ -819,7 +909,8 @@
       "displayName": "Z-GENOCIDEST 2: EPISODE 2",
       "description": "Kill 53,599 infected. You made sure the dead won't rise anymore!",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/1d04a88cdc2b6127e61fe8e9d5c9003b93b800b0.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 2.1
     },
     {
       "apiname": "ACH_ESCAPE_MALL_FINALE_NO_TANKS",
@@ -828,7 +919,8 @@
       "displayName": "POLE POSITION",
       "description": "Escape Liberty Mall's Atrium before the first Tank appears",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/15e1ea2a7c93d0ff33c50e3c7b96b9b20f509406.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3.4
     },
     {
       "apiname": "ACH_FIND_LIGHTHOUSE_HIDDEN_ROOM",
@@ -837,7 +929,8 @@
       "displayName": "HOUSEHOLD NAMES",
       "description": "Discover the hidden room in the Last Stand campaign",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/1ecf194116d97fc4a62237a97a4a63b6459b50e9.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 2.8
     },
     {
       "apiname": "ACH_EARN_ALL_BRONZE_MEDALS",
@@ -846,7 +939,8 @@
       "displayName": "A LITTLE HACK AND SLASH",
       "description": "Earn a bronze medal on every official survival map",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/2781856e3a5b64a75d352b21aae525c74ff5e154.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 0.7
     },
     {
       "apiname": "ACH_EARN_ALL_SILVER_MEDALS",
@@ -855,7 +949,8 @@
       "displayName": "LIKE LAMBS TO THE SLAUGHTER",
       "description": "Earn a silver medal on every official survival map.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/b77ed613ec89d5e1876c676af5a702e4cd131e73.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 0.6
     },
     {
       "apiname": "ACH_EARN_ALL_GOLD_MEDALS",
@@ -864,7 +959,8 @@
       "displayName": "KILLING SPREE",
       "description": "Earn a gold medal on every official survival map.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/3fce00be55ee795222f685a6fbee817d905ce960.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 0.6
     },
     {
       "apiname": "ACH_SURVIVAL_X_MINUTES",
@@ -873,7 +969,8 @@
       "displayName": "SUPREME SURVIVALIST",
       "description": "Survive for 30 minutes on any official survival map.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/6909181b4b82886de3888529e303ebedaaa871ce.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1.1
     },
     {
       "apiname": "ACH_KILL_WITCH_MELEE_ONLY",
@@ -882,7 +979,8 @@
       "displayName": "NEW HAIRCUT",
       "description": "Kill a Witch using only a sharp melee weapon, without anyone getting incapacitated or killed.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/e720e32c3454cf2259f3aa4c9a54109438d28ba4.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 5.2
     },
     {
       "apiname": "ACH_CONCERT_FINALE_DONT_LEAVE_STAGE",
@@ -891,7 +989,8 @@
       "displayName": "THE MAIN ATTRACTION",
       "description": "On the concert finale, survive until the helicopter arrives without leaving the stage",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/f87e5d53c8cd96b65ef44e2f83c74c21504112ea.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 2.1
     },
     {
       "apiname": "ACH_LAST_STAND_TIMED",
@@ -900,7 +999,8 @@
       "displayName": "THE LAST DASH",
       "description": "Complete The Last Stand campaign in 13 minutes or less, without any Survivors dying.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/d5dd14619fba41273b8eeddabc308b00caa47bdc.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 1
     },
     {
       "apiname": "GLOBAL_GNOME_ALONE",
@@ -909,9 +1009,10 @@
       "displayName": "GNOME ALONE",
       "description": "If you are reading this achievement, Gabe Newell has successfully launched Gnome Chompski into space.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/550/81522571f3f42048be3e9985a05f7206f7d35e5e.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 67.7
     }
   ],
   "success": true,
-  "fetchedAt": "2025-12-30T15:24:18.895Z"
+  "fetchedAt": "2025-12-30T16:53:37.778Z"
 }

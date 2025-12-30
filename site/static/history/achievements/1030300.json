@@ -9,7 +9,8 @@
       "displayName": "Equipped",
       "description": "Acquire your first Tool",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/42d64a86bb4d50c2574612892ccdde465a020a54.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 91.1
     },
     {
       "apiname": "ALL_TOOLS",
@@ -18,7 +19,8 @@
       "displayName": "Arsenal",
       "description": "Acquire all Tools",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/690e5d5768fad49f0f6f5dbc0ea803429030173f.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 20
     },
     {
       "apiname": "FIRST_SILK_SKILL",
@@ -27,7 +29,8 @@
       "displayName": "Bound",
       "description": "Bind your first Silk Skill",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a34b4da6c1652ec31603b82de0e983173917b2ad.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 88.8
     },
     {
       "apiname": "ALL_SILK_SKILLS",
@@ -36,7 +39,8 @@
       "displayName": "Woven",
       "description": "Bind all Silk Skills",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/711c759ff9066ed10c39f3075d169f6970fe670f.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 28.7
     },
     {
       "apiname": "FIRST_CREST",
@@ -45,7 +49,8 @@
       "displayName": "Claimed",
       "description": "Claim your first Crest",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/78a69856138d377fe00fd3c988960f795391fb5c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 72
     },
     {
       "apiname": "ALL_CRESTS",
@@ -54,7 +59,8 @@
       "displayName": "Consumed",
       "description": "Claim all Crests",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/8868a841d9f6cda1174a3e0c9337920cd6b6996b.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 29.8
     },
     {
       "apiname": "FIRST_MASK",
@@ -63,7 +69,8 @@
       "displayName": "Protected",
       "description": "Acquire 4 Mask Shards",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/25e4cf2ca80fc6fab8695433378aada8f4efbe03.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 63.3
     },
     {
       "apiname": "ALL_MASKS",
@@ -72,7 +79,8 @@
       "displayName": "Masked",
       "description": "Acquire all Mask Shards",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7916677f494071e74ab6f845cb778a0baaf65fd5.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 21.9
     },
     {
       "apiname": "FIRST_SILK_SPOOL",
@@ -81,7 +89,8 @@
       "displayName": "Restored",
       "description": "Acquire 2 Spool Fragments",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/5c23c27ee2ca186fa35ac7e74fd027dd3507f834.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 67.2
     },
     {
       "apiname": "ALL_SILK_SPOOLS",
@@ -90,7 +99,8 @@
       "displayName": "Extended",
       "description": "Acquire all Spool Fragments",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/4184fc8dc89d930ce040c4484745f156f9bbc108.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 22.5
     },
     {
       "apiname": "ALL_SILK_HEARTS",
@@ -99,7 +109,8 @@
       "displayName": "Regenerated",
       "description": "Acquire all Silk Hearts",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/1148e53d5794f5e5666c5bc2e0a8f82e2be93e2e.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 32.6
     },
     {
       "apiname": "ALL_MAPS",
@@ -108,7 +119,8 @@
       "displayName": "Cartographer",
       "description": "Acquire a map of each area",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/5274283d871a3a1726a2db9710eb4093631de268.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 28
     },
     {
       "apiname": "BELLWAYS_FULL",
@@ -117,7 +129,8 @@
       "displayName": "Connected",
       "description": "Open all of Pharloom's Bellways",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/22af3edce928bb5e213d5db3ef03e5a7bf6be9d5.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 43.1
     },
     {
       "apiname": "BELLWAY_MELODY",
@@ -126,7 +139,8 @@
       "displayName": "Bonded",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/6edbccd7149e1ee90f5345f9fdb1d8ae81ef06fe.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 37.6
     },
     {
       "apiname": "TUBES_FULL",
@@ -135,7 +149,8 @@
       "displayName": "Transported",
       "description": "Open all of the Citadel's Ventrica Stations",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/797f04d75564c683ed7fa51ac6b66e922a2ad84f.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 45
     },
     {
       "apiname": "JOURNAL_HALF",
@@ -144,7 +159,8 @@
       "displayName": "Keen Hunter",
       "description": "Grant Nuu's wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/43386e420aedc8ed92ef286c4b7ccabc91b6a9f4.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 54.2
     },
     {
       "apiname": "JOURNAL_FULL",
@@ -153,7 +169,8 @@
       "displayName": "True Hunter",
       "description": "Receive the Hunter's Memento",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/1122afd1b4baa0facaa5032a98deb78f86a88135.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 8.4
     },
     {
       "apiname": "FLEAS_HALF",
@@ -162,7 +179,8 @@
       "displayName": "Flea Finder",
       "description": "Rescue half of Pharloom's lost fleas",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/981a17e1f83061b2dd64724b1b9bb6a3bb8de471.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 50.2
     },
     {
       "apiname": "FLEAS_ALL",
@@ -171,7 +189,8 @@
       "displayName": "Fleafriend",
       "description": "Rescue all of Pharloom's lost fleas and receive their final gift",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/85d79e525987607b323cb7ba2f1177c70d921d84.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 33.9
     },
     {
       "apiname": "DEFEATED_BELLBEAST",
@@ -180,7 +199,8 @@
       "displayName": "Liberated",
       "description": "Defeat the Bell Beast",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a3806725642c2918243b8db87d3e99a49e1f16e4.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 86.9
     },
     {
       "apiname": "DEFEATED_LACE_1",
@@ -189,7 +209,8 @@
       "displayName": "Pharloom's Welcome",
       "description": "Defeat Lace in Deep Docks",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/3851723da35a65dae364366513aaa32297ccb537.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 78.4
     },
     {
       "apiname": "DEFEATED_SONG_GOLEM",
@@ -198,7 +219,8 @@
       "displayName": "Servant",
       "description": "Defeat Fourth Chorus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/62d9be89e0362b89d4e63632cb00c4584970c098.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 76.3
     },
     {
       "apiname": "DEFEATED_WIDOW",
@@ -207,7 +229,8 @@
       "displayName": "Fanatic",
       "description": "Defeat Widow",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/27d60711d57bc5e263ba787f731be7fc5d8b17c7.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 65.8
     },
     {
       "apiname": "DEFEATED_LAST_JUDGE_1",
@@ -216,7 +239,8 @@
       "displayName": "Judge",
       "description": "Defeat the Last Judge",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/c9adb431ea87c9912d58166bde7acbf9c52c8659.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 59.8
     },
     {
       "apiname": "DEFEATED_COGWORK_DANCERS",
@@ -225,7 +249,8 @@
       "displayName": "Last Dance",
       "description": "Defeat the Cogwork Dancers",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7f8569d8a92aa94317ca9500d3ce0956d1ab3fb5.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 57.3
     },
     {
       "apiname": "DEFEATED_TROBBIO",
@@ -234,7 +259,8 @@
       "displayName": "Tragedian",
       "description": "Defeat Trobbio",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/1b40a2e64093d4fa38218d61e0980970ac143b80.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 51.4
     },
     {
       "apiname": "DEFEATED_LACE_2",
@@ -243,7 +269,8 @@
       "displayName": "White Knight",
       "description": "Defeat Lace in the Cradle",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/150935e5e3a5b1000e83032829a693f871326e34.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 45.3
     },
     {
       "apiname": "DEFEATED_PHANTOM_1",
@@ -252,7 +279,8 @@
       "displayName": "Grey Ghost",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/1437a98c738c7abc16366a81505b61b50605a931.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 46.8
     },
     {
       "apiname": "DEFEATED_FIRST_SINNER",
@@ -261,7 +289,8 @@
       "displayName": "Heretic",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/ff09e7204911e0d213d2e75ba535112ccc005a50.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 39.6
     },
     {
       "apiname": "DEFEATED_CORAL_KING",
@@ -270,7 +299,8 @@
       "displayName": "Tyrant",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/504597992f163a8a9328d9b0d7156b3362146d77.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 32
     },
     {
       "apiname": "DEFEATED_FLOWER_QUEEN",
@@ -279,7 +309,8 @@
       "displayName": "Seed",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/35a5fec5d59538ef4c24e0fba6948e67f12ccb5d.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 31.6
     },
     {
       "apiname": "DEFEATED_HUNTER_QUEEN",
@@ -288,7 +319,8 @@
       "displayName": "Diva",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/455d4c40b7511c668106becdbb3d24c100fa8aff.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 30.8
     },
     {
       "apiname": "DEFEATED_GREEN_PRINCE",
@@ -297,7 +329,8 @@
       "displayName": "Lamenter",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a071ee201b3230c3421b1e3cf446d86e61d24519.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 27.6
     },
     {
       "apiname": "FIRST_WISH",
@@ -306,7 +339,8 @@
       "displayName": "Granted",
       "description": "Grant your first wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/4cae086731038d810d9df5af8977a24b4dc87a44.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 83.3
     },
     {
       "apiname": "GOURMAND_WISH",
@@ -315,7 +349,8 @@
       "displayName": "Glutton",
       "description": "Satiate the Grand Gourmand",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/550244d631259d001fbc57aa772628691d4894ae.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 41.6
     },
     {
       "apiname": "SHAKRA_FINAL_QUEST",
@@ -324,7 +359,8 @@
       "displayName": "Trail's End",
       "description": "Grant Shakra's wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/63c76c65e6e05301678fc1a3c528045a8cc54575.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 41.4
     },
     {
       "apiname": "GARMOND_FINAL_QUEST",
@@ -333,7 +369,8 @@
       "displayName": "Hero's Call",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/54735ddde7c65925ed533136cddde2f0cb4ec52a.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 29.1
     },
     {
       "apiname": "PINSTRESS_WISH",
@@ -342,7 +379,8 @@
       "displayName": "Fatal Resolve",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/52ce18a42124ab6f262fb1ff58601d5a6f69f8ef.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 30.7
     },
     {
       "apiname": "EVA_FINAL_QUEST",
@@ -351,7 +389,8 @@
       "displayName": "Entwined",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/6772e6e8b083425dffb3c4b3cf947c1c46767e71.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 24.8
     },
     {
       "apiname": "BELLHOME",
@@ -360,7 +399,8 @@
       "displayName": "Resident",
       "description": "Acquire your own Bellhome",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7e34a5cdb17062b939748eb15066a44d5b0114f0.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 46
     },
     {
       "apiname": "CITADEL_SONG",
@@ -369,7 +409,8 @@
       "displayName": "Harmonious",
       "description": "Learn the Citadel's Threefold song",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/ecd88a236d01de183278805373acfc4e65c3784e.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 47.1
     },
     {
       "apiname": "WHITE_FLOWER_GAINED",
@@ -378,7 +419,8 @@
       "displayName": "Remembrance",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/cad15d0d414daeff1d466dbdb9725bd0ef70ec06.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 30.5
     },
     {
       "apiname": "ENDING_A",
@@ -387,7 +429,8 @@
       "displayName": "Weaver Queen",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/23df2eddefc96b35b4ffd9f291a816229e50b57c.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 39.6
     },
     {
       "apiname": "ENDING_C",
@@ -396,7 +439,8 @@
       "displayName": "Snared Silk",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/c91cefb630dcfab9099f9de5301774ec826d8161.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 38
     },
     {
       "apiname": "ENDING_D",
@@ -405,7 +449,8 @@
       "displayName": "Twisted Child",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/91181ffaae2a7cbb3cc406d2904d28629bf2d8a3.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 16.1
     },
     {
       "apiname": "ENDING_E",
@@ -414,7 +459,8 @@
       "displayName": "Sister of the Void",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/9faf2f77a4047215c7da6822d8b80e7971210944.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 27.6
     },
     {
       "apiname": "HERALD_WISH",
@@ -423,7 +469,8 @@
       "displayName": "Passing of the Age",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/42f86f65efcada2816cf88389450657b83f03121.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 15.9
     },
     {
       "apiname": "COMPLETION",
@@ -432,7 +479,8 @@
       "displayName": "Completion",
       "description": "Achieve 100% game completion and finish the game",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/f851c8d42eac15ec3765b5f0eb64fbd51f9f47cd.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 15.6
     },
     {
       "apiname": "SPEEDRUN_1",
@@ -441,7 +489,8 @@
       "displayName": "Speedrunner",
       "description": "Complete the game in under 5 hours",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/42953816aed39636c301cea00b01ced66eb43144.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 4.1
     },
     {
       "apiname": "SPEED_COMPLETION",
@@ -450,7 +499,8 @@
       "displayName": "Speed Completion",
       "description": "Achieve 100% game completion and finish the game in under 30 hours",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7cc0488ebd2e0e7a03a03752ab82c196d60899d8.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3
     },
     {
       "apiname": "STEEL_SOUL",
@@ -459,7 +509,8 @@
       "displayName": "Steel Soul",
       "description": "Finish the game in Steel Soul mode",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/2aacd283950cff267f32ebb7eaf82f4f5e6355f1.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 2.9
     },
     {
       "apiname": "STEEL_SOUL_FULL",
@@ -468,9 +519,10 @@
       "displayName": "Steel Heart",
       "description": "Achieve 100% game completion and finish the game in Steel Soul mode",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/65c7108093f2efc39d5fc3eaddecc35675b8dfb1.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 2.2
     }
   ],
   "success": true,
-  "fetchedAt": "2025-12-30T16:04:19.487Z"
+  "fetchedAt": "2025-12-30T16:53:57.327Z"
 }

@@ -9,7 +9,8 @@
       "displayName": "Charmed",
       "description": "Acquire your first Charm",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/8342f6c2630943b056978593315dfb8676e5bbd9.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 77.2
     },
     {
       "apiname": "ENCHANTED",
@@ -18,7 +19,8 @@
       "displayName": "Enchanted",
       "description": "Acquire half of Hallownest's Charms",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/16cab0ef2c0b0acac9779a6cd9776158faa77a8a.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 39.7
     },
     {
       "apiname": "BLESSED",
@@ -27,7 +29,8 @@
       "displayName": "Blessed",
       "description": "Acquire all Charms and receive Salubra's blessing",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a577316f7ae64c8cfdd0568209a915a9fad0f8ad.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 19.8
     },
     {
       "apiname": "PROTECTED",
@@ -36,7 +39,8 @@
       "displayName": "Protected",
       "description": "Acquire 4 Mask Shards",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/4764a78f55fbf49a82f479414a1198d182bcb43d.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 47.8
     },
     {
       "apiname": "MASKED",
@@ -45,7 +49,8 @@
       "displayName": "Masked",
       "description": "Acquire all Mask Shards",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/6073f18f0da90c88ce535826b716ddc098723ae7.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 19.9
     },
     {
       "apiname": "SOULFUL",
@@ -54,7 +59,8 @@
       "displayName": "Soulful",
       "description": "Acquire 3 Vessel Fragments",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/83ad82ce253a66e89e6ee51eb37db2fd0f781e10.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 43.7
     },
     {
       "apiname": "WORLDSOUL",
@@ -63,7 +69,8 @@
       "displayName": "Worldsoul",
       "description": "Acquire all Vessel Fragments",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/7830df3185b0252edd0e4830da6dcc008b162541.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 25
     },
     {
       "apiname": "FK_DEFEAT",
@@ -72,7 +79,8 @@
       "displayName": "Falsehood",
       "description": "Defeat the False Knight",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/e92b8a9b1382393740a658d9ece0bcad21d0bb03.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 71.7
     },
     {
       "apiname": "DREAM_FK",
@@ -81,7 +89,8 @@
       "displayName": "Strength",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9f449ef6aacd0ef2423439931ef68466cd762456.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 26.2
     },
     {
       "apiname": "HORNET_1",
@@ -90,7 +99,8 @@
       "displayName": "Test of Resolve",
       "description": "Defeat Hornet in Greenpath",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/80ba52f035a3418b241c62c1eae7c924ec5705e8.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 63
     },
     {
       "apiname": "HORNET_2",
@@ -99,7 +109,8 @@
       "displayName": "Proof of Resolve",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/ce3e486770249d317f47c8277de5e7047d175cb0.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 38.4
     },
     {
       "apiname": "SOUL_MASTER_DEFEAT",
@@ -108,7 +119,8 @@
       "displayName": "Illumination",
       "description": "Defeat the Soul Master",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/4f4fedac5e0f99fe9ac8d849296fbe6a202cdb5e.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 47
     },
     {
       "apiname": "BROKEN_VESSEL",
@@ -117,7 +129,8 @@
       "displayName": "Release",
       "description": "Defeat the Broken Vessel",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/b252c4bde96e9b00acc82780dd4aa32b26a5253b.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 41.7
     },
     {
       "apiname": "DREAM_BROKEN_VESSEL",
@@ -126,7 +139,8 @@
       "displayName": "Peace",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/1eb53b3fb180df87b48b07a5898aeb8b872b49d4.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 30.3
     },
     {
       "apiname": "DUNG_DEFENDER",
@@ -135,7 +149,8 @@
       "displayName": "Honour",
       "description": "Defeat the Dung Defender",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/c98d546145ff3a8b0eed20ca5426b94d714127bd.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 42.6
     },
     {
       "apiname": "MANTIS_LORDS",
@@ -144,7 +159,8 @@
       "displayName": "Respect",
       "description": "Defeat the Mantis Lords",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/1720e3ef2802441c9f6f3d4b3ae62ba05109ec1c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 46.5
     },
     {
       "apiname": "COLLECTOR",
@@ -153,7 +169,8 @@
       "displayName": "Obsession",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/109bb2a566d9a5841d634ac4cf778b0bb5421eb6.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 30.8
     },
     {
       "apiname": "ZOTE",
@@ -162,7 +179,8 @@
       "displayName": "Rivalry",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/00938958cda9497220f141c415a7ca7bdcdd27e7.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 28.6
     },
     {
       "apiname": "ATTUNEMENT",
@@ -171,7 +189,8 @@
       "displayName": "Attunement",
       "description": "Collect 600 Essence",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/8415033a505e66a207bc4c34229154e8c860d73c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 37.9
     },
     {
       "apiname": "AWAKENING",
@@ -180,7 +199,8 @@
       "displayName": "Awakening",
       "description": "Collect 1800 Essence and awaken the Dream Nail",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/d1f3d14cf7b0b0cf8a7bb4a71a43f5c950fd982c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 29.8
     },
     {
       "apiname": "ASCENSION",
@@ -189,7 +209,8 @@
       "displayName": "Ascension",
       "description": "Collect 2400 Essence and hear the Seer's final words",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/1b88bf9ae2b7d4b90ea3ad86470c98df618a8229.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 19.9
     },
     {
       "apiname": "GRUBFRIEND",
@@ -198,7 +219,8 @@
       "displayName": "Grubfriend",
       "description": "Rescue half of the imprisoned grubs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/585f5c9dc4d8fc9a7ba24c808e184837fa1c28c4.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 38.2
     },
     {
       "apiname": "METAMORPHOSIS",
@@ -207,7 +229,8 @@
       "displayName": "Metamorphosis",
       "description": "Rescue all of the imprisoned grubs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a1a99a2d1308a47ea46df2eff56301584d070246.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 25.7
     },
     {
       "apiname": "NEGLECT",
@@ -216,7 +239,8 @@
       "displayName": "Neglect",
       "description": "Leave Zote to die",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/512e98007863df71f4531d08676464c6aceea95d.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 7.4
     },
     {
       "apiname": "NAILSMITH_KILL",
@@ -225,7 +249,8 @@
       "displayName": "Purity",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/23f190fe7fdc961652855d6134a096b2703bf479.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 18.3
     },
     {
       "apiname": "NAILSMITH_SPARE",
@@ -234,7 +259,8 @@
       "displayName": "Happy Couple",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/2a2f11ae513ba698b9fde0790f82f9a1292176d9.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 9.9
     },
     {
       "apiname": "QUIRREL_EPILOGUE",
@@ -243,7 +269,8 @@
       "displayName": "Witness",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/bebc7daebbce3dd0cef06f83e0b4ae69975062cc.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 24.6
     },
     {
       "apiname": "MOURNER",
@@ -252,7 +279,8 @@
       "displayName": "Solace",
       "description": "Bring peace to the Grey Mourner",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/b85715be313f8be45edaebbdf16d6d794766da24.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 20.7
     },
     {
       "apiname": "TRAITOR_LORD",
@@ -261,7 +289,8 @@
       "displayName": "Execution",
       "description": "Defeat the Traitor Lord",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9204e1e5c4d80aa514583957e57d9ae86ebd0976.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 33
     },
     {
       "apiname": "STAG_STATION_HALF",
@@ -270,7 +299,8 @@
       "displayName": "Connection",
       "description": "Open half of Hallownest's Stag Stations",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/6d16598ac798eef2f915b7a9a2619be365c768b5.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 49.1
     },
     {
       "apiname": "STAG_STATION_ALL",
@@ -279,7 +309,8 @@
       "displayName": "Hope",
       "description": "Open all of Hallownest's Stag Stations and discover the Stag Nest",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/502e5ea328ab9c1e226544bd85a5771c12f2d723.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 32.7
     },
     {
       "apiname": "TEACHER",
@@ -288,7 +319,8 @@
       "displayName": "Teacher",
       "description": "Destroy Monomon the Teacher",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/5a85ae25f9102058a0ac5bf541d08a510b466764.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 37.4
     },
     {
       "apiname": "WATCHER",
@@ -297,7 +329,8 @@
       "displayName": "Watcher",
       "description": "Destroy Lurien the Watcher",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9a7f425e2757c29513ef86473b76fa093c9e7c0e.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 37.2
     },
     {
       "apiname": "BEAST",
@@ -306,7 +339,8 @@
       "displayName": "Beast",
       "description": "Destroy Herrah the Beast",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/4fe01dcb8d9665de684eb7f8bda003ebfa938e82.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 38.5
     },
     {
       "apiname": "MAP",
@@ -315,7 +349,8 @@
       "displayName": "Cartographer",
       "description": "Acquire a map of each area",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9db745f7f05c507991e224f2ca73e8d4af36a114.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 36.2
     },
     {
       "apiname": "COLOSSEUM_1",
@@ -324,7 +359,8 @@
       "displayName": "Warrior",
       "description": "Complete the Trial of the Warrior",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9f9fca30082bf6d65e8beb8cf5eb9955c0ed0bbf.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 37.4
     },
     {
       "apiname": "COLOSSEUM_2",
@@ -333,7 +369,8 @@
       "displayName": "Conqueror",
       "description": "Complete the Trial of the Conqueror",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/4dce442376a62900d7064dbb04f66125678d0a99.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 34.2
     },
     {
       "apiname": "COLOSSEUM_3",
@@ -342,7 +379,8 @@
       "displayName": "Fool",
       "description": "Complete the Trial of the Fool",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/cf3a66560ca2f5a33665283ef854e518b7c8269e.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 20
     },
     {
       "apiname": "ENDING_A",
@@ -351,7 +389,8 @@
       "displayName": "The Hollow Knight",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/f62b5c62df1ccfcf68b18da288ee220e6bc34b2b.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 23.8
     },
     {
       "apiname": "ENDING_B",
@@ -360,7 +399,8 @@
       "displayName": "Sealed Siblings",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/d9a08fbe0afb16ffae9ebcd67c41bb73388a8c26.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 18.4
     },
     {
       "apiname": "ENDING_C",
@@ -369,7 +409,8 @@
       "displayName": "Dream No More",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a43f645a3916af81765b548b85fe19e826ba4c42.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 19.9
     },
     {
       "apiname": "VOID",
@@ -378,7 +419,8 @@
       "displayName": "Void",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/e11d971b5f2c1e977fd5679ad15cbf40b2cb2a4a.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 25.6
     },
     {
       "apiname": "SPEEDRUN_1",
@@ -387,7 +429,8 @@
       "displayName": "Speedrun 1",
       "description": "Complete the game in under 10 hours",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/d273e50186bcfe48d2c0a07b20bd0efa8d843293.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 6.2
     },
     {
       "apiname": "SPEEDRUN_2",
@@ -396,7 +439,8 @@
       "displayName": "Speedrun 2",
       "description": "Complete the game in under 5 hours",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/426bfd57af49ba6c1e199f6dffb6393fdd87e98c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 5.1
     },
     {
       "apiname": "COMPLETION",
@@ -405,7 +449,8 @@
       "displayName": "Completion",
       "description": "Achieve 100% game completion and finish the game",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/eba8bd5fc8e2d0b968bc2eb80433b8112a0d337c.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 18.6
     },
     {
       "apiname": "SPEED_COMPLETION",
@@ -414,7 +459,8 @@
       "displayName": "Speed Completion",
       "description": "Achieve 100% game completion and finish the game in under 20 hours",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/6efa8b82b7062070451e05e3569356d0a871dce3.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 5.2
     },
     {
       "apiname": "STEELSOUL",
@@ -423,7 +469,8 @@
       "displayName": "Steel Soul",
       "description": "Finish the game in Steel Soul mode",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/af3a37a198cd9c0eabea41f92128c0f82b12b44b.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 4.4
     },
     {
       "apiname": "STEELSOUL_COMPLETION",
@@ -432,7 +479,8 @@
       "displayName": "Steel Heart",
       "description": "Achieve 100% game completion and finish the game in Steel Soul mode",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/7e987f4454a86176979f97b80af057ba62689db2.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 3.7
     },
     {
       "apiname": "HUNTER_1",
@@ -441,7 +489,8 @@
       "displayName": "Keen Hunter",
       "description": "Record all of Hallownest's creatures in the Hunter's Journal",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/4d6373b0678c444e8ec841f81b4789d36438b8c3.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 7.5
     },
     {
       "apiname": "HUNTER_2",
@@ -450,7 +499,8 @@
       "displayName": "True Hunter",
       "description": "Receive the Hunter's Mark",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/ed0b80dee5a89c1ac24907b4fa9048512d95e705.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 6.9
     },
     {
       "apiname": "MR_MUSHROOM",
@@ -459,7 +509,8 @@
       "displayName": "Passing of the Age",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/b5ee4828c750bcf90def63aaffe4a1b27f418efd.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 6.7
     },
     {
       "apiname": "DREAM_SOUL_MASTER_DEFEAT",
@@ -468,7 +519,8 @@
       "displayName": "Mortality",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/f922c5de7ecfb30d3f7287e5fc472d669ec67fb8.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 23.7
     },
     {
       "apiname": "WHITE_DEFENDER",
@@ -477,7 +529,8 @@
       "displayName": "Memory",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/53bbcbddf3f54a192796ae729edd1b56e9190fc0.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 18.4
     },
     {
       "apiname": "GREY_PRINCE",
@@ -486,7 +539,8 @@
       "displayName": "Dark Romance",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/e9699d861ee64eb0b3bfd57f2571896be5db12b4.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 21.3
     },
     {
       "apiname": "GRIMM",
@@ -495,7 +549,8 @@
       "displayName": "Grand Performance",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/549b3980b3a8d04368758d1bd59e007bf31cae1b.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 26.3
     },
     {
       "apiname": "NIGHTMARE_GRIMM",
@@ -504,7 +559,8 @@
       "displayName": "Ritual",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/11e465df607e6c5338c241612abd25bd31f44986.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 15.9
     },
     {
       "apiname": "BANISHMENT",
@@ -513,7 +569,8 @@
       "displayName": "Banishment",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/c31aefeb1a1a66ea8df5973948938943e990def6.jpg",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 7.8
     },
     {
       "apiname": "PANTHEON1",
@@ -522,7 +579,8 @@
       "displayName": "Brotherhood",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 16.9
     },
     {
       "apiname": "PANTHEON2",
@@ -531,7 +589,8 @@
       "displayName": "Inspiration",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 15.9
     },
     {
       "apiname": "PANTHEON3",
@@ -540,7 +599,8 @@
       "displayName": "Focus",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 11.9
     },
     {
       "apiname": "PANTHEON4",
@@ -549,7 +609,8 @@
       "displayName": "Soul & Shade",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 9.5
     },
     {
       "apiname": "ENDINGD",
@@ -558,7 +619,8 @@
       "displayName": "Embrace the Void",
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
-      "hidden": 1
+      "hidden": 1,
+      "globalPercent": 5.1
     },
     {
       "apiname": "COMPLETIONGG",
@@ -567,9 +629,10 @@
       "displayName": "Pure Completion",
       "description": "Achieve 112% game completion and finish the game.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/817c85e5f17fcab76b7d08979b0b076afbae509d.jpg",
-      "hidden": 0
+      "hidden": 0,
+      "globalPercent": 6.7
     }
   ],
   "success": true,
-  "fetchedAt": "2025-12-30T15:24:26.412Z"
+  "fetchedAt": "2025-12-30T16:53:49.759Z"
 }
