@@ -210,7 +210,7 @@
       "description": "Defeat Lace in Deep Docks",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/3851723da35a65dae364366513aaa32297ccb537.jpg",
       "hidden": 0,
-      "globalPercent": 78.5
+      "globalPercent": 78.4
     },
     {
       "apiname": "DEFEATED_SONG_GOLEM",
@@ -340,7 +340,7 @@
       "description": "Grant your first wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/4cae086731038d810d9df5af8977a24b4dc87a44.jpg",
       "hidden": 0,
-      "globalPercent": 83.4
+      "globalPercent": 83.3
     },
     {
       "apiname": "GOURMAND_WISH",
@@ -524,5 +524,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2025-12-30T18:04:42.113Z"
+  "fetchedAt": "2025-12-30T20:04:04.208Z"
 }
