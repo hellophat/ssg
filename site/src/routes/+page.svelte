@@ -12,17 +12,17 @@
 	
 	onMount(async () => {
 		try {
-			const profileRes = await fetch(`${base}/../api/profile.json`);
+			const profileRes = await fetch(`${base}/api/profile.json`);
 			if (profileRes.ok) {
 				profile = await profileRes.json();
 			}
 			
-			const summaryRes = await fetch(`${base}/../api/summary.json`);
+			const summaryRes = await fetch(`${base}/api/summary.json`);
 			if (summaryRes.ok) {
 				summary = await summaryRes.json();
 			}
 			
-			const recentRes = await fetch(`${base}/../history/stats/recent-latest.json`);
+			const recentRes = await fetch(`${base}/history/stats/recent-latest.json`);
 			if (recentRes.ok) {
 				const recentData = await recentRes.json();
 				recentGames = recentData.games || [];
@@ -30,7 +30,7 @@
 				// Load achievements for recent games
 				const achPromises = recentGames.slice(0, 3).map(async (game) => {
 					try {
-						const achRes = await fetch(`${base}/../history/achievements/${game.appid}.json`);
+						const achRes = await fetch(`${base}/history/achievements/${game.appid}.json`);
 						if (achRes.ok) {
 							const achData = await achRes.json();
 							return { appid: game.appid.toString(), data: achData };

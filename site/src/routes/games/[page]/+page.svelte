@@ -79,7 +79,7 @@
 			for (const game of paginatedGames) {
 				const appidStr = game.appid.toString();
 				if (gameAchievements[appidStr] === undefined) {
-					fetch(`${base}/../history/achievements/${game.appid}.json`)
+					fetch(`${base}/history/achievements/${game.appid}.json`)
 						.then(res => res.ok ? res.json() : null)
 						.then(data => {
 							// Store data or null to mark as fetched
