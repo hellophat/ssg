@@ -1,0 +1,413 @@
+{
+  "appId": 245170,
+  "gameName": "Skullgirls 2nd Encore",
+  "achievements": [
+    {
+      "apiname": "ACHIEVEMENT_THREADS_OF_FATE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Threads of Fate",
+      "description": "Follow all threads of fate to their inevitable conclusions.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/f2be9cfd3c8a10381a98cebe0eeb2992bfb43e94.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_SKULLGIRLS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sküllgirls",
+      "description": "Graduation day has arrived at last! Mrs. Victoria’s so proud of you.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/97a4cebe49ffd87b1d8b6087c0930481077136bf.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_PROLIX",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Prolix",
+      "description": "Words are fun - expand your vocabulary.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/3bb292516642750024b26470f95b08eae52734e9.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_AN_ENSEMBLE_CAST",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "An Ensemble Cast",
+      "description": "There may be no I in “team,” but there is in “variety.”",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/c0eb13bee07638adaad5b1bb3fa32b8faab69b60.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_INSTANT_HAIR_DASH",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Instant Hair Dash ",
+      "description": "Let your parasite feel the wind between his tendrils.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/7998827a0014cbd28b9d4b130534fb3ad88974e6.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_REAL_CIRCUS_DAMAGE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Real Circus Damage",
+      "description": "And now, for the main attraction... Grappling!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/5e55daf8177018c088971d0006762a2b027f5bad.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_THE_KITCHEN_SINK",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Kitchen Sink",
+      "description": "Throw everything at them, including...",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/fa6d0d4957db14cac59ab5defe9276ece4e934e6.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_GOOD_HUNTING_COMMANDER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Good Hunting, Commander",
+      "description": "A good commander knows how to wield her forces effectively.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/3392c22c479de5033a55305ce88c3d832223acec.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_GETTING_A_HEAD_IN_THE_GAME",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Getting A Head In the Game",
+      "description": "Sometimes you just need to relax and take the weight off your shoulders.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/26408867267c653b11ee243b69e56fe2907731e2.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_MY_PAIN_WILL_BE_VISITED_UPON_YOU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "My Pain Will Be Visited Upon You",
+      "description": "Sometimes you can take it, and sometimes you just want to lash out.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/b15d13a36872d68652a641c08fe750cb29a75dad.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_WE_DO_NOT_ACCEPT_YOUR_INSURANCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Medical Board Will Be Notified",
+      "description": "Your opponents aren’t the only ones under the knife.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/f238199b398db3b292d190acb73ec27f1221769b.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_TOIL_AND_TROUBLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Toil and Trouble",
+      "description": "A sesquidecemvir of seven simulacra synergizing simultaneously.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/54082ab76daf46b5964df477c2b8d4ce3e3e7c44.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_BREAKING_THE_CYCLE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Breaking the Cycle",
+      "description": "Retaliate against repetition.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/9cdc86e0dbeb49bf3e0b77e9b0b0dbc80dd3bfaf.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_CALL_THE_WARDROBE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Call the Wardrobe Department",
+      "description": "Make dozens of costume changes.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/7e48e9280aad7cb51b077067935bbbf680bfc6d5.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_WWP",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "World Warrior Princess",
+      "description": "Wander the world... unintentionally.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/35044bc90c253ccd945ca818a2d2b64f145df8c4.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_HAPPY_BIRTHDAY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Happy Birthday",
+      "description": "You got a present!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/a8e56a060295aaffcd88b3d7c26f49ef68640838.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_TWO_WEEKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Two Weeks",
+      "description": "Will Squigly decide on her choice and move towards the changing winds?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/600a38dc0ac8a35955729ee9095a80289252a28b.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_INDEPENDENT_STUDY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Independent Study",
+      "description": "Before you can hope to master others, you must master yourself.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/2815c24390d38065d29941107c42775a2a76a4cc.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_OVERRULED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Overruled!",
+      "description": "The prosecution rests, your honor.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/25b6c245e3751faffc99fb4c8c7fc2b369ba17d7.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_CONQUEROR",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Conqueror",
+      "description": "No challenge is too great, no obstacle too high.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/53d59165564b78cc83cac769c1cb68a56817df26.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_SURVIVAL_SERENITY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Survival Serenity",
+      "description": "Survival is no horror.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/db08b42215417b4b0a21266f8e05aa41ac25e800.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_LAB_MONSTER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Lab Monster",
+      "description": "Get out of the Training Room and fight!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/5df9a4eb0fa16a281a4f0fa008287b38a0036d82.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_BEAUCOUP_DE_GRACE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Beau-coup de Grâce",
+      "description": "You get a Blockbuster! Everyone gets a Blockbuster!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/6c2c4877d69870f1a55d959d9cfce8cbcefaffd1.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_PRIMA_DONNA",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Prima Donna",
+      "description": "Sopranos should always be center stage.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/a98dc3d6d13632bbd0a5b08e313d60581d3d942a.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_FORESHADOWING_AND_CYMBALISM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Foreshadowing and Cymbalism",
+      "description": "The crash of cymbals, the sound of failure... for your opponent.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/72fb48862408f99d71e54453a8c99d86f4329009.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_ME_AND_MY_SHADOWS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Me and My Shadows",
+      "description": "Tag-team your opponent all alone.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/14b353d6df97c0abc29c9d41da3fabf79f36ee32.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_THE_BEAST_WITHIN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Beast Within",
+      "description": "My, your skeleton is looking positively punishing today!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/9702d20858f5a69ee38b5140cdf4ad1be4b17031.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_BY_THE_SCRUFFS_OF_THEIR_NECKS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "By the Scruff of Their Necks",
+      "description": "Just give me five minutes of peace, you unruly Wulfamaniacs!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/c3a8559c8760f7e3117242d7f59bf3bdd5ad3ca5.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_STILL_ALIVE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Still \"Alive\"",
+      "description": "WHY - WHY WAS I PROGRAMMED TO FEEL PAIN?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/1751d6f0c6bcbc41a9b67055344640c25b5ba5d5.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_MUSEUM_OF_UNNATURAL_HISTORY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Museum of Unnatural History",
+      "description": "A gallery of strange and peculiar things awaits.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/bc2e9c082646c17816ea0526378af8bf3dfe1c56.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_FUNDED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Funded!",
+      "description": "A heartfelt thanks to everyone that believed in Skullgirls and made this happen.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/5ebf455936882434a9f41408ee95b8f52ab4c955.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_A_NORMAL_LIFE",
+      "achieved": 1,
+      "unlocktime": 1767016710,
+      "displayName": "A Normal Life",
+      "description": "\"Painwheel?\" Must be foreign.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/0be20eb33ed070108539d481569e2bf264881714.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_AND_ITS_ALL_THANKS_TO_YOU",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "And It's All Thanks To You",
+      "description": "Poor Ms. Fortune.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/a06d69666bdb3bb9a2495c0b0aaff0caed3bf2d2.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_PICKING_UP_WHERE_MARIE_LEFT_OFF",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Picking Up Where Marie Left Off",
+      "description": "Bloodying mafia fools? What a hoot!",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/387bf362219027043163b1ccd2bec2431ac43f54.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_TRAINING_THE_NEXT_GENERATION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Training the Next Generation",
+      "description": "One sister's safety dooms another.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/db00cc65dff8530d69168ecd47f2a5b8a6f3d99a.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_NADIA_FORTUNE_MYSTERY_MISSING_FISHFOLK",
+      "achieved": 1,
+      "unlocktime": 1767018147,
+      "displayName": "Nadia Fortune and the Mystery of the Missing Fishfolk",
+      "description": "They already took one family from her, and like hell she's going to let them do it again.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/b54e7e23c97b3454ee3a9f03f83950fcb7eae5db.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_COMMAND_OVERRIDE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Command Override",
+      "description": "Does he really think he can control her...?",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/d3f1c3cb26c87b8a38f1bfce2107fc69d90068e8.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_DEEPER_INTO_ENEMY_LINES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Deeper Into Enemy Lines",
+      "description": "Nothing more than a pawn.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/1f8d56b79bbcdabc20fce254a367a63b1685d807.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_OTHER_CANDIDATES_WILL_BE_CONSUMED",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Other Candidates Will Be Consumed",
+      "description": "As she denied her purpose, they denied her continued existence.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/59340dfe614d483b3b4c8c271c183f61397ba64a.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_UNTIL_YOU_AWAKEN",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Until You Next Awaken",
+      "description": "It would appear they've become quite inseparable.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/0b541c7c7dbf4c2d19bc4442af1432ba86560aad.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_NOT_WHAT_IT_USED_TO_BE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Not What It Used To Be -- But Neither Am I",
+      "description": "This city and he, they've been through a lot.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/2b6d04c9595a5e9e7582f33e63767df4e3ebe4b2.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_LET_THEM_ALL_BATHE_IN_MY_GLORY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Let Them All Bathe In My Glory",
+      "description": "It is time for a new kingdom, and a new age! This world so badly needs a wake-up call.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/aab136b27f7325935e076a8a5d13e3babb6bdbea.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_KIND_OF_AN_IDIOT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Kind of an Idiot, But Not a Bad Guy",
+      "description": "Hope you can rest in peace, big guy. Or this piece of you can, anyway.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/b2b7260b53f95e26e76e0988f835832dd4fe19b6.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_DAYS_OF_FUTURE_CATS",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Days of Future Cats",
+      "description": "It is for your own good, BEEP BOOP MEOW.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/80162578b1f8c2725031f8fbd07f4eb1d1f39567.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ACHIEVEMENT_APRIL_FACTS_DAY",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "April Fact's Day",
+      "description": "The joke is that she's not a joke.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/df5073c360e966e2b8dd62a3d7cf39e4aa69cdd3.jpg",
+      "hidden": 0
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2025-12-30T06:07:39.757Z"
+}

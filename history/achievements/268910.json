@@ -1,0 +1,386 @@
+{
+  "appId": 268910,
+  "gameName": "Cuphead",
+  "achievements": [
+    {
+      "apiname": "DefeatBoss",
+      "achieved": 1,
+      "unlocktime": 1766154459,
+      "displayName": "Taking Names",
+      "description": "Defeat a boss",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/7f66cff96c3f74ce806ed5d311a52a11bbbce43e.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "CompleteWorld1",
+      "achieved": 1,
+      "unlocktime": 1766162802,
+      "displayName": "A Walk in the Park",
+      "description": "Defeat every boss in Inkwell Isle I",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/48301536c7621210e557ece6ffa507b22e6106ab.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "CompleteWorld2",
+      "achieved": 1,
+      "unlocktime": 1766231738,
+      "displayName": "A Day at the Fair",
+      "description": "Defeat every boss in Inkwell Isle II",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/98e1a4ed96b1f9c90e7ceaa2809c71d6f2d98573.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "CompleteWorld3",
+      "achieved": 1,
+      "unlocktime": 1766680304,
+      "displayName": "A Trip Downtown",
+      "description": "Defeat every boss in Inkwell Isle III",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/78d4a0ccd6796e7dd8b26062b1de45a11dafcf52.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "CompleteDicePalace",
+      "achieved": 1,
+      "unlocktime": 1766827097,
+      "displayName": "Casino Night",
+      "description": "Complete the Casino",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/3fc46cd738f18f2b104795b4a45dedd8cc59a820.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "CompleteDevil",
+      "achieved": 1,
+      "unlocktime": 1766846918,
+      "displayName": "Swing You Sinner",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/2f8b26c6bd64e70a02987cc80953d846abed5fc5.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "BadEnding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Selling Out",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/c9472ca1b8c3b55d953ba7074bcce61bc1397c3e.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "SRank",
+      "achieved": 1,
+      "unlocktime": 1766850429,
+      "displayName": "Put On a Show",
+      "description": "Get an S-Rank",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/a7d7ff0b3435ff7924d946fb48efc19630692d77.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ARankWorld1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sheriff",
+      "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle I",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/bc5a5ff8683f1dcf991690962ae1e74bc8af0409.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ARankWorld2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Boss",
+      "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle II",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/dc5718015c2b80dd305e2a0ed18061d41f7fde7f.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ARankWorld3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mayor",
+      "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle III",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/ec0a838951f37b2a2e11795ea7bca99937465ab7.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ARankWorld4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "King",
+      "description": "Obtain an A-Rank or higher on all bosses in Inkwell Hell",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/df1469411a3268d8eb4dad259fae701fec10ee17.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "GoodEnding",
+      "achieved": 1,
+      "unlocktime": 1766847013,
+      "displayName": "Souls Saved",
+      "description": "Complete the game on Normal",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/92dbf47f9498e4a3acbd85a8937a004054e77a01.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "NewGamePlus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Beat The Devil At His Own Game",
+      "description": "Complete the game on Expert",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/9e77c496458e8c5b51662fcdfeb4f2843008c2a7.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "BoughtAllItems",
+      "achieved": 1,
+      "unlocktime": 1766925077,
+      "displayName": "Butter-and-Egg Man",
+      "description": "Buy everything in Porkrind's Shop",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/a74d388b0307b8d68969626cece7706834f1f837.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "FoundSecretPassage",
+      "achieved": 1,
+      "unlocktime": 1766156569,
+      "displayName": "Cutting Corners",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/5ea61dbc0fccaa88f89a6626e4521e1744b63526.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "ExWin",
+      "achieved": 1,
+      "unlocktime": 1766231738,
+      "displayName": "Ceramic Strike",
+      "description": "Defeat a boss with an Extra Special move",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/a3c6e98e1bc73b8e4a8bda151de532caf36a58ec.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "SuperWin",
+      "achieved": 1,
+      "unlocktime": 1766820223,
+      "displayName": "Porcelain Power",
+      "description": "Defeat a boss with a Super Art",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/bbb16d51235f8acd665389972de7299c34667d32.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "SmallPlaneOnlyWin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Bravo Zulu P-26",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/20f6bcda364e5d086a6a777ca3cde70e8baf9cca.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "UnlockedAllSupers",
+      "achieved": 1,
+      "unlocktime": 1766240269,
+      "displayName": "Magician Lord",
+      "description": "Obtain all Super Arts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/b6e8e325158aec050b3534bc7489286577686ae1.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "NoHitsTaken",
+      "achieved": 1,
+      "unlocktime": 1766237604,
+      "displayName": "Perfect Run",
+      "description": "Complete a level without getting hit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/d7abbe0dc8ef9415877b022a5b71b57a7d96e9f8.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "FoundAllLevelMoney",
+      "achieved": 1,
+      "unlocktime": 1766854436,
+      "displayName": "Coffers Full",
+      "description": "Get every coin in all of the levels",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/fcc6cd08b814faf2fad7541afe22b97169c269f0.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ParryChain",
+      "achieved": 1,
+      "unlocktime": 1766758454,
+      "displayName": "Bouncing Ball",
+      "description": "Parry five times before hitting the ground",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/586281026d280336f751d7fab15984118e39cc4d.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ParryApprentice",
+      "achieved": 1,
+      "unlocktime": 1766156456,
+      "displayName": "Parry Persistance",
+      "description": "Complete 20 parries",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/f768e3f225fe867e1eea454991b8ce290ce5b641.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ParryMaster",
+      "achieved": 1,
+      "unlocktime": 1766203823,
+      "displayName": "Parry Performance",
+      "description": "Complete 100 parries",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/99353d56499db9d81b754e067d0429149091a769.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "NoHitsTakenDicePalace",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Rolling Sixes",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/63393efdb71a17509bbbef69ea887ef6bd97f55f.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "FoundAllMoney",
+      "achieved": 1,
+      "unlocktime": 1766925062,
+      "displayName": "High Roller",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/474f5bdc62295816da274588774b9ac34cd6baad.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "PacifistRun",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Pacifist",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/e27f47b82b271d5de9ca4d713ab9d3dccbd82e66.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "CompleteWorldDLC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Vacation in the Wilds",
+      "description": "Defeat every boss in Inkwell Isle IV",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/00bf5c1d41ecfd749f051a448a773b68081a81ce.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ARankWorldDLC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ranger",
+      "description": "Obtain an A-Rank or Higher on all bosses in Inkwell Isle IV",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/835bb3a99bdd8bc9c9c88fa879d3018f38135bc2.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "DefeatBossAsChalice",
+      "achieved": 1,
+      "unlocktime": 1766853823,
+      "displayName": "Alive and Kicking",
+      "description": "Defeat a boss with Ms. Chalice",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/23d296982c0b88fc54689113e7f830a0c4bfecad.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "DefeatXBossesAsChalice",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Decadent",
+      "description": "Defeat 10 bosses with Ms. Chalice",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/05d3fb262ba15b5ed5b8b11b12121403bf2d89e7.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "ChaliceSuperWin",
+      "achieved": 1,
+      "unlocktime": 1766930239,
+      "displayName": "The Golden Touch",
+      "description": "Defeat a boss with one of Ms. Chalice's Super Arts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/9746599533e7a332ad7d6a0dce24ec582b6c7994.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "DefeatBossDLCWeapon",
+      "achieved": 1,
+      "unlocktime": 1766929889,
+      "displayName": "The Latest Sensation",
+      "description": "Defeat a boss with one of Porkrind's new weapons",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/f5bec5b360c521cf4be1b8189e0a390cd701008e.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "DefeatAllKOG",
+      "achieved": 1,
+      "unlocktime": 1766924389,
+      "displayName": "Checkmate",
+      "description": "Defeat all of the King of Games' Champions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/b6914971b34730002b5cecfdee2435fff8973776.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "DefeatKOGGauntlet",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A King's Admiration",
+      "description": "Defeat the King's Gauntlet",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/e468b9af4a22f49e1b5bca5180d2f1d910c88071.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "DefeatSaltbaker",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Compliments to the Chef",
+      "description": "Complete your quest on Inkwell Isle IV",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/c6d1cd80fef7d760b63ab25b0443f2b5dba73a63.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "SRankAnyDLC",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Cooked to Perfection",
+      "description": "Get an S-Rank on a stage of Inkwell Isle IV",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/e3f569a9a7dd78861c8f4984ddac7b52ed25a364.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "DefeatBossNoMinions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The High Hat",
+      "description": "Defeat a boss on Inkwell Isle IV without killing any of its minions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/e8b51bc902465b07b79fe2be03bee20c6d29e63f.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "HP9",
+      "achieved": 1,
+      "unlocktime": 1766848328,
+      "displayName": "Hearty",
+      "description": "Have 9HP at one time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/bafc7caf5b6c240e5515e560d46d5fffb406888f.jpg",
+      "hidden": 0
+    },
+    {
+      "apiname": "DefeatDevilPhase2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Horrible Night To Have a Curse",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/7600bbceaa4fa7b4d9031a9458e01b744ef04789.jpg",
+      "hidden": 1
+    },
+    {
+      "apiname": "Paladin",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Paladin",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/842b2cb013039d3b4adfc1bea3aa546c7182d39f.jpg",
+      "hidden": 1
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2025-12-30T06:07:38.537Z"
+}
