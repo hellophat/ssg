@@ -1,0 +1,93 @@
+{
+  "appId": 683320,
+  "gameName": "GRIS",
+  "achievements": [
+    {
+      "apiname": "Z1_DISCOVER_RED",
+      "achieved": 1,
+      "unlocktime": 1758481906
+    },
+    {
+      "apiname": "Z1_DENIAL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z2_DISCOVER_GREEN",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z2_ANGER",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z3_DISCOVER_BLUE",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z3_BARGAINING",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z4_DISCOVER_YELLOW",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z4_DEPRESSION",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z5_ACCEPTANCE",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z6_ENDGAME",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z6_ALLCOLLECTIBLES",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z6_EXTRAENDING",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z2_AVOID_SANDSTORM",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z3_KODAMA_APPLES",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z4_AVOID_EEL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z5_SING_SPECIAL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "Z2_INUKSUIT",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2025-12-29T15:14:21.004Z"
+}

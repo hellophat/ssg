@@ -1,0 +1,93 @@
+{
+  "appId": 735290,
+  "gameName": "Genesis Noir",
+  "achievements": [
+    {
+      "apiname": "ACH_FINISH_SEEDING",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_FOLLOWING_01",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_PRIMORDIAL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_HUNT",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_FOLLOWING_02",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_ZEN",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_JAZZ",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_MARS",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_PIONEER",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_DYSON",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_BLACKHOLE",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_FREEWILL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_CHOICE_A",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_CHOICE_B",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_HUBBLE_01",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_HUBBLE_02",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ACH_FINISH_HUBBLE_03",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2025-12-29T15:14:21.757Z"
+}

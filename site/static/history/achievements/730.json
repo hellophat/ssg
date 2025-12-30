@@ -1,0 +1,13 @@
+{
+  "appId": 730,
+  "gameName": "Counter-Strike 2",
+  "achievements": [
+    {
+      "apiname": "PLAY_CS2",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2025-12-29T15:14:15.731Z"
+}

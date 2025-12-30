@@ -1,0 +1,323 @@
+{
+  "appId": 367520,
+  "gameName": "Hollow Knight",
+  "achievements": [
+    {
+      "apiname": "CHARMED",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ENCHANTED",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "BLESSED",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "PROTECTED",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "MASKED",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "SOULFUL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "WORLDSOUL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "FK_DEFEAT",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "DREAM_FK",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "HORNET_1",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "HORNET_2",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "SOUL_MASTER_DEFEAT",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "BROKEN_VESSEL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "DREAM_BROKEN_VESSEL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "DUNG_DEFENDER",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "MANTIS_LORDS",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "COLLECTOR",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ZOTE",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ATTUNEMENT",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "AWAKENING",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ASCENSION",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "GRUBFRIEND",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "METAMORPHOSIS",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "NEGLECT",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "NAILSMITH_KILL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "NAILSMITH_SPARE",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "QUIRREL_EPILOGUE",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "MOURNER",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "TRAITOR_LORD",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "STAG_STATION_HALF",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "STAG_STATION_ALL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "TEACHER",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "WATCHER",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "BEAST",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "MAP",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "COLOSSEUM_1",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "COLOSSEUM_2",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "COLOSSEUM_3",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ENDING_A",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ENDING_B",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ENDING_C",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "VOID",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "SPEEDRUN_1",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "SPEEDRUN_2",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "COMPLETION",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "SPEED_COMPLETION",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "STEELSOUL",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "STEELSOUL_COMPLETION",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "HUNTER_1",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "HUNTER_2",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "MR_MUSHROOM",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "DREAM_SOUL_MASTER_DEFEAT",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "WHITE_DEFENDER",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "GREY_PRINCE",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "GRIMM",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "NIGHTMARE_GRIMM",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "BANISHMENT",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "PANTHEON1",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "PANTHEON2",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "PANTHEON3",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "PANTHEON4",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "ENDINGD",
+      "achieved": 0,
+      "unlocktime": 0
+    },
+    {
+      "apiname": "COMPLETIONGG",
+      "achieved": 0,
+      "unlocktime": 0
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2025-12-29T15:14:19.905Z"
+}
