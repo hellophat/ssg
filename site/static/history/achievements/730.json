@@ -5,9 +5,13 @@
     {
       "apiname": "PLAY_CS2",
       "achieved": 0,
-      "unlocktime": 0
+      "unlocktime": 0,
+      "displayName": "A New Beginning",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/730/e7d79e52002c75f027a51e8eb05ab55416678f09.jpg",
+      "hidden": 1
     }
   ],
   "success": true,
-  "fetchedAt": "2025-12-29T15:14:15.731Z"
+  "fetchedAt": "2025-12-30T15:08:32.657Z"
 }
