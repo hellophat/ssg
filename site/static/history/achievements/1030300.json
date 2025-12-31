@@ -160,7 +160,7 @@
       "description": "Grant Nuu's wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/43386e420aedc8ed92ef286c4b7ccabc91b6a9f4.jpg",
       "hidden": 0,
-      "globalPercent": 54.1
+      "globalPercent": 54.2
     },
     {
       "apiname": "JOURNAL_FULL",
@@ -400,7 +400,7 @@
       "description": "Acquire your own Bellhome",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7e34a5cdb17062b939748eb15066a44d5b0114f0.jpg",
       "hidden": 0,
-      "globalPercent": 45.9
+      "globalPercent": 46
     },
     {
       "apiname": "CITADEL_SONG",
@@ -524,5 +524,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2025-12-31T10:04:02.329Z"
+  "fetchedAt": "2025-12-31T12:05:40.944Z"
 }
