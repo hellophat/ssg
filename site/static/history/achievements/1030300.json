@@ -30,7 +30,7 @@
       "description": "Bind your first Silk Skill",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a34b4da6c1652ec31603b82de0e983173917b2ad.jpg",
       "hidden": 0,
-      "globalPercent": 88.7
+      "globalPercent": 88.8
     },
     {
       "apiname": "ALL_SILK_SKILLS",
@@ -90,7 +90,7 @@
       "description": "Acquire 2 Spool Fragments",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/5c23c27ee2ca186fa35ac7e74fd027dd3507f834.jpg",
       "hidden": 0,
-      "globalPercent": 67.1
+      "globalPercent": 67.2
     },
     {
       "apiname": "ALL_SILK_SPOOLS",
@@ -200,7 +200,7 @@
       "description": "Defeat the Bell Beast",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a3806725642c2918243b8db87d3e99a49e1f16e4.jpg",
       "hidden": 0,
-      "globalPercent": 86.8
+      "globalPercent": 86.9
     },
     {
       "apiname": "DEFEATED_LACE_1",
@@ -220,7 +220,7 @@
       "description": "Defeat Fourth Chorus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/62d9be89e0362b89d4e63632cb00c4584970c098.jpg",
       "hidden": 0,
-      "globalPercent": 76.2
+      "globalPercent": 76.3
     },
     {
       "apiname": "DEFEATED_WIDOW",
@@ -240,7 +240,7 @@
       "description": "Defeat the Last Judge",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/c9adb431ea87c9912d58166bde7acbf9c52c8659.jpg",
       "hidden": 0,
-      "globalPercent": 59.7
+      "globalPercent": 59.8
     },
     {
       "apiname": "DEFEATED_COGWORK_DANCERS",
@@ -260,7 +260,7 @@
       "description": "Defeat Trobbio",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/1b40a2e64093d4fa38218d61e0980970ac143b80.jpg",
       "hidden": 0,
-      "globalPercent": 51.3
+      "globalPercent": 51.4
     },
     {
       "apiname": "DEFEATED_LACE_2",
@@ -524,5 +524,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2025-12-31T08:04:31.011Z"
+  "fetchedAt": "2025-12-31T10:04:02.329Z"
 }
