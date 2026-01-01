@@ -20,7 +20,7 @@
       "description": "Defeat every boss in Inkwell Isle I",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/48301536c7621210e557ece6ffa507b22e6106ab.jpg",
       "hidden": 0,
-      "globalPercent": 53.3
+      "globalPercent": 53.4
     },
     {
       "apiname": "CompleteWorld2",
@@ -40,7 +40,7 @@
       "description": "Defeat every boss in Inkwell Isle III",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/78d4a0ccd6796e7dd8b26062b1de45a11dafcf52.jpg",
       "hidden": 0,
-      "globalPercent": 21.4
+      "globalPercent": 21.5
     },
     {
       "apiname": "CompleteDicePalace",
@@ -364,11 +364,11 @@
     },
     {
       "apiname": "DefeatSaltbaker",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767281436,
       "displayName": "Compliments to the Chef",
       "description": "Complete your quest on Inkwell Isle IV",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/c6d1cd80fef7d760b63ab25b0443f2b5dba73a63.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/cf4b66b9feb4bffc2203dcec1ad05cba9af27cc3.jpg",
       "hidden": 0,
       "globalPercent": 7.6
     },
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-01T14:03:33.684Z"
+  "fetchedAt": "2026-01-01T16:04:08.653Z"
 }
