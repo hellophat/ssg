@@ -94,11 +94,11 @@
     },
     {
       "apiname": "Z6_ENDGAME",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767266173,
       "displayName": "The End",
       "description": "Finish the game",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/ac838dd4cede24f6f74897819788f5e3fde66fc0.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/babd54e574ed82137bfbc80a76a51a9c0987be90.jpg",
       "hidden": 0,
       "globalPercent": 37.9
     },
@@ -174,5 +174,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-01T10:04:02.180Z"
+  "fetchedAt": "2026-01-01T12:05:35.732Z"
 }

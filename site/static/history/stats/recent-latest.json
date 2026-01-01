@@ -1,5 +1,5 @@
 {
-  "total_count": 4,
+  "total_count": 5,
   "games": [
     {
       "appid": 268910,
@@ -26,11 +26,11 @@
     {
       "appid": 683320,
       "name": "GRIS",
-      "playtime_2weeks": 128,
-      "playtime_forever": 180,
+      "playtime_2weeks": 217,
+      "playtime_forever": 269,
       "img_icon_url": "10a3afeac4adedb37acaec02885bdc3c102eca93",
       "playtime_windows_forever": 0,
-      "playtime_mac_forever": 180,
+      "playtime_mac_forever": 269,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
@@ -44,7 +44,18 @@
       "playtime_mac_forever": 7718,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
+    },
+    {
+      "appid": 735290,
+      "name": "Genesis Noir",
+      "playtime_2weeks": 2,
+      "playtime_forever": 6,
+      "img_icon_url": "cffb225ecb3ad0bb691028d0b72d2b8d7c83bbe3",
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 6,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-01T10:03:55.923Z"
+  "fetchedAt": "2026-01-01T12:05:29.996Z"
 }
