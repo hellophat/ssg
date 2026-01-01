@@ -230,7 +230,7 @@
       "description": "Parry five times before hitting the ground",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/586281026d280336f751d7fab15984118e39cc4d.jpg",
       "hidden": 0,
-      "globalPercent": 21.1
+      "globalPercent": 21
     },
     {
       "apiname": "ParryApprentice",
@@ -310,7 +310,7 @@
       "description": "Defeat a boss with Ms. Chalice",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/23d296982c0b88fc54689113e7f830a0c4bfecad.jpg",
       "hidden": 0,
-      "globalPercent": 11.9
+      "globalPercent": 12
     },
     {
       "apiname": "DefeatXBossesAsChalice",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-01T08:04:23.334Z"
+  "fetchedAt": "2026-01-01T10:03:58.373Z"
 }
