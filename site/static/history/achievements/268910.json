@@ -20,7 +20,7 @@
       "description": "Defeat every boss in Inkwell Isle I",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/48301536c7621210e557ece6ffa507b22e6106ab.jpg",
       "hidden": 0,
-      "globalPercent": 53.4
+      "globalPercent": 53.3
     },
     {
       "apiname": "CompleteWorld2",
@@ -40,7 +40,7 @@
       "description": "Defeat every boss in Inkwell Isle III",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/78d4a0ccd6796e7dd8b26062b1de45a11dafcf52.jpg",
       "hidden": 0,
-      "globalPercent": 21.5
+      "globalPercent": 21.4
     },
     {
       "apiname": "CompleteDicePalace",
@@ -84,11 +84,11 @@
     },
     {
       "apiname": "ARankWorld1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767236052,
       "displayName": "Sheriff",
       "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle I",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/bc5a5ff8683f1dcf991690962ae1e74bc8af0409.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/c40360f73dcc4dc43053f620b37865b49b978173.jpg",
       "hidden": 0,
       "globalPercent": 9.2
     },
@@ -230,7 +230,7 @@
       "description": "Parry five times before hitting the ground",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/586281026d280336f751d7fab15984118e39cc4d.jpg",
       "hidden": 0,
-      "globalPercent": 21.1
+      "globalPercent": 21
     },
     {
       "apiname": "ParryApprentice",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-01T02:46:18.602Z"
+  "fetchedAt": "2026-01-01T04:21:29.809Z"
 }
