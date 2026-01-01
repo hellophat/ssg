@@ -4,11 +4,11 @@
     {
       "appid": 268910,
       "name": "Cuphead",
-      "playtime_2weeks": 1513,
-      "playtime_forever": 1513,
+      "playtime_2weeks": 1625,
+      "playtime_forever": 1625,
       "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
       "playtime_windows_forever": 0,
-      "playtime_mac_forever": 1513,
+      "playtime_mac_forever": 1625,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
@@ -46,5 +46,5 @@
       "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-01T06:04:35.411Z"
+  "fetchedAt": "2026-01-01T08:04:20.931Z"
 }
