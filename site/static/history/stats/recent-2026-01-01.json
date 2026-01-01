@@ -24,6 +24,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 683320,
+      "name": "GRIS",
+      "playtime_2weeks": 128,
+      "playtime_forever": 180,
+      "img_icon_url": "10a3afeac4adedb37acaec02885bdc3c102eca93",
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 180,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1030300,
       "name": "Hollow Knight: Silksong",
       "playtime_2weeks": 58,
@@ -33,18 +44,7 @@
       "playtime_mac_forever": 7718,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
-    },
-    {
-      "appid": 683320,
-      "name": "GRIS",
-      "playtime_2weeks": 30,
-      "playtime_forever": 83,
-      "img_icon_url": "10a3afeac4adedb37acaec02885bdc3c102eca93",
-      "playtime_windows_forever": 0,
-      "playtime_mac_forever": 83,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-01T04:21:27.180Z"
+  "fetchedAt": "2026-01-01T06:04:35.411Z"
 }

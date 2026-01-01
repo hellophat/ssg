@@ -44,11 +44,11 @@
     },
     {
       "apiname": "Z3_DISCOVER_BLUE",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767242507,
       "displayName": "Blue",
       "description": "",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/842f7e7b010b9137fa4034cf28d19c62461c680c.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/7bd4e670a6f403d8507b10948f47b059bc950ab1.jpg",
       "hidden": 1,
       "globalPercent": 52.7
     },
@@ -64,11 +64,11 @@
     },
     {
       "apiname": "Z4_DISCOVER_YELLOW",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767245443,
       "displayName": "Yellow",
       "description": "",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/537cb8203fd812d79ceca033fa7281d7d41c50ff.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/7cd00af83733b8fea182480e45a159cca39d739d.jpg",
       "hidden": 1,
       "globalPercent": 45.1
     },
@@ -174,5 +174,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-01T04:21:35.238Z"
+  "fetchedAt": "2026-01-01T06:04:41.511Z"
 }
