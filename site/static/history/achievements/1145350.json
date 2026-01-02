@@ -1,0 +1,508 @@
+{
+  "appId": 1145350,
+  "gameName": "Hades II",
+  "achievements": [
+    {
+      "apiname": "AchClearErebus",
+      "achieved": 1,
+      "unlocktime": 1767340424,
+      "displayName": "Witch of the Woods",
+      "description": "Clear Erebus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/974c728e91ee0068539259f7cc6f4bc5f3373fd8.jpg",
+      "hidden": 0,
+      "globalPercent": 58.6
+    },
+    {
+      "apiname": "AchClearOceanus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Witch of the Depths",
+      "description": "Clear Oceanus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/bacabdad32d575e03ef718f091249e639d394f9f.jpg",
+      "hidden": 0,
+      "globalPercent": 53.4
+    },
+    {
+      "apiname": "AchClearFields",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Witch of the Plains",
+      "description": "Clear the Fields of Mourning",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ead0acbb6c3cb0739f7fd377c38faa8a144408b3.jpg",
+      "hidden": 0,
+      "globalPercent": 49.9
+    },
+    {
+      "apiname": "AchClearTartarus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Witch of the Abyss",
+      "description": "Clear Tartarus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/4aa6f5855a9c785ecde5935211c969054797a68d.jpg",
+      "hidden": 0,
+      "globalPercent": 39.4
+    },
+    {
+      "apiname": "AchClearEphyra",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Witch of the Outskirts",
+      "description": "Clear the City of Ephyra",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/7c5d6ddda789caf10e7a09726c5eac6e338028ac.jpg",
+      "hidden": 0,
+      "globalPercent": 44.7
+    },
+    {
+      "apiname": "AchClearThessaly",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Witch of the Waters",
+      "description": "Clear the Rift of Thessaly",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b6921206330324b72229f08c8a9560308167e298.jpg",
+      "hidden": 0,
+      "globalPercent": 41.5
+    },
+    {
+      "apiname": "AchClearOlympus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Witch of the Mountains",
+      "description": "Clear Mount Olympus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b194ffd7a653eb9cb75c05f31725dda8c8c053e6.jpg",
+      "hidden": 0,
+      "globalPercent": 37
+    },
+    {
+      "apiname": "AchClearSummit",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Witch of the Clouds",
+      "description": "Clear the Summit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ae9679f45ac4433c582d0a6e434e1df125ea83dc.jpg",
+      "hidden": 0,
+      "globalPercent": 30.7
+    },
+    {
+      "apiname": "AchCauldronSpells1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "So Mote It Be",
+      "description": "Cast 50 Incantations at the Crossroads Cauldron",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/218670037563eb2f2fb9918c4c37ed63bc921d9b.jpg",
+      "hidden": 0,
+      "globalPercent": 37.9
+    },
+    {
+      "apiname": "AchBathHouse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Soothing Soak",
+      "description": "Take one of your comrades to the Hot Springs",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/e82f786b540bf24eb16c74cc660f1ee26d8cc610.jpg",
+      "hidden": 0,
+      "globalPercent": 41.1
+    },
+    {
+      "apiname": "AchFishingPier",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Catch of the Night",
+      "description": "Take one of your comrades to the Fishing Pier",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/938b874492943d462994f7f4809a640979835d0e.jpg",
+      "hidden": 0,
+      "globalPercent": 31.7
+    },
+    {
+      "apiname": "AchTaverna",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ambrosia for Two",
+      "description": "Take one of your comrades to the Taverna",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/80dc1ec718bfdfad65164abcce19a1f8b7b3beab.jpg",
+      "hidden": 0,
+      "globalPercent": 29.4
+    },
+    {
+      "apiname": "AchForgeBonds",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Close Comrades",
+      "description": "Forge a bond with 10 comrades",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/5fb1266ca5567441d8c9aa08fb238a37d725138e.jpg",
+      "hidden": 0,
+      "globalPercent": 9.8
+    },
+    {
+      "apiname": "AchProphecies1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Hand of the Fates",
+      "description": "Fulfill 60 Minor Prophecies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/f97bc84742bcbab0cc1282a6d4e32e6c2a78c4b3.jpg",
+      "hidden": 0,
+      "globalPercent": 10.2
+    },
+    {
+      "apiname": "AchMaxMem",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mind for Magick",
+      "description": "Gain 30 Grasp at the Altar of Ashes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/4d28974d1f966e6bac5221972ec64441a283944d.jpg",
+      "hidden": 0,
+      "globalPercent": 28.6
+    },
+    {
+      "apiname": "AchAllArcana",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Breadth of Knowledge",
+      "description": "Fulfill the Prophecy 'Breadth of Knowledge'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/575bd330783b5a014724e461920803c25680f318.jpg",
+      "hidden": 0,
+      "globalPercent": 33.3
+    },
+    {
+      "apiname": "AchAllArcanaMax",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Unassailable Insight",
+      "description": "Fully upgrade all Arcana",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/f1f05955c0e2427ec09306211bc103ec728f71bd.jpg",
+      "hidden": 0,
+      "globalPercent": 9.9
+    },
+    {
+      "apiname": "AchAllWeapons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Arms of Night",
+      "description": "Fulfill the Prophecy 'The Arms of Night'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/d3001619a5b39f634c6ee1462c02c6c7ab76f6b2.jpg",
+      "hidden": 0,
+      "globalPercent": 39.9
+    },
+    {
+      "apiname": "AchAllAspects",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Unseen Sentinel",
+      "description": "Fulfill the Prophecy 'The Unseen Sentinel'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/dbd50a4b00c42beb7acd7c28cf68e730cd495cb8.jpg",
+      "hidden": 0,
+      "globalPercent": 8.4
+    },
+    {
+      "apiname": "AchConfideFrinos",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Familiar Confidant",
+      "description": "Fulfill the Prophecy 'Familiar Confidant'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/bbd8abd3c6020a944c7a39119a8431b385375567.jpg",
+      "hidden": 0,
+      "globalPercent": 32.1
+    },
+    {
+      "apiname": "AchAllFamiliars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Animal Whisperer",
+      "description": "Recruit all Animal Familiars",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b5220fc40d52fa9bb519203160216a17e4a801b9.jpg",
+      "hidden": 0,
+      "globalPercent": 21.3
+    },
+    {
+      "apiname": "AchAllFamiliarsMax",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Beast Master",
+      "description": "Fully upgrade all Animal Familiars",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ac72ab7813c4da9bd26e05069659b984b18070c4.jpg",
+      "hidden": 0,
+      "globalPercent": 7.2
+    },
+    {
+      "apiname": "AchEarnPrestige1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Giving Back",
+      "description": "Earn 10,000 Kudos",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6939fa86ab96cff5068d1d631203274585d8f24f.jpg",
+      "hidden": 0,
+      "globalPercent": 16.1
+    },
+    {
+      "apiname": "AchAllKeepsakes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sentimental Value",
+      "description": "Collect every Keepsake",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/a6eea86ad94580bbf3b8f9e44de9af1fe6a458ef.jpg",
+      "hidden": 0,
+      "globalPercent": 8.7
+    },
+    {
+      "apiname": "AchBounties1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Infinite Possibility",
+      "description": "Clear 20 Chaos Trials",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/099dcc124bb47e61099afd259e4f8e40669c370c.jpg",
+      "hidden": 0,
+      "globalPercent": 7.9
+    },
+    {
+      "apiname": "AchAllRandomStreak",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Improbable Outcomes",
+      "description": "Fulfill the Prophecy 'Improbable Outcomes'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ff1cf7b5b9254b0113f6a573fcd1063239d2519c.jpg",
+      "hidden": 0,
+      "globalPercent": 4.1
+    },
+    {
+      "apiname": "AchAllRandomUnderworld",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Chaos in Hell",
+      "description": "Clear the 'Great Chaos Below' Trial",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b5309ad54b39238c77491c3c29dc3b4b1ee1582d.jpg",
+      "hidden": 0,
+      "globalPercent": 3.5
+    },
+    {
+      "apiname": "AchBeatHecateNoArcana",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Natural Talent",
+      "description": "Fulfill the Prophecy 'Natural Talent'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6b27bc4fb06847383fda97586b3149894a1789c7.jpg",
+      "hidden": 0,
+      "globalPercent": 25.4
+    },
+    {
+      "apiname": "AchHelpOdysseus",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Unfinished Business",
+      "description": "Fulfill the Prophecy 'Unfinished Business'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/aaa21730f2287b4fb2812bfb30bb84ba4d84040a.jpg",
+      "hidden": 0,
+      "globalPercent": 6
+    },
+    {
+      "apiname": "AchHelpDora",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Haunted by the Past",
+      "description": "Fulfill the Prophecy 'Haunted by the Past'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/7b158e9bdb0e99859046ee870e4a778102f79657.jpg",
+      "hidden": 0,
+      "globalPercent": 13.9
+    },
+    {
+      "apiname": "AchHelpHypnos",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Soundest of Sleepers",
+      "description": "Fulfill the Prophecy 'Soundest of Sleepers'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/0135f7b6cdb456c7432ad3834282476a97447b7a.jpg",
+      "hidden": 0,
+      "globalPercent": 12.9
+    },
+    {
+      "apiname": "AchHelpArachne",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Silk and Spitefulness",
+      "description": "Fulfill the Prophecy 'Silk and Spitefulness'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/036988949f251d0e00bce500e2083d99be6307ba.jpg",
+      "hidden": 0,
+      "globalPercent": 5.1
+    },
+    {
+      "apiname": "AchHelpNarcissusAndEcho",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Voice and Vanity",
+      "description": "Fulfill the Prophecy 'Voice and Vanity'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b9cdb4a23b73fcaf5abc37775ca59dc0f34ac031.jpg",
+      "hidden": 0,
+      "globalPercent": 10.1
+    },
+    {
+      "apiname": "AchCatchFish",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Denizens of the Depths",
+      "description": "Fulfill the Prophecy 'Denizens of the Depths'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/22fad3142d7234ae65005529c90154c95a35a846.jpg",
+      "hidden": 0,
+      "globalPercent": 12.6
+    },
+    {
+      "apiname": "AchBeatRivalsVow1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Unrivaled Prowess",
+      "description": "Fulfill the Prophecy 'Unrivaled Prowess'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/e49f2f8289bbe30db779d69fd4e5a92b18ffc43c.jpg",
+      "hidden": 0,
+      "globalPercent": 8.3
+    },
+    {
+      "apiname": "AchBeatTyphonWithWeapons",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sword of the Night",
+      "description": "Fulfill the Prophecy 'Sword of the Night'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/683178bcd525d5ff8faf28205e10dbd5565e9136.jpg",
+      "hidden": 0,
+      "globalPercent": 11.2
+    },
+    {
+      "apiname": "AchBeatChronosWithArcana",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Arcana of the Ages",
+      "description": "Fulfill the Prophecy 'Arcana of the Ages'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/f0970836f53e274e7b28193ba89c7e8f7e6d39b2.jpg",
+      "hidden": 0,
+      "globalPercent": 13.4
+    },
+    {
+      "apiname": "AchClearWithAllAspects",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Bearing Dark Gifts",
+      "description": "Fulfill the Prophecy 'Bearing Dark Gifts'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/3f4d5acba3ad0944ecb55049af0fa25136c51a6a.jpg",
+      "hidden": 0,
+      "globalPercent": 4.6
+    },
+    {
+      "apiname": "AchClearChaosQuest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Born to Win",
+      "description": "Fulfill the Prophecy 'Born to Win'",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/1731de7007a4539362a073676c76710a16ea9ac5.jpg",
+      "hidden": 0,
+      "globalPercent": 8.3
+    },
+    {
+      "apiname": "AchNemesisCombat",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Fair Fight",
+      "description": "Earn 1,000 Gold competing against Nemesis",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/caf791f68909a5f4b2e679192c180c5ce3485543.jpg",
+      "hidden": 0,
+      "globalPercent": 11.3
+    },
+    {
+      "apiname": "AchFamiliarCostumes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Unfamiliar Forms",
+      "description": "Alter the appearance of each Animal Familiar",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/f6720fdb8af311f2492517eb634ba13b8d6cce53.jpg",
+      "hidden": 0,
+      "globalPercent": 5.4
+    },
+    {
+      "apiname": "AchKillWitchAsSheep",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sheep's Clothing",
+      "description": "Slay a Sister of the Dead while afflicted with Twilight Curse",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/3cf3e0d3429778e1f6d0f097cc34a50063e973d5.jpg",
+      "hidden": 0,
+      "globalPercent": 34.7
+    },
+    {
+      "apiname": "AchSummonSiren",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Breaking Up the Band",
+      "description": "Use Night Bloom to raise a Siren",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6d198c14e5153963cbf0aa8d4399a4368bdc51dc.jpg",
+      "hidden": 0,
+      "globalPercent": 19.6
+    },
+    {
+      "apiname": "AchTartarusInDress",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Dressed to Kill",
+      "description": "Reach the final confrontation in an Arachne outfit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/d73862b8f5616cb6ef62a1517c9dadddf5e83f7b.jpg",
+      "hidden": 0,
+      "globalPercent": 9.6
+    },
+    {
+      "apiname": "AchEarnStatue1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Behold Night's Champion",
+      "description": "Earn the first Gift of the Veil",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/99d2154cd56debcda24f71a30004597556e458b0.jpg",
+      "hidden": 0,
+      "globalPercent": 21
+    },
+    {
+      "apiname": "AchEarnStatue2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mercy, Night's Executioner",
+      "description": "Earn the second Gift of the Veil",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6da3645832b6b76f6e9860dd5dd0846d4eb2bb3c.jpg",
+      "hidden": 0,
+      "globalPercent": 14.1
+    },
+    {
+      "apiname": "AchWinSecretContest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Elysian Glory",
+      "description": "Prevail in the Contest of Champions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/717c6d9887dacb40625ba0ed2fbc1bac0be5180d.jpg",
+      "hidden": 0,
+      "globalPercent": 13.1
+    },
+    {
+      "apiname": "AchTrueEnding",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Death to Chronos",
+      "description": "Complete the lifelong task of the Princess of the Underworld",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/0017f60f2a9c3b0737fbb149e4daa7236b3d3bda.jpg",
+      "hidden": 0,
+      "globalPercent": 21.9
+    },
+    {
+      "apiname": "AchEpilogue",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Golden Age",
+      "description": "Reach the epilogue of the story",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/daf490f764c402808fc8b317d1d49a904dc4f6f9.jpg",
+      "hidden": 0,
+      "globalPercent": 6.8
+    },
+    {
+      "apiname": "AchAllOtherAch",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Goddess of Nightmares",
+      "description": "Earn all other Achievements",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/d0d5ecd013b17e976a486bc24071ef125167afd4.jpg",
+      "hidden": 0,
+      "globalPercent": 2.9
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2026-01-02T08:04:30.827Z"
+}

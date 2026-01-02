@@ -1,5 +1,5 @@
 {
-  "total_count": 5,
+  "total_count": 6,
   "games": [
     {
       "appid": 268910,
@@ -35,6 +35,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1145350,
+      "name": "Hades II",
+      "playtime_2weeks": 90,
+      "playtime_forever": 90,
+      "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 90,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 1030300,
       "name": "Hollow Knight: Silksong",
       "playtime_2weeks": 58,
@@ -57,5 +68,5 @@
       "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-02T06:04:58.918Z"
+  "fetchedAt": "2026-01-02T08:04:23.321Z"
 }
