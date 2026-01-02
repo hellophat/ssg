@@ -10,7 +10,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/0ab3b42637b2d42cb41e58ec08f06e1c554b81ca.jpg",
       "hidden": 1,
-      "globalPercent": 89
+      "globalPercent": 88.9
     },
     {
       "apiname": "Z1_DENIAL",
@@ -174,5 +174,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-02T00:12:31.077Z"
+  "fetchedAt": "2026-01-02T02:39:31.922Z"
 }
