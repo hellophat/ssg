@@ -20,7 +20,7 @@
       "description": "Defeat every boss in Inkwell Isle I",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/48301536c7621210e557ece6ffa507b22e6106ab.jpg",
       "hidden": 0,
-      "globalPercent": 53.4
+      "globalPercent": 53.3
     },
     {
       "apiname": "CompleteWorld2",
@@ -40,7 +40,7 @@
       "description": "Defeat every boss in Inkwell Isle III",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/78d4a0ccd6796e7dd8b26062b1de45a11dafcf52.jpg",
       "hidden": 0,
-      "globalPercent": 21.5
+      "globalPercent": 21.4
     },
     {
       "apiname": "CompleteDicePalace",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-02T18:04:27.226Z"
+  "fetchedAt": "2026-01-02T20:03:51.401Z"
 }
