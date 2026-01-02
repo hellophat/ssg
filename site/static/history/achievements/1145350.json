@@ -30,7 +30,7 @@
       "description": "Clear the Fields of Mourning",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ead0acbb6c3cb0739f7fd377c38faa8a144408b3.jpg",
       "hidden": 0,
-      "globalPercent": 49.9
+      "globalPercent": 50
     },
     {
       "apiname": "AchClearTartarus",
@@ -430,7 +430,7 @@
       "description": "Use Night Bloom to raise a Siren",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6d198c14e5153963cbf0aa8d4399a4368bdc51dc.jpg",
       "hidden": 0,
-      "globalPercent": 19.6
+      "globalPercent": 19.7
     },
     {
       "apiname": "AchTartarusInDress",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-02T08:04:30.827Z"
+  "fetchedAt": "2026-01-02T10:03:58.771Z"
 }
