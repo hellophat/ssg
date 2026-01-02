@@ -13,6 +13,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 1145350,
+      "name": "Hades II",
+      "playtime_2weeks": 281,
+      "playtime_forever": 281,
+      "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 281,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 245170,
       "name": "Skullgirls 2nd Encore",
       "playtime_2weeks": 270,
@@ -31,17 +42,6 @@
       "img_icon_url": "10a3afeac4adedb37acaec02885bdc3c102eca93",
       "playtime_windows_forever": 0,
       "playtime_mac_forever": 269,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1145350,
-      "name": "Hades II",
-      "playtime_2weeks": 161,
-      "playtime_forever": 161,
-      "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
-      "playtime_windows_forever": 0,
-      "playtime_mac_forever": 161,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
@@ -68,5 +68,5 @@
       "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-02T10:03:51.254Z"
+  "fetchedAt": "2026-01-02T12:05:07.728Z"
 }
