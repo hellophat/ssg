@@ -1,0 +1,1208 @@
+{
+  "appId": 262060,
+  "gameName": "Darkest Dungeon®",
+  "achievements": [
+    {
+      "apiname": "welcome_home",
+      "achieved": 1,
+      "unlocktime": 1758444850,
+      "displayName": "Welcome home...",
+      "description": "Reach the Estate",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/0c25e64b7ece5086659a49e1cfedac9e6c8bdcb8.jpg",
+      "hidden": 0,
+      "globalPercent": 93.9
+    },
+    {
+      "apiname": "first_victory",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The first of many victories...",
+      "description": "Complete a quest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/75f6f4edf5b36f466b83f7ce2c83c19fa701b487.jpg",
+      "hidden": 0,
+      "globalPercent": 87.9
+    },
+    {
+      "apiname": "ten_victories",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Our victories are mounting...",
+      "description": "Complete 10 quests",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/35c04ad22a284a66dc00406c63b2a8e9f72dd3bc.jpg",
+      "hidden": 0,
+      "globalPercent": 51
+    },
+    {
+      "apiname": "twenty_five_victories",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "We are victorious, but at what cost...",
+      "description": "Complete 25 quests",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/bdbe33c2af3d040bbbd772122fa0b3025f334164.jpg",
+      "hidden": 0,
+      "globalPercent": 32.9
+    },
+    {
+      "apiname": "abandon_quest",
+      "achieved": 1,
+      "unlocktime": 1758462733,
+      "displayName": "Discretion, my old friend...",
+      "description": "Abandon a quest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/bd05e9d1b0010f59564e8bbf6348307bdefbf27b.jpg",
+      "hidden": 0,
+      "globalPercent": 72.5
+    },
+    {
+      "apiname": "first_boss",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The first evil to fall...",
+      "description": "Slay your first boss",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/e050b13091c1c78890df35a0160c0e143f8e9ba2.jpg",
+      "hidden": 0,
+      "globalPercent": 54
+    },
+    {
+      "apiname": "medium_quest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A strenuous adventure comes to a close...",
+      "description": "Complete a medium quest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/a2e15a382dcc4f2ae65ad19a86d5863a1528f9a2.jpg",
+      "hidden": 0,
+      "globalPercent": 62.1
+    },
+    {
+      "apiname": "long_quest",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A grueling adventure comes to a close...",
+      "description": "Complete a long quest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/c56442635d9f10657ded2c62eed91f9b32e638f3.jpg",
+      "hidden": 0,
+      "globalPercent": 33.8
+    },
+    {
+      "apiname": "start_quest_heroes_level_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A team of hardened veterans...",
+      "description": "Start a quest with all four heroes of Resolve Level 6",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/9aa337f6f013ec681bf008aeeee99181a10be914.jpg",
+      "hidden": 0,
+      "globalPercent": 20.1
+    },
+    {
+      "apiname": "start_dd_heroes_level_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Like lambs to the slaughter...",
+      "description": "Start a Darkest Dungeon quest with four heroes of resolve level 0",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/0b02919e3b462e20ce02299cf0b07e75cd4f0475.jpg",
+      "hidden": 0,
+      "globalPercent": 4.1
+    },
+    {
+      "apiname": "all_regions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I've seen every corner of this ruined land...",
+      "description": "Complete a quest in all four regions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/4318f877152ff232f5c0c44661c32fb7b8f57fee.jpg",
+      "hidden": 0,
+      "globalPercent": 47
+    },
+    {
+      "apiname": "four_afflicted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Twisted and about to break",
+      "description": "Complete a dungeon with all 4 heroes afflicted",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/2f06a592204cde822b39fe2c57e2a465cbff7830.jpg",
+      "hidden": 0,
+      "globalPercent": 22.2
+    },
+    {
+      "apiname": "single_combat_skill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "And our training begins...",
+      "description": "Upgrade a Combat skill",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/d32fdd5c733d5ee43952d5086e237cd6cad80d84.jpg",
+      "hidden": 0,
+      "globalPercent": 62.2
+    },
+    {
+      "apiname": "single_camping_skill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "It takes more than brawn...",
+      "description": "Learn a new Camping skill",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/705d870d730b9cb78471e751a9f146c6653bb42a.jpg",
+      "hidden": 0,
+      "globalPercent": 45.4
+    },
+    {
+      "apiname": "tavern_treatment",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A drink, a hand, and a companion...",
+      "description": "Treat a hero in the Tavern",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/2c8913006a845d50bef26fde0cf23808894269a1.jpg",
+      "hidden": 0,
+      "globalPercent": 74.2
+    },
+    {
+      "apiname": "abbey_treatment",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A rumination, a prayer, and a confession...",
+      "description": "Treat a hero in the Abbey",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/c6fdc6a9bb1aca171a43c3f5142f5e26c2475e0f.jpg",
+      "hidden": 0,
+      "globalPercent": 76
+    },
+    {
+      "apiname": "hero_dismissed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Weeding out the weak...",
+      "description": "Dismiss your first hero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/2092b4facf91d8ee3ea82eb16806030085a5cd09.jpg",
+      "hidden": 0,
+      "globalPercent": 58.8
+    },
+    {
+      "apiname": "one_of_each_hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A veritable crowd...",
+      "description": "Have one of each class on your roster",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/04724ee6bde90f280a5b7630a4d9912a5b74894e.jpg",
+      "hidden": 0,
+      "globalPercent": 23.1
+    },
+    {
+      "apiname": "quirk_treatment",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The price we pay for sanity...",
+      "description": "Remove a Quirk in the Sanitarium",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/4538cc8f1b260fda754b5e16e34348b459baed1b.jpg",
+      "hidden": 0,
+      "globalPercent": 63.9
+    },
+    {
+      "apiname": "quirk_lock",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Encouragement...",
+      "description": "Lock a positive Quirk in the Sanitarium",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/fe0b84bf775dc85f781785a0d0a18dfb1e4ded54.jpg",
+      "hidden": 0,
+      "globalPercent": 27.2
+    },
+    {
+      "apiname": "blacksmith_upgraded",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Our equipment polished to a mirror finish...",
+      "description": "Fully upgrade the Blacksmith",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/69a1e4e9362065fd937f894256853443feafede8.jpg",
+      "hidden": 0,
+      "globalPercent": 20.5
+    },
+    {
+      "apiname": "guild_upgraded",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Our techniques sharpened to a razor's edge...",
+      "description": "Fully upgrade the Guild",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/7d8dc581f53c49e4cebaa62f891dcca845a205a6.jpg",
+      "hidden": 0,
+      "globalPercent": 21.2
+    },
+    {
+      "apiname": "tavern_upgraded",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The tavern my Ancestor once saw...",
+      "description": "Fully upgrade the Tavern",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/726091970f0b7a7a8818eee31c5145ed3d9e703d.jpg",
+      "hidden": 0,
+      "globalPercent": 13
+    },
+    {
+      "apiname": "abbey_upgraded",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The abbey my Ancestor once knew...",
+      "description": "Fully upgrade the Abbey",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/4ba37b50ef69577108509ff585473545bcdc5ebf.jpg",
+      "hidden": 0,
+      "globalPercent": 12.3
+    },
+    {
+      "apiname": "weapon_and_armour_upgraded",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Only the finest equipment will endure this torment...",
+      "description": "Fully upgrade a hero's weapons and armor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/99fc0907652f44622c9c64f206eb8c140e93c58c.jpg",
+      "hidden": 0,
+      "globalPercent": 22.9
+    },
+    {
+      "apiname": "hero_4_skill_upgrade",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Only masterful technique will suffice in battle...",
+      "description": "Fully upgrade at least four of a hero's skills",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/da29ca841f132e937eae31876e3fce244f284ae1.jpg",
+      "hidden": 0,
+      "globalPercent": 25.2
+    },
+    {
+      "apiname": "town_fully_upgraded",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Restored to its former glory...",
+      "description": "Fully upgrade the Town",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/b852d9d22307acf047ec637604b385f55334b721.jpg",
+      "hidden": 0,
+      "globalPercent": 9.6
+    },
+    {
+      "apiname": "visit_graveyard",
+      "achieved": 1,
+      "unlocktime": 1758445094,
+      "displayName": "A sobering visit with the departed...",
+      "description": "Visit the Graveyard",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/d1c99c4c0832fa41dc2f1fb5f390fb7960679dec.jpg",
+      "hidden": 0,
+      "globalPercent": 90.1
+    },
+    {
+      "apiname": "one_hero_level_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A true champion emerges...",
+      "description": "Raise a hero to Resolve Level 6",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/1be49e5cfd0fcf02e5e90a0a6a7ae29ef72cd84f.jpg",
+      "hidden": 0,
+      "globalPercent": 27.7
+    },
+    {
+      "apiname": "four_hero_level_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Darkest sentinels...",
+      "description": "Raise 4 heroes to Resolve Level 6",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/bdebb490fc0d8e307b5a14a56b940a9ecd81c90e.jpg",
+      "hidden": 0,
+      "globalPercent": 23.6
+    },
+    {
+      "apiname": "eldritch_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "And we slew the evils that lurketh...",
+      "description": "Defeat 100 Eldritch enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/a5d603455b1e1b4d5b6a4c3200143afb6d578c03.jpg",
+      "hidden": 0,
+      "globalPercent": 36.1
+    },
+    {
+      "apiname": "unholy_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "And we slew the abominations that haunteth...",
+      "description": "Defeat 100 Unholy enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/be5990c06d2c062b651a32d0fb2d9f136f3d4a8d.jpg",
+      "hidden": 0,
+      "globalPercent": 42.1
+    },
+    {
+      "apiname": "beast_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "And we slew the beasts that creepeth...",
+      "description": "Defeat 100 Beast enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/b8babd1bf456762985eafde06fe36d9a46cc3015.jpg",
+      "hidden": 0,
+      "globalPercent": 40.8
+    },
+    {
+      "apiname": "human_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "And we slew the men who were wicked...",
+      "description": "Defeat 100 Human enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/f8578bb3b11b0150fd7696772de412f341f68973.jpg",
+      "hidden": 0,
+      "globalPercent": 45.5
+    },
+    {
+      "apiname": "total_enemies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The fiends must be driven back...",
+      "description": "Slay 1000 enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/6903d00f160967d99de39253d40a74d63df88022.jpg",
+      "hidden": 0,
+      "globalPercent": 24.7
+    },
+    {
+      "apiname": "week_52",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The end of the first year...",
+      "description": "Reach week 52",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/abce039f32b5e017f558d2eee098a188c1d0f610.jpg",
+      "hidden": 0,
+      "globalPercent": 20.9
+    },
+    {
+      "apiname": "week_104",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Two years of this...",
+      "description": "Reach week 104",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/0f45b1720ad72844ac27b1d774f5865048cd7a51.jpg",
+      "hidden": 0,
+      "globalPercent": 8.3
+    },
+    {
+      "apiname": "quest_20k_gold",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Greater riches were never witnessed...",
+      "description": "Collect at least 20,000 gold from a single quest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/80c0d9c23ac27db13314a17b78ac75553916a035.jpg",
+      "hidden": 0,
+      "globalPercent": 37.9
+    },
+    {
+      "apiname": "quest_30_heirloom",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A collection of treasured antiques...",
+      "description": "Collect at least 30 heirlooms from a single quest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/dfaad39c5c408a5bd302c85cd9a1cfbb414ba993.jpg",
+      "hidden": 0,
+      "globalPercent": 61
+    },
+    {
+      "apiname": "kill_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A killer of striking force and wit...",
+      "description": "Kill 50 enemies with one hero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/db0d4ea875a05381f95eb8e01b2fac84347d2fa3.jpg",
+      "hidden": 0,
+      "globalPercent": 48.7
+    },
+    {
+      "apiname": "walk_500",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "More than a weary traveler...",
+      "description": "Walk 500 steps with one hero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/3d79be287526607a92f8db011a1162cc3f9f6517.jpg",
+      "hidden": 0,
+      "globalPercent": 37.8
+    },
+    {
+      "apiname": "lost_first_hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The first of many has fallen...",
+      "description": "Lose your first hero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/cda875a32cf15b2fa3c4eafb8addcc9f89081d65.jpg",
+      "hidden": 0,
+      "globalPercent": 74.8
+    },
+    {
+      "apiname": "first_heart_attack_death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The stresses were unbearable...",
+      "description": "Lose your first hero to heart attack",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/120e2e4f86f70f7a5b7ef15eb1992cacd3495796.jpg",
+      "hidden": 0,
+      "globalPercent": 55.8
+    },
+    {
+      "apiname": "first_hunger_death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Gnawing hunger sets in...",
+      "description": "Lose a hero to hunger",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/35e92cebec936acfef537780e6cdfc8c038e6008.jpg",
+      "hidden": 0,
+      "globalPercent": 7.5
+    },
+    {
+      "apiname": "death_to_wilbur",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "That'll do, pig...",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/1e4e69eaf6b528fb851a338ab5aaf89c4cd1a4a3.jpg",
+      "hidden": 1,
+      "globalPercent": 10.6
+    },
+    {
+      "apiname": "death_to_maggot",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "We return to the worms of the earth...",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/9b5232d62faafb4a876af3ee6698c4085b96027a.jpg",
+      "hidden": 1,
+      "globalPercent": 3.5
+    },
+    {
+      "apiname": "first_trap_death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Watch your step...",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/77bb8c670cf038971093b60bc2d33f7d3bf6ea24.jpg",
+      "hidden": 1,
+      "globalPercent": 3.4
+    },
+    {
+      "apiname": "first_obstacle_death",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Blocked from life...",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/81c689071c5f553b207547d741c4d47603977c95.jpg",
+      "hidden": 1,
+      "globalPercent": 3.9
+    },
+    {
+      "apiname": "darkest_dungeon_party_wipe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Valiant sacrifice...",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/9fee7d4fba99637370f8d1ea20164f42fbfb4ac4.jpg",
+      "hidden": 1,
+      "globalPercent": 6.1
+    },
+    {
+      "apiname": "first_party_wipe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "No retreat, no quarter...",
+      "description": "First party wipe",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/9d349e1e0459a78954ec511eaa58ad4f945aba4f.jpg",
+      "hidden": 0,
+      "globalPercent": 41.8
+    },
+    {
+      "apiname": "lose_level_6_hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "We all return to dust...",
+      "description": "Lose a Legendary (Level 6) hero",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/8e4e1b90c2a7f911308d4468d1a2f0751efcecbc.jpg",
+      "hidden": 0,
+      "globalPercent": 17.8
+    },
+    {
+      "apiname": "deaths_door_survived_5_attacks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "What is already Dead Cannot Die",
+      "description": "Have a character survive 5 attacks at Death's Door in a single combat",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/953be7a50f73bdebdee6f65577c6d429c0d125da.jpg",
+      "hidden": 0,
+      "globalPercent": 18.5
+    },
+    {
+      "apiname": "first_boss_party_wipe",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "More blood soaks the soil...",
+      "description": "Party wipe on a boss",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/90d95a5787386d65f305be61d60d0aec374cb99f.jpg",
+      "hidden": 0,
+      "globalPercent": 23.1
+    },
+    {
+      "apiname": "ancestors_trinkets",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sentimental relics from our forefathers...",
+      "description": "Acquire all your Ancestor's Trinkets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/5a8b335762dc0bd0bbb2da28dce57493e1dbc8dd.jpg",
+      "hidden": 0,
+      "globalPercent": 2.8
+    },
+    {
+      "apiname": "slay_a_shambler",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A terrifying figure emerged from the darkness...",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/9254b39db84131df0c3458a29db0f57017773fcf.jpg",
+      "hidden": 1,
+      "globalPercent": 28.3
+    },
+    {
+      "apiname": "game_complete_on_default",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Strict Mode",
+      "description": "Complete the game with default difficulty options",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/ad0fce1db4dc3e27bd8caef8811a2213607ded84.jpg",
+      "hidden": 0,
+      "globalPercent": 4.3
+    },
+    {
+      "apiname": "kill_all_bosses",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Driven from this land...",
+      "description": "Kill all bosses",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/a415d0a59ff5618c12ca9c9be46dd8dd42bf43dd.jpg",
+      "hidden": 0,
+      "globalPercent": 4.8
+    },
+    {
+      "apiname": "caretaker_goals_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Caretaker",
+      "description": "Complete all Caretaker Goals",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/423771d9cfddba7c453ff82856836b40d4983554.jpg",
+      "hidden": 0,
+      "globalPercent": 3.7
+    },
+    {
+      "apiname": "game_complete",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Victory, such as it is...",
+      "description": "Complete the game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/abefdf180926930fddd9e1c39fe101f682836350.jpg",
+      "hidden": 0,
+      "globalPercent": 4.5
+    },
+    {
+      "apiname": "game_complete_in_75_weeks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "In such haste...",
+      "description": "Complete the game within 99 Weeks",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/17eaf6c750e3e0450a8291e017420aaf2c9778a3.jpg",
+      "hidden": 0,
+      "globalPercent": 6.4
+    },
+    {
+      "apiname": "kill_boss_with_one_hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Lone survivor",
+      "description": "Kill any boss with only one hero remaining",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/819aa395e548b1b050d4280bc37d66fdb3805c7d.jpg",
+      "hidden": 0,
+      "globalPercent": 6.7
+    },
+    {
+      "apiname": "kill_boss_with_four_afflicted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Dysfunction",
+      "description": "Kill any boss with a party of four afflicted heroes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/85f71719072d43e13e2f6fe89479c657c13f9e7a.jpg",
+      "hidden": 0,
+      "globalPercent": 4.8
+    },
+    {
+      "apiname": "game_complete_ng",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "World End",
+      "description": "Complete the game on Stygian",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/addebf615dd9a5f3d83ce1902fa189b74740c8da.jpg",
+      "hidden": 0,
+      "globalPercent": 1.5
+    },
+    {
+      "apiname": "dismas_and_reynauld_completed",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "On the old road, we found redemption.",
+      "description": "Dismas and Reynauld Made it to the final Darkest Dungeon Quest",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/1adf89abbd692446b26b73d9cc2f2aebb132fc7e.jpg",
+      "hidden": 0,
+      "globalPercent": 2.2
+    },
+    {
+      "apiname": "defeat_the_brigand_vulf",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "In Sheep's Clothing",
+      "description": "Defeat the brigand Vvulf",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/d45932892895190bef21f8ba9a9339a04a5f023b.jpg",
+      "hidden": 0,
+      "globalPercent": 12.1
+    },
+    {
+      "apiname": "game_complete_radiant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Entry Level",
+      "description": "Complete the game on Radiant",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/68db58f94925ab1d005eeffb2e3294ea0ea96e12.jpg",
+      "hidden": 0,
+      "globalPercent": 6.7
+    },
+    {
+      "apiname": "slay_a_crow",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Murder of Crows",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/f22dc5221a5678ecdcabde06512dc17b8b4e3098.jpg",
+      "hidden": 1,
+      "globalPercent": 18.8
+    },
+    {
+      "apiname": "slay_4_champions",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Four on the Floor",
+      "description": "Kill Squiffy Ghast, Swine Skiver, Bone Bearer and Hateful Virago",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/9c952974e7ea01bb4f66e64cd41be5b8828f9a5c.jpg",
+      "hidden": 0,
+      "globalPercent": 10.7
+    },
+    {
+      "apiname": "slay_a_squiffy_with_jester",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mine Goes to 11",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/c6acfc53d2fa9747c0e534f55f3dfd91d0908e2d.jpg",
+      "hidden": 1,
+      "globalPercent": 2.4
+    },
+    {
+      "apiname": "slay_the_baron",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Les Jeux Sont Faits",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/d7c7f8106c95e393088c67ccff1496bc9048d41b.jpg",
+      "hidden": 1,
+      "globalPercent": 9.2
+    },
+    {
+      "apiname": "slay_the_viscount",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Just the Cheque",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/7e6aa0b54a7f36300a57fbf46ffd6ba94b7c415b.jpg",
+      "hidden": 1,
+      "globalPercent": 5.5
+    },
+    {
+      "apiname": "slay_the_countess",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Her Last Dance",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/77e02e4ba385b1d4998728d31f2f6fd2a8f4bd77.jpg",
+      "hidden": 1,
+      "globalPercent": 3.7
+    },
+    {
+      "apiname": "get_crimson_curse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Symptoms",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/7fa6f5d6ebdb246ee3f48ce5d1b2ac17fbb82d23.jpg",
+      "hidden": 1,
+      "globalPercent": 21.4
+    },
+    {
+      "apiname": "collect_trinket_set",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Happy Together",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/eb5679cd7b2a2cd8fc80ff841a24a48187686abb.jpg",
+      "hidden": 1,
+      "globalPercent": 12.6
+    },
+    {
+      "apiname": "build_a_district_building",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "From Rubble to Rabble",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/e0978a25cfc1c9b88107aec1c9b18bcddca244a8.jpg",
+      "hidden": 1,
+      "globalPercent": 17.4
+    },
+    {
+      "apiname": "build_the_red_hook",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Red Hook",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/241e22063747ce3eca7a0b7cb107eb6b62a3f067.jpg",
+      "hidden": 1,
+      "globalPercent": 3.7
+    },
+    {
+      "apiname": "recruit_a_flagellant",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Flesh is Willing",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/076bf477a5fdd5b576a82e2d4761f4d0dc0d2f45.jpg",
+      "hidden": 1,
+      "globalPercent": 32.3
+    },
+    {
+      "apiname": "collect_the_invitation",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "An Unexpected Party",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/a40dae7979e97498b07a66d0d32e11357ccb6c42.jpg",
+      "hidden": 1,
+      "globalPercent": 12.3
+    },
+    {
+      "apiname": "lose_a_cursed_hero",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Expired",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/1c85cdefaf5cc0b3365d74b98c15f1b4ebff390c.jpg",
+      "hidden": 1,
+      "globalPercent": 3.8
+    },
+    {
+      "apiname": "kill_an_ally_through_curse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Shadows Blur Together",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/da8302061a7e3fa0e841c5b24a07f97f1fb43fa4.jpg",
+      "hidden": 1,
+      "globalPercent": 1
+    },
+    {
+      "apiname": "get_crimson_curse_via_contagion",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "What Strange Bedfellows",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/4b6b1c5e9a96f66f49ff9bd15f90effa235e231f.jpg",
+      "hidden": 1,
+      "globalPercent": 10.9
+    },
+    {
+      "apiname": "slay_the_fanatic",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Zealous Accusation",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/5df4a5d18a62144c35847dd399ce17d4f84c5854.jpg",
+      "hidden": 1,
+      "globalPercent": 4.8
+    },
+    {
+      "apiname": "rescue_a_prisoner",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Jailbreak",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/9a58f15416dff3d42f195c98d67f48137f0d0c4a.jpg",
+      "hidden": 1,
+      "globalPercent": 10.4
+    },
+    {
+      "apiname": "entire_roster_has_curse",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Blood Cult",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/7767dc4d06698f61b02fc935dd3fb0e04f3aaf66.jpg",
+      "hidden": 1,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "plowshares_to_swords",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Plowshares To Swords",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/cf55b1e203e9b8bfa3c1c18abaa33c3801c42753.jpg",
+      "hidden": 1,
+      "globalPercent": 2.1
+    },
+    {
+      "apiname": "lost_in_dust",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Tears Lost In The Dust",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/662b1e3d6cd77aed12fa5b00ce9027452dc54db7.jpg",
+      "hidden": 1,
+      "globalPercent": 9.2
+    },
+    {
+      "apiname": "taste_of_madness",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Taste Of Madness",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/5f03b383ef514dbdc0bf8cc13832a9438852b64f.jpg",
+      "hidden": 1,
+      "globalPercent": 23.5
+    },
+    {
+      "apiname": "merciful_act",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Merciful Act",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/900f635fb35dea9fbce1722a75bd9022e9bc1dd1.jpg",
+      "hidden": 1,
+      "globalPercent": 13.3
+    },
+    {
+      "apiname": "defeat_sleeper",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Beyond The Infinite",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/935a8cafa841c70760c17359a7f32f3ee5a5b94a.jpg",
+      "hidden": 1,
+      "globalPercent": 6
+    },
+    {
+      "apiname": "shards_well_spent",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Shards Well Spent",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/3dd347185f887b793c9327370e4ea73a7e0eafdc.jpg",
+      "hidden": 1,
+      "globalPercent": 1.7
+    },
+    {
+      "apiname": "build_windmill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Memory Of Better Times (And Spaces)",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/9f33d01fed64937f7daa914b1623bd819f6e6abc.jpg",
+      "hidden": 1,
+      "globalPercent": 1.7
+    },
+    {
+      "apiname": "this_is_nothing",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "This Is Nothing",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/8649b79ab16cfe3f4f8f0b71558040d383fbf301.jpg",
+      "hidden": 1,
+      "globalPercent": 4.7
+    },
+    {
+      "apiname": "hollow_reckoning",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Hollow Reckoning",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/1556c28aeb7826b0d83042cb7024c55f1ec2f665.jpg",
+      "hidden": 1,
+      "globalPercent": 2.4
+    },
+    {
+      "apiname": "ashes_to_ashes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ashes To Ashes",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/8893720011b2dd690eb23140fcaa49501740b98c.jpg",
+      "hidden": 1,
+      "globalPercent": 1.5
+    },
+    {
+      "apiname": "mouth_of_madness",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "In The Mouth of Madness",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/14443c7b3f0411d558941857fe091ff8be694ff0.jpg",
+      "hidden": 1,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "blinders_lifted",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Blinders Are Lifted",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/8ff0d39265ec75bda86621107e7569d76728bfa6.jpg",
+      "hidden": 1,
+      "globalPercent": 11.1
+    },
+    {
+      "apiname": "rogues_gallery",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Rogues Gallery",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/e2322cd42c0bf9c894f59b1da01af734fc2f8e31.jpg",
+      "hidden": 1,
+      "globalPercent": 1.3
+    },
+    {
+      "apiname": "defeat_thing_from_stars",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "There Are No Words",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/314018e07e2182ef54581a087fb1b959f03e407d.jpg",
+      "hidden": 1,
+      "globalPercent": 15.6
+    },
+    {
+      "apiname": "revenant_riposte",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Time Is A Flat Circle",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/c94b222dba7ff2eb17d8168280e2706461cc22c3.jpg",
+      "hidden": 1,
+      "globalPercent": 5.6
+    },
+    {
+      "apiname": "blue_skies_ahead",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Blue Skies Ahead",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/ce44c6c3024c136f5e440bfa51ca6a0dd34c760e.jpg",
+      "hidden": 1,
+      "globalPercent": 5.4
+    },
+    {
+      "apiname": "four_hero_dodge_miller",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Poor Harvest",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/03b400d4bb77fc6e872aeb9bd121ed7e64505f98.jpg",
+      "hidden": 1,
+      "globalPercent": 4.7
+    },
+    {
+      "apiname": "lining_pocket",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Lining the Jeweller's Pockets",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/2c01379ad6b1a8dcf3f8841ebbb36e2417de4f95.jpg",
+      "hidden": 1,
+      "globalPercent": 2.8
+    },
+    {
+      "apiname": "rainbows_end",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Rainbow's End",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/26796c4a93daeabe9ea23a8a87daffeca0909e91.jpg",
+      "hidden": 1,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "pipe_dream",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Pipe Dream",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/b7b89224a62ecb690ed4c548dd7418cea36b5199.jpg",
+      "hidden": 1,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "arena_first_arena_played",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Fresh Meat",
+      "description": "Play your first match in the Butcher's Circus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/61fde9bf7a51ca0b8936e042b9cb5e2ea15c30d0.jpg",
+      "hidden": 0,
+      "globalPercent": 13.4
+    },
+    {
+      "apiname": "arena_first_heartattack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Scare Tactics",
+      "description": "Cause an enemy hero to have a heart attack",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/7ef9858806a2f80d27f8029245235a22379065bd.jpg",
+      "hidden": 0,
+      "globalPercent": 3.3
+    },
+    {
+      "apiname": "arena_kill_all_heroes",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Taking All Challengers",
+      "description": "Kill each hero class in the Butcher's Circus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/aaa4bc6d351944052324bfac1dca5c4a4ba58b6a.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "arena_direct_challenge",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mono et Mono",
+      "description": "Win a match in the dueling grounds",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/f04c06d9cca3ec72f9c0b9007c4baf400fd1f183.jpg",
+      "hidden": 0,
+      "globalPercent": 1.4
+    },
+    {
+      "apiname": "arena_daze_ten_enemies",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Bright Lights",
+      "description": "Daze 10 enemies in the Butcher's Circus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/6a30748602c43a49113f3999d04d2e5d86cd4b3d.jpg",
+      "hidden": 0,
+      "globalPercent": 1.9
+    },
+    {
+      "apiname": "arena_no_damage_win",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Shouting Match",
+      "description": "Win a match using ONLY stress against your enemies",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/5ac7711eaf0a0a33a1b942722abddf72d5fbae19.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "arena_survive_multiple_dd_checks",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Devil's Luck",
+      "description": "Have a hero survive 5 death's door checks in a single match",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/633daeab943933bb0689ea8958b43d0ed81af57a.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "arena_single_hero_kills_all",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "MVP",
+      "description": "Have a single hero deal deathblows to 4 enemies in a single match",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/975f6ea3000bb3c74e379defac97a45738812e78.jpg",
+      "hidden": 0,
+      "globalPercent": 1.4
+    },
+    {
+      "apiname": "arena_round_one_kill",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "One and Done",
+      "description": "Kill an enemy hero in the first round of a match",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/d6c0eb3fc67d0178dbc70a96d5d08e82dd2c81b0.jpg",
+      "hidden": 0,
+      "globalPercent": 0.9
+    },
+    {
+      "apiname": "arena_survive_multiple_heartattack",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Pacemaker",
+      "description": "Have a single hero survive 4 heart attacks in a single match",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/831b83585b27652abbff496fea36625a93b36b71.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "arena_no_trinket_win",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Naked and Unafraid",
+      "description": "Win a match without using any trinkets",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/70a0b57e67bdd83c47354b4912172ecb304ab412.jpg",
+      "hidden": 0,
+      "globalPercent": 2.4
+    },
+    {
+      "apiname": "arena_win_100",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Blood Soaks the Sand",
+      "description": "Win 100 matches in the Butcher's Circus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/4baeb81c7cc735fe0f6b32bfa5159943ba928f17.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "arena_heartattack_150",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Be Still My Heart!",
+      "description": "Cause 150 heart attacks in the Butcher's Circus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/4b2ce9c2b21e671b4c0700f1714da1c949a4f347.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "arena_kill_600",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Blood Flood",
+      "description": "Kill 600 enemies in the Butcher's Circus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/833059198ebaddbe6d98bb123c4047faaf9e09f2.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "arena_reach_max_prestige",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Crowd Pleaser",
+      "description": "Reach the max Prestige level in the Butcher's Circus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/e50459ecb4de645fc009d857dac3ce7edcae194b.jpg",
+      "hidden": 0,
+      "globalPercent": 1.4
+    },
+    {
+      "apiname": "arena_ten_perfect_victories",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Flawless Execution",
+      "description": "Win any 10 matches without losing any heroes",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/262060/c28ee61b51b53d4ad38da233649995eb9a5ed162.jpg",
+      "hidden": 0,
+      "globalPercent": 0.9
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2025-12-30T16:53:45.429Z"
+}

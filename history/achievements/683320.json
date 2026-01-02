@@ -1,0 +1,178 @@
+{
+  "appId": 683320,
+  "gameName": "GRIS",
+  "achievements": [
+    {
+      "apiname": "Z1_DISCOVER_RED",
+      "achieved": 1,
+      "unlocktime": 1758481906,
+      "displayName": "Red",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/0ab3b42637b2d42cb41e58ec08f06e1c554b81ca.jpg",
+      "hidden": 1,
+      "globalPercent": 88.9
+    },
+    {
+      "apiname": "Z1_DENIAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Denial",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/bdbe48c9a5b067049fee151fe7606341ef9aeeb5.jpg",
+      "hidden": 1,
+      "globalPercent": 7.7
+    },
+    {
+      "apiname": "Z2_DISCOVER_GREEN",
+      "achieved": 1,
+      "unlocktime": 1767239402,
+      "displayName": "Green",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/306abd4cfb176a4f9c734afa99cdf35086e29cfe.jpg",
+      "hidden": 1,
+      "globalPercent": 65.1
+    },
+    {
+      "apiname": "Z2_ANGER",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Anger",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/b38cb405f1a5834c5a8047a4394d6b9bdfc9c7e0.jpg",
+      "hidden": 1,
+      "globalPercent": 7.6
+    },
+    {
+      "apiname": "Z3_DISCOVER_BLUE",
+      "achieved": 1,
+      "unlocktime": 1767242507,
+      "displayName": "Blue",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/7bd4e670a6f403d8507b10948f47b059bc950ab1.jpg",
+      "hidden": 1,
+      "globalPercent": 52.7
+    },
+    {
+      "apiname": "Z3_BARGAINING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Bargaining",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/f1ceee93b14423b7c2cf303f7adad6396933bb7e.jpg",
+      "hidden": 1,
+      "globalPercent": 7.5
+    },
+    {
+      "apiname": "Z4_DISCOVER_YELLOW",
+      "achieved": 1,
+      "unlocktime": 1767245443,
+      "displayName": "Yellow",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/7cd00af83733b8fea182480e45a159cca39d739d.jpg",
+      "hidden": 1,
+      "globalPercent": 45.1
+    },
+    {
+      "apiname": "Z4_DEPRESSION",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Depression",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/b2ad8c0ba2d759b65fa7d211b99a5f93430eb69e.jpg",
+      "hidden": 1,
+      "globalPercent": 16.1
+    },
+    {
+      "apiname": "Z5_ACCEPTANCE",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Acceptance",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/5046eaeca4ba827890f51afb60ed6ba8e82fd734.jpg",
+      "hidden": 1,
+      "globalPercent": 25.3
+    },
+    {
+      "apiname": "Z6_ENDGAME",
+      "achieved": 1,
+      "unlocktime": 1767266173,
+      "displayName": "The End",
+      "description": "Finish the game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/babd54e574ed82137bfbc80a76a51a9c0987be90.jpg",
+      "hidden": 0,
+      "globalPercent": 37.9
+    },
+    {
+      "apiname": "Z6_ALLCOLLECTIBLES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mementos",
+      "description": "Find all mementos",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/97e23360b705cba68c1ce0951f9a9f2e8c18030f.jpg",
+      "hidden": 0,
+      "globalPercent": 5.4
+    },
+    {
+      "apiname": "Z6_EXTRAENDING",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Childhood",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/cb4095ad6fdce2ceacc83ddd47fc185d4cd0e01e.jpg",
+      "hidden": 1,
+      "globalPercent": 5.3
+    },
+    {
+      "apiname": "Z2_AVOID_SANDSTORM",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sandstorm",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/bdca795dd71c8b7534785d7a28a7dcc9af4090c8.jpg",
+      "hidden": 1,
+      "globalPercent": 6.8
+    },
+    {
+      "apiname": "Z3_KODAMA_APPLES",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Apples",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/137866bbc099774d632dd7f4e86ac2e305fe3004.jpg",
+      "hidden": 1,
+      "globalPercent": 12.5
+    },
+    {
+      "apiname": "Z4_AVOID_EEL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Eel",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/788833801ff80d5f7b37c0a42b3f160c618fc232.jpg",
+      "hidden": 1,
+      "globalPercent": 9
+    },
+    {
+      "apiname": "Z5_SING_SPECIAL",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Magic fowls",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/7a2562cfd85f470111b826b5376514ffa0e907d9.jpg",
+      "hidden": 1,
+      "globalPercent": 5.8
+    },
+    {
+      "apiname": "Z2_INUKSUIT",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Inuksuit",
+      "description": "",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/dbc90fc9ae9e786527492b005531f70e91fc1000.jpg",
+      "hidden": 1,
+      "globalPercent": 8.5
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2026-01-02T04:17:53.625Z"
+}
