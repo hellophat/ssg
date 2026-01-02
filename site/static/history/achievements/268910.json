@@ -200,7 +200,7 @@
       "description": "Obtain all Super Arts",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/b6e8e325158aec050b3534bc7489286577686ae1.jpg",
       "hidden": 0,
-      "globalPercent": 23.7
+      "globalPercent": 23.8
     },
     {
       "apiname": "NoHitsTaken",
@@ -220,7 +220,7 @@
       "description": "Get every coin in all of the levels",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/fcc6cd08b814faf2fad7541afe22b97169c269f0.jpg",
       "hidden": 0,
-      "globalPercent": 12.5
+      "globalPercent": 12.6
     },
     {
       "apiname": "ParryChain",
@@ -310,7 +310,7 @@
       "description": "Defeat a boss with Ms. Chalice",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/23d296982c0b88fc54689113e7f830a0c4bfecad.jpg",
       "hidden": 0,
-      "globalPercent": 12
+      "globalPercent": 11.9
     },
     {
       "apiname": "DefeatXBossesAsChalice",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-02T12:05:10.476Z"
+  "fetchedAt": "2026-01-02T14:03:46.364Z"
 }
