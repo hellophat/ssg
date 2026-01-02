@@ -4,7 +4,7 @@
     {
       "appid": 268910,
       "name": "Cuphead",
-      "playtime_2weeks": 1656,
+      "playtime_2weeks": 1588,
       "playtime_forever": 1706,
       "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
       "playtime_windows_forever": 0,
@@ -15,11 +15,11 @@
     {
       "appid": 1145350,
       "name": "Hades II",
-      "playtime_2weeks": 529,
-      "playtime_forever": 529,
+      "playtime_2weeks": 631,
+      "playtime_forever": 631,
       "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
       "playtime_windows_forever": 0,
-      "playtime_mac_forever": 529,
+      "playtime_mac_forever": 631,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
@@ -68,5 +68,5 @@
       "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-02T16:03:55.082Z"
+  "fetchedAt": "2026-01-02T18:04:24.799Z"
 }
