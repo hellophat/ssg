@@ -30,7 +30,7 @@
       "description": "Bind your first Silk Skill",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a34b4da6c1652ec31603b82de0e983173917b2ad.jpg",
       "hidden": 0,
-      "globalPercent": 88.6
+      "globalPercent": 88.7
     },
     {
       "apiname": "ALL_SILK_SKILLS",
@@ -50,7 +50,7 @@
       "description": "Claim your first Crest",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/78a69856138d377fe00fd3c988960f795391fb5c.jpg",
       "hidden": 0,
-      "globalPercent": 71.9
+      "globalPercent": 72
     },
     {
       "apiname": "ALL_CRESTS",
@@ -60,7 +60,7 @@
       "description": "Claim all Crests",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/8868a841d9f6cda1174a3e0c9337920cd6b6996b.jpg",
       "hidden": 0,
-      "globalPercent": 29.7
+      "globalPercent": 29.8
     },
     {
       "apiname": "FIRST_MASK",
@@ -70,7 +70,7 @@
       "description": "Acquire 4 Mask Shards",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/25e4cf2ca80fc6fab8695433378aada8f4efbe03.jpg",
       "hidden": 0,
-      "globalPercent": 63.2
+      "globalPercent": 63.3
     },
     {
       "apiname": "ALL_MASKS",
@@ -90,7 +90,7 @@
       "description": "Acquire 2 Spool Fragments",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/5c23c27ee2ca186fa35ac7e74fd027dd3507f834.jpg",
       "hidden": 0,
-      "globalPercent": 67
+      "globalPercent": 67.1
     },
     {
       "apiname": "ALL_SILK_SPOOLS",
@@ -130,7 +130,7 @@
       "description": "Open all of Pharloom's Bellways",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/22af3edce928bb5e213d5db3ef03e5a7bf6be9d5.jpg",
       "hidden": 0,
-      "globalPercent": 43
+      "globalPercent": 43.1
     },
     {
       "apiname": "BELLWAY_MELODY",
@@ -140,7 +140,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/6edbccd7149e1ee90f5345f9fdb1d8ae81ef06fe.jpg",
       "hidden": 1,
-      "globalPercent": 37.5
+      "globalPercent": 37.6
     },
     {
       "apiname": "TUBES_FULL",
@@ -150,7 +150,7 @@
       "description": "Open all of the Citadel's Ventrica Stations",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/797f04d75564c683ed7fa51ac6b66e922a2ad84f.jpg",
       "hidden": 0,
-      "globalPercent": 44.9
+      "globalPercent": 45
     },
     {
       "apiname": "JOURNAL_HALF",
@@ -180,7 +180,7 @@
       "description": "Rescue half of Pharloom's lost fleas",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/981a17e1f83061b2dd64724b1b9bb6a3bb8de471.jpg",
       "hidden": 0,
-      "globalPercent": 50.1
+      "globalPercent": 50.2
     },
     {
       "apiname": "FLEAS_ALL",
@@ -190,7 +190,7 @@
       "description": "Rescue all of Pharloom's lost fleas and receive their final gift",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/85d79e525987607b323cb7ba2f1177c70d921d84.jpg",
       "hidden": 0,
-      "globalPercent": 33.8
+      "globalPercent": 33.9
     },
     {
       "apiname": "DEFEATED_BELLBEAST",
@@ -200,7 +200,7 @@
       "description": "Defeat the Bell Beast",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a3806725642c2918243b8db87d3e99a49e1f16e4.jpg",
       "hidden": 0,
-      "globalPercent": 86.7
+      "globalPercent": 86.8
     },
     {
       "apiname": "DEFEATED_LACE_1",
@@ -210,7 +210,7 @@
       "description": "Defeat Lace in Deep Docks",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/3851723da35a65dae364366513aaa32297ccb537.jpg",
       "hidden": 0,
-      "globalPercent": 78.3
+      "globalPercent": 78.4
     },
     {
       "apiname": "DEFEATED_SONG_GOLEM",
@@ -220,7 +220,7 @@
       "description": "Defeat Fourth Chorus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/62d9be89e0362b89d4e63632cb00c4584970c098.jpg",
       "hidden": 0,
-      "globalPercent": 76.1
+      "globalPercent": 76.2
     },
     {
       "apiname": "DEFEATED_WIDOW",
@@ -230,7 +230,7 @@
       "description": "Defeat Widow",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/27d60711d57bc5e263ba787f731be7fc5d8b17c7.jpg",
       "hidden": 0,
-      "globalPercent": 65.6
+      "globalPercent": 65.8
     },
     {
       "apiname": "DEFEATED_LAST_JUDGE_1",
@@ -240,7 +240,7 @@
       "description": "Defeat the Last Judge",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/c9adb431ea87c9912d58166bde7acbf9c52c8659.jpg",
       "hidden": 0,
-      "globalPercent": 59.6
+      "globalPercent": 59.7
     },
     {
       "apiname": "DEFEATED_COGWORK_DANCERS",
@@ -250,7 +250,7 @@
       "description": "Defeat the Cogwork Dancers",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7f8569d8a92aa94317ca9500d3ce0956d1ab3fb5.jpg",
       "hidden": 0,
-      "globalPercent": 57.2
+      "globalPercent": 57.3
     },
     {
       "apiname": "DEFEATED_TROBBIO",
@@ -280,7 +280,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/1437a98c738c7abc16366a81505b61b50605a931.jpg",
       "hidden": 1,
-      "globalPercent": 46.7
+      "globalPercent": 46.8
     },
     {
       "apiname": "DEFEATED_FIRST_SINNER",
@@ -300,7 +300,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/504597992f163a8a9328d9b0d7156b3362146d77.jpg",
       "hidden": 1,
-      "globalPercent": 31.9
+      "globalPercent": 32
     },
     {
       "apiname": "DEFEATED_FLOWER_QUEEN",
@@ -340,7 +340,7 @@
       "description": "Grant your first wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/4cae086731038d810d9df5af8977a24b4dc87a44.jpg",
       "hidden": 0,
-      "globalPercent": 83.2
+      "globalPercent": 83.3
     },
     {
       "apiname": "GOURMAND_WISH",
@@ -350,7 +350,7 @@
       "description": "Satiate the Grand Gourmand",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/550244d631259d001fbc57aa772628691d4894ae.jpg",
       "hidden": 0,
-      "globalPercent": 41.5
+      "globalPercent": 41.6
     },
     {
       "apiname": "SHAKRA_FINAL_QUEST",
@@ -360,7 +360,7 @@
       "description": "Grant Shakra's wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/63c76c65e6e05301678fc1a3c528045a8cc54575.jpg",
       "hidden": 0,
-      "globalPercent": 41.3
+      "globalPercent": 41.4
     },
     {
       "apiname": "GARMOND_FINAL_QUEST",
@@ -410,7 +410,7 @@
       "description": "Learn the Citadel's Threefold song",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/ecd88a236d01de183278805373acfc4e65c3784e.jpg",
       "hidden": 0,
-      "globalPercent": 47
+      "globalPercent": 47.1
     },
     {
       "apiname": "WHITE_FLOWER_GAINED",
@@ -524,5 +524,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-03T10:03:16.896Z"
+  "fetchedAt": "2026-01-03T12:04:56.528Z"
 }

@@ -10,7 +10,7 @@
       "description": "Witnessed the beginning.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/0be2d6dcfb7fe1b06bcf892419b508195ea5aa60.jpg",
       "hidden": 0,
-      "globalPercent": 56.5
+      "globalPercent": 56.4
     },
     {
       "apiname": "ACH_FINISH_FOLLOWING_01",
@@ -150,7 +150,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/89932c93a77be76d4c1607581905925b12543d9d.jpg",
       "hidden": 1,
-      "globalPercent": 24.8
+      "globalPercent": 24.7
     },
     {
       "apiname": "ACH_FINISH_HUBBLE_02",
@@ -174,5 +174,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-03T10:03:19.161Z"
+  "fetchedAt": "2026-01-03T12:04:58.261Z"
 }
