@@ -10,7 +10,7 @@
       "description": "Clear Erebus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/974c728e91ee0068539259f7cc6f4bc5f3373fd8.jpg",
       "hidden": 0,
-      "globalPercent": 58.7
+      "globalPercent": 58.8
     },
     {
       "apiname": "AchClearOceanus",
@@ -20,17 +20,17 @@
       "description": "Clear Oceanus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9bd88f9a13639e00c4b9371fdce7303c5ff241fc.jpg",
       "hidden": 0,
-      "globalPercent": 53.4
+      "globalPercent": 53.5
     },
     {
       "apiname": "AchClearFields",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767433104,
       "displayName": "Witch of the Plains",
       "description": "Clear the Fields of Mourning",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ead0acbb6c3cb0739f7fd377c38faa8a144408b3.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/829a116afe40a17c47b05fa41bfb3edbef73eca9.jpg",
       "hidden": 0,
-      "globalPercent": 50
+      "globalPercent": 50.1
     },
     {
       "apiname": "AchClearTartarus",
@@ -40,7 +40,7 @@
       "description": "Clear Tartarus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/4aa6f5855a9c785ecde5935211c969054797a68d.jpg",
       "hidden": 0,
-      "globalPercent": 39.4
+      "globalPercent": 39.5
     },
     {
       "apiname": "AchClearEphyra",
@@ -54,11 +54,11 @@
     },
     {
       "apiname": "AchClearThessaly",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767429054,
       "displayName": "Witch of the Waters",
       "description": "Clear the Rift of Thessaly",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b6921206330324b72229f08c8a9560308167e298.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/af62d5e2b3ef2777c6b094da2957f37992d4e49b.jpg",
       "hidden": 0,
       "globalPercent": 41.6
     },
@@ -80,7 +80,7 @@
       "description": "Clear the Summit",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ae9679f45ac4433c582d0a6e434e1df125ea83dc.jpg",
       "hidden": 0,
-      "globalPercent": 30.7
+      "globalPercent": 30.8
     },
     {
       "apiname": "AchCauldronSpells1",
@@ -90,7 +90,7 @@
       "description": "Cast 50 Incantations at the Crossroads Cauldron",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/218670037563eb2f2fb9918c4c37ed63bc921d9b.jpg",
       "hidden": 0,
-      "globalPercent": 37.9
+      "globalPercent": 38
     },
     {
       "apiname": "AchBathHouse",
@@ -100,7 +100,7 @@
       "description": "Take one of your comrades to the Hot Springs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/e82f786b540bf24eb16c74cc660f1ee26d8cc610.jpg",
       "hidden": 0,
-      "globalPercent": 41.1
+      "globalPercent": 41.2
     },
     {
       "apiname": "AchFishingPier",
@@ -120,7 +120,7 @@
       "description": "Take one of your comrades to the Taverna",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/80dc1ec718bfdfad65164abcce19a1f8b7b3beab.jpg",
       "hidden": 0,
-      "globalPercent": 29.4
+      "globalPercent": 29.5
     },
     {
       "apiname": "AchForgeBonds",
@@ -150,7 +150,7 @@
       "description": "Gain 30 Grasp at the Altar of Ashes",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/4d28974d1f966e6bac5221972ec64441a283944d.jpg",
       "hidden": 0,
-      "globalPercent": 28.6
+      "globalPercent": 28.7
     },
     {
       "apiname": "AchAllArcana",
@@ -180,7 +180,7 @@
       "description": "Fulfill the Prophecy 'The Arms of Night'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/d3001619a5b39f634c6ee1462c02c6c7ab76f6b2.jpg",
       "hidden": 0,
-      "globalPercent": 39.9
+      "globalPercent": 40
     },
     {
       "apiname": "AchAllAspects",
@@ -200,7 +200,7 @@
       "description": "Fulfill the Prophecy 'Familiar Confidant'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/5a20c112ae2305e8a28635fa4f06be038c57294d.jpg",
       "hidden": 0,
-      "globalPercent": 32.1
+      "globalPercent": 32.2
     },
     {
       "apiname": "AchAllFamiliars",
@@ -250,7 +250,7 @@
       "description": "Clear 20 Chaos Trials",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/099dcc124bb47e61099afd259e4f8e40669c370c.jpg",
       "hidden": 0,
-      "globalPercent": 7.9
+      "globalPercent": 8
     },
     {
       "apiname": "AchAllRandomStreak",
@@ -280,7 +280,7 @@
       "description": "Fulfill the Prophecy 'Natural Talent'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6b27bc4fb06847383fda97586b3149894a1789c7.jpg",
       "hidden": 0,
-      "globalPercent": 25.4
+      "globalPercent": 25.5
     },
     {
       "apiname": "AchHelpOdysseus",
@@ -390,7 +390,7 @@
       "description": "Fulfill the Prophecy 'Born to Win'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/1731de7007a4539362a073676c76710a16ea9ac5.jpg",
       "hidden": 0,
-      "globalPercent": 8.3
+      "globalPercent": 8.4
     },
     {
       "apiname": "AchNemesisCombat",
@@ -420,15 +420,15 @@
       "description": "Slay a Sister of the Dead while afflicted with Twilight Curse",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/3d6457b3ce55d171cb5c3a56d9158e012212581a.jpg",
       "hidden": 0,
-      "globalPercent": 34.7
+      "globalPercent": 34.8
     },
     {
       "apiname": "AchSummonSiren",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767431920,
       "displayName": "Breaking Up the Band",
       "description": "Use Night Bloom to raise a Siren",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6d198c14e5153963cbf0aa8d4399a4368bdc51dc.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/79e935f097f6dcaaf973aefc7d3645c8010de193.jpg",
       "hidden": 0,
       "globalPercent": 19.7
     },
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-03T08:04:04.904Z"
+  "fetchedAt": "2026-01-03T10:03:10.035Z"
 }
