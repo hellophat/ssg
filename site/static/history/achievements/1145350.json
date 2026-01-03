@@ -44,11 +44,11 @@
     },
     {
       "apiname": "AchClearEphyra",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767424753,
       "displayName": "Witch of the Outskirts",
       "description": "Clear the City of Ephyra",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/7c5d6ddda789caf10e7a09726c5eac6e338028ac.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/be944d65c04c2446f9389c0ea15fdb34a15cba47.jpg",
       "hidden": 0,
       "globalPercent": 44.8
     },
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-03T06:04:30.118Z"
+  "fetchedAt": "2026-01-03T08:04:04.904Z"
 }
