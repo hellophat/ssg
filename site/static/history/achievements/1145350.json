@@ -64,11 +64,11 @@
     },
     {
       "apiname": "AchClearOlympus",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767522086,
       "displayName": "Witch of the Mountains",
       "description": "Clear Mount Olympus",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b194ffd7a653eb9cb75c05f31725dda8c8c053e6.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9836d475ab4c692991b945465d721b2f14774e6c.jpg",
       "hidden": 0,
       "globalPercent": 37
     },
@@ -154,11 +154,11 @@
     },
     {
       "apiname": "AchAllArcana",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767523189,
       "displayName": "Breadth of Knowledge",
       "description": "Fulfill the Prophecy 'Breadth of Knowledge'",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/575bd330783b5a014724e461920803c25680f318.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/8ecff233744db9661a80ab2ffbb1c2ae675d83fd.jpg",
       "hidden": 0,
       "globalPercent": 33.3
     },
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-04T10:03:35.944Z"
+  "fetchedAt": "2026-01-04T12:04:32.737Z"
 }
