@@ -40,7 +40,7 @@
       "description": "Defeat every boss in Inkwell Isle III",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/78d4a0ccd6796e7dd8b26062b1de45a11dafcf52.jpg",
       "hidden": 0,
-      "globalPercent": 21.5
+      "globalPercent": 21.4
     },
     {
       "apiname": "CompleteDicePalace",
@@ -230,7 +230,7 @@
       "description": "Parry five times before hitting the ground",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/586281026d280336f751d7fab15984118e39cc4d.jpg",
       "hidden": 0,
-      "globalPercent": 21.1
+      "globalPercent": 21
     },
     {
       "apiname": "ParryApprentice",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-04T02:47:10.273Z"
+  "fetchedAt": "2026-01-04T04:22:07.936Z"
 }
