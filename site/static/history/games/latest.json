@@ -1,5 +1,5 @@
 {
-  "game_count": 13,
+  "game_count": 14,
   "games": [
     {
       "appid": 550,
@@ -83,7 +83,7 @@
     {
       "appid": 268910,
       "name": "Cuphead",
-      "playtime_2weeks": 1706,
+      "playtime_2weeks": 1026,
       "playtime_forever": 1706,
       "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
       "has_community_visible_stats": true,
@@ -92,6 +92,19 @@
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0,
       "rtime_last_played": 1767283057,
+      "playtime_disconnected": 0
+    },
+    {
+      "appid": 289070,
+      "name": "Sid Meier's Civilization VI",
+      "playtime_forever": 0,
+      "img_icon_url": "9dc914132fec244adcede62fb8e7524a72a7398c",
+      "has_community_visible_stats": true,
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 0,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0,
+      "rtime_last_played": 0,
       "playtime_disconnected": 0
     },
     {
@@ -164,14 +177,15 @@
     {
       "appid": 1145350,
       "name": "Hades II",
-      "playtime_forever": 0,
+      "playtime_2weeks": 2276,
+      "playtime_forever": 2276,
       "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
       "has_community_visible_stats": true,
       "playtime_windows_forever": 0,
-      "playtime_mac_forever": 0,
+      "playtime_mac_forever": 2276,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0,
-      "rtime_last_played": 0,
+      "rtime_last_played": 1767548856,
       "playtime_disconnected": 0
     },
     {
@@ -192,5 +206,5 @@
       "playtime_disconnected": 0
     }
   ],
-  "fetchedAt": "2026-01-01T20:04:04.327Z"
+  "fetchedAt": "2026-01-04T20:03:40.671Z"
 }
