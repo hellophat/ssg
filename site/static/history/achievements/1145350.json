@@ -30,15 +30,15 @@
       "description": "Clear the Fields of Mourning",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/829a116afe40a17c47b05fa41bfb3edbef73eca9.jpg",
       "hidden": 0,
-      "globalPercent": 49.9
+      "globalPercent": 50
     },
     {
       "apiname": "AchClearTartarus",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767503531,
       "displayName": "Witch of the Abyss",
       "description": "Clear Tartarus",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/4aa6f5855a9c785ecde5935211c969054797a68d.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/810e785977be190207d8be8ef1f4eeba83b3f3b2.jpg",
       "hidden": 0,
       "globalPercent": 39.4
     },
@@ -430,7 +430,7 @@
       "description": "Use Night Bloom to raise a Siren",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/79e935f097f6dcaaf973aefc7d3645c8010de193.jpg",
       "hidden": 0,
-      "globalPercent": 19.6
+      "globalPercent": 19.7
     },
     {
       "apiname": "AchTartarusInDress",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-04T04:22:06.183Z"
+  "fetchedAt": "2026-01-04T06:04:32.987Z"
 }
