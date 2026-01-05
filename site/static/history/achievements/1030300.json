@@ -10,7 +10,7 @@
       "description": "Acquire your first Tool",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/42d64a86bb4d50c2574612892ccdde465a020a54.jpg",
       "hidden": 0,
-      "globalPercent": 91
+      "globalPercent": 91.1
     },
     {
       "apiname": "ALL_TOOLS",
@@ -20,7 +20,7 @@
       "description": "Acquire all Tools",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/690e5d5768fad49f0f6f5dbc0ea803429030173f.jpg",
       "hidden": 0,
-      "globalPercent": 19.9
+      "globalPercent": 20
     },
     {
       "apiname": "FIRST_SILK_SKILL",
@@ -30,7 +30,7 @@
       "description": "Bind your first Silk Skill",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a34b4da6c1652ec31603b82de0e983173917b2ad.jpg",
       "hidden": 0,
-      "globalPercent": 88.7
+      "globalPercent": 88.8
     },
     {
       "apiname": "ALL_SILK_SKILLS",
@@ -40,7 +40,7 @@
       "description": "Bind all Silk Skills",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/711c759ff9066ed10c39f3075d169f6970fe670f.jpg",
       "hidden": 0,
-      "globalPercent": 28.7
+      "globalPercent": 28.8
     },
     {
       "apiname": "FIRST_CREST",
@@ -70,7 +70,7 @@
       "description": "Acquire 4 Mask Shards",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/25e4cf2ca80fc6fab8695433378aada8f4efbe03.jpg",
       "hidden": 0,
-      "globalPercent": 63.3
+      "globalPercent": 63.4
     },
     {
       "apiname": "ALL_MASKS",
@@ -90,7 +90,7 @@
       "description": "Acquire 2 Spool Fragments",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/5c23c27ee2ca186fa35ac7e74fd027dd3507f834.jpg",
       "hidden": 0,
-      "globalPercent": 67.1
+      "globalPercent": 67.2
     },
     {
       "apiname": "ALL_SILK_SPOOLS",
@@ -160,7 +160,7 @@
       "description": "Grant Nuu's wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/43386e420aedc8ed92ef286c4b7ccabc91b6a9f4.jpg",
       "hidden": 0,
-      "globalPercent": 54.1
+      "globalPercent": 54.2
     },
     {
       "apiname": "JOURNAL_FULL",
@@ -200,7 +200,7 @@
       "description": "Defeat the Bell Beast",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a3806725642c2918243b8db87d3e99a49e1f16e4.jpg",
       "hidden": 0,
-      "globalPercent": 86.8
+      "globalPercent": 86.9
     },
     {
       "apiname": "DEFEATED_LACE_1",
@@ -210,7 +210,7 @@
       "description": "Defeat Lace in Deep Docks",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/3851723da35a65dae364366513aaa32297ccb537.jpg",
       "hidden": 0,
-      "globalPercent": 78.4
+      "globalPercent": 78.5
     },
     {
       "apiname": "DEFEATED_SONG_GOLEM",
@@ -220,7 +220,7 @@
       "description": "Defeat Fourth Chorus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/62d9be89e0362b89d4e63632cb00c4584970c098.jpg",
       "hidden": 0,
-      "globalPercent": 76.2
+      "globalPercent": 76.3
     },
     {
       "apiname": "DEFEATED_WIDOW",
@@ -240,7 +240,7 @@
       "description": "Defeat the Last Judge",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/c9adb431ea87c9912d58166bde7acbf9c52c8659.jpg",
       "hidden": 0,
-      "globalPercent": 59.7
+      "globalPercent": 59.8
     },
     {
       "apiname": "DEFEATED_COGWORK_DANCERS",
@@ -260,7 +260,7 @@
       "description": "Defeat Trobbio",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/1b40a2e64093d4fa38218d61e0980970ac143b80.jpg",
       "hidden": 0,
-      "globalPercent": 51.3
+      "globalPercent": 51.4
     },
     {
       "apiname": "DEFEATED_LACE_2",
@@ -270,7 +270,7 @@
       "description": "Defeat Lace in the Cradle",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/150935e5e3a5b1000e83032829a693f871326e34.jpg",
       "hidden": 0,
-      "globalPercent": 45.3
+      "globalPercent": 45.4
     },
     {
       "apiname": "DEFEATED_PHANTOM_1",
@@ -340,7 +340,7 @@
       "description": "Grant your first wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/4cae086731038d810d9df5af8977a24b4dc87a44.jpg",
       "hidden": 0,
-      "globalPercent": 83.3
+      "globalPercent": 83.4
     },
     {
       "apiname": "GOURMAND_WISH",
@@ -390,7 +390,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/6772e6e8b083425dffb3c4b3cf947c1c46767e71.jpg",
       "hidden": 1,
-      "globalPercent": 24.7
+      "globalPercent": 24.8
     },
     {
       "apiname": "BELLHOME",
@@ -400,7 +400,7 @@
       "description": "Acquire your own Bellhome",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7e34a5cdb17062b939748eb15066a44d5b0114f0.jpg",
       "hidden": 0,
-      "globalPercent": 45.9
+      "globalPercent": 46
     },
     {
       "apiname": "CITADEL_SONG",
@@ -524,5 +524,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-05T02:47:30.626Z"
+  "fetchedAt": "2026-01-05T04:26:00.410Z"
 }
