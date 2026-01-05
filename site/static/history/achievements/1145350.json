@@ -84,11 +84,11 @@
     },
     {
       "apiname": "AchCauldronSpells1",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1767623293,
       "displayName": "So Mote It Be",
       "description": "Cast 50 Incantations at the Crossroads Cauldron",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/218670037563eb2f2fb9918c4c37ed63bc921d9b.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/34764be7ef10aab87367f521c18b20e7c90b230b.jpg",
       "hidden": 0,
       "globalPercent": 37.9
     },
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-05T14:04:53.731Z"
+  "fetchedAt": "2026-01-05T16:05:02.136Z"
 }
