@@ -10,7 +10,7 @@
       "description": "Clear Erebus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/974c728e91ee0068539259f7cc6f4bc5f3373fd8.jpg",
       "hidden": 0,
-      "globalPercent": 58.6
+      "globalPercent": 58.7
     },
     {
       "apiname": "AchClearOceanus",
@@ -50,7 +50,7 @@
       "description": "Clear the City of Ephyra",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/be944d65c04c2446f9389c0ea15fdb34a15cba47.jpg",
       "hidden": 0,
-      "globalPercent": 44.7
+      "globalPercent": 44.8
     },
     {
       "apiname": "AchClearThessaly",
@@ -60,7 +60,7 @@
       "description": "Clear the Rift of Thessaly",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/af62d5e2b3ef2777c6b094da2957f37992d4e49b.jpg",
       "hidden": 0,
-      "globalPercent": 41.5
+      "globalPercent": 41.6
     },
     {
       "apiname": "AchClearOlympus",
@@ -110,7 +110,7 @@
       "description": "Take one of your comrades to the Fishing Pier",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/938b874492943d462994f7f4809a640979835d0e.jpg",
       "hidden": 0,
-      "globalPercent": 31.7
+      "globalPercent": 31.8
     },
     {
       "apiname": "AchTaverna",
@@ -210,7 +210,7 @@
       "description": "Recruit all Animal Familiars",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b612eb4bcdc7781d9d796e71cad520a845dc8b8a.jpg",
       "hidden": 0,
-      "globalPercent": 21.3
+      "globalPercent": 21.4
     },
     {
       "apiname": "AchAllFamiliarsMax",
@@ -270,7 +270,7 @@
       "description": "Clear the 'Great Chaos Below' Trial",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b5309ad54b39238c77491c3c29dc3b4b1ee1582d.jpg",
       "hidden": 0,
-      "globalPercent": 3.5
+      "globalPercent": 3.6
     },
     {
       "apiname": "AchBeatHecateNoArcana",
@@ -440,7 +440,7 @@
       "description": "Reach the final confrontation in an Arachne outfit",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/d73862b8f5616cb6ef62a1517c9dadddf5e83f7b.jpg",
       "hidden": 0,
-      "globalPercent": 9.6
+      "globalPercent": 9.7
     },
     {
       "apiname": "AchEarnStatue1",
@@ -480,7 +480,7 @@
       "description": "Complete the lifelong task of the Princess of the Underworld",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/0017f60f2a9c3b0737fbb149e4daa7236b3d3bda.jpg",
       "hidden": 0,
-      "globalPercent": 21.9
+      "globalPercent": 22
     },
     {
       "apiname": "AchEpilogue",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-05T04:25:53.315Z"
+  "fetchedAt": "2026-01-05T06:06:44.089Z"
 }
