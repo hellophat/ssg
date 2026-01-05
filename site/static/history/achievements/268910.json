@@ -230,7 +230,7 @@
       "description": "Parry five times before hitting the ground",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/586281026d280336f751d7fab15984118e39cc4d.jpg",
       "hidden": 0,
-      "globalPercent": 21.1
+      "globalPercent": 21
     },
     {
       "apiname": "ParryApprentice",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-05T18:05:06.817Z"
+  "fetchedAt": "2026-01-05T20:04:04.697Z"
 }

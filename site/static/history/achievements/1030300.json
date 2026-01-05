@@ -10,7 +10,7 @@
       "description": "Acquire your first Tool",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/42d64a86bb4d50c2574612892ccdde465a020a54.jpg",
       "hidden": 0,
-      "globalPercent": 91
+      "globalPercent": 91.1
     },
     {
       "apiname": "ALL_TOOLS",
@@ -20,7 +20,7 @@
       "description": "Acquire all Tools",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/690e5d5768fad49f0f6f5dbc0ea803429030173f.jpg",
       "hidden": 0,
-      "globalPercent": 19.9
+      "globalPercent": 20
     },
     {
       "apiname": "FIRST_SILK_SKILL",
@@ -390,7 +390,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/6772e6e8b083425dffb3c4b3cf947c1c46767e71.jpg",
       "hidden": 1,
-      "globalPercent": 24.7
+      "globalPercent": 24.8
     },
     {
       "apiname": "BELLHOME",
@@ -524,5 +524,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-05T18:05:12.107Z"
+  "fetchedAt": "2026-01-05T20:04:09.879Z"
 }
