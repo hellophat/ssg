@@ -350,7 +350,7 @@
       "description": "Levy the military of Nan Madol",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 3.4
+      "globalPercent": 3.5
     },
     {
       "apiname": "NEW_ACHIEVEMENT_3_3",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-06T16:04:25.163Z"
+  "fetchedAt": "2026-01-06T18:04:48.842Z"
 }
