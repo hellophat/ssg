@@ -1,0 +1,3208 @@
+{
+  "appId": 289070,
+  "gameName": "Sid Meier's Civilization VI",
+  "achievements": [
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Game, Settler, Match",
+      "description": "Win a regular game at Settler difficulty or harder",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 37.3
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Irish Heartbeat",
+      "description": "Win a regular game at Chieftain difficulty or harder",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 33.6
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Warlording Over Others",
+      "description": "Win a regular game at Warlord difficulty or harder",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 31.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Machiavelli's Great Work",
+      "description": "Win a regular game at Prince difficulty or harder",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 29.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Divine Right of Kings",
+      "description": "Win a regular game at King difficulty or harder",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 15.1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Emperor's New Groove",
+      "description": "Win a regular game at Emperor difficulty or harder",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 10.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "12 Labors of Hercules",
+      "description": "Win a regular game at Immortal difficulty or harder",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "God-Like",
+      "description": "Win a regular game at Deity difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 6.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mission to Mars",
+      "description": "Win a regular game with a Science victory on any difficulty with any leader",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 21.1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Nirvana",
+      "description": "Win a regular game with a Religious victory on any difficulty with any leader",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 11.2
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Buying Your Blue Jeans and Listening to Your Pop Music",
+      "description": "Win a regular game with a Culture victory on any difficulty with any leader",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 19.1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Veni, vidi, vici",
+      "description": "Win a regular game with a Domination victory on any difficulty with any leader",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 19.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Crusader King",
+      "description": "Win a regular game as Frederick Barbarossa",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 8.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Valois Dynasty",
+      "description": "Win a regular game as Catherine De Medici",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 4.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Daughter of Isis",
+      "description": "Win a regular game as Cleopatra",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 5.2
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Be the Change You Wish to See In the World",
+      "description": "Win a regular game as Gandhi",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.3
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "First to Civilize",
+      "description": "Win a regular game as Gilgamesh",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 4.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "For Sparta!!!",
+      "description": "Win a regular game as Gorgo",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 4.1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Varangian Guard",
+      "description": "Win a regular game as Harald Hardrada",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Katsu!",
+      "description": "Win a regular game as Hojo Tokimune",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 6.3
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Montezuma's Revenge",
+      "description": "Win a regular game as Montezuma",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 4.6
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mwene Kongo",
+      "description": "Win a regular game as Mvemba a Nzinga",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Emperor of Brazil",
+      "description": "Win a regular game as Pedro II",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Oratorical Skills",
+      "description": "Win a regular game as Pericles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 4.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Bronze Horseman",
+      "description": "Win a regular game as Peter the Great",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 8.2
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Non Sufficit Orbis",
+      "description": "Win a regular game as Philip II",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Elixir of Immortality",
+      "description": "Win a regular game as Qin Shi Huang",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 10.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sultan of Egypt",
+      "description": "Win a regular game as Saladin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Warrior Queen",
+      "description": "Win a regular game as Tomyris",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 4.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Rome If You Want To",
+      "description": "Win a regular game as Trajan",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 9.3
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Let Teddy Win",
+      "description": "Win a regular game as Theodore Roosevelt",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 7.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_2_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I Am Amused",
+      "description": "Win a regular game as Victoria",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 5.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Gift From the Storm God",
+      "description": "Receive a Strategic Resource from Hattusa",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 36.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Legends of the Hidden Temple",
+      "description": "Build a Colossal Head adjacent to a Holy Site with a Temple.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 5.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Army of Cthulhu",
+      "description": "Levy the military of Nan Madol",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.4
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "100th Anniversary",
+      "description": "As America make a National Park of Crater Lake and both tiles of Yosemite in one game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Arabian Knights",
+      "description": "Conquer a city with a Mamluk",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.5
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Huey Tlatoani",
+      "description": "As Aztecs on a standard-sized map, attack an opponent while receiving a +16 Combat Strength bonus for having all of the luxuries",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "2016 Ready",
+      "description": "Playing as Brazil, complete both Estadio Do Maracana and Christo Redentor in one city",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Crouching Tiger Hidden Cannon",
+      "description": "Playing as China, end a turn with 5 Crouching Tigers on Great Wall tiles",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Walk Like an Egyptian",
+      "description": "As Egypt build a Sphinx adjacent to the Pyramids both on Desert Floodplains",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Flight Slingulator",
+      "description": "Airlift a level 3 Slinger",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "For Queen and Country",
+      "description": "Playing as England on a Huge map, have a city on every continent at the start of the turn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1.5
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Loire Valley",
+      "description": "Create 5 Châteaux in one city with the Wine resource.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Third Crusade",
+      "description": "Playing as Frederick Barbarossa, conquer the city-state of Jerusalem",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 2.3
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "12 Olympians",
+      "description": "Have 12 Policy Slots as Greece",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Give Peace a Chance",
+      "description": "Playing as India on a Huge map, receive +35 Faith in one turn from the Satyagraha ability",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Meiji Restoration",
+      "description": "Playing as Japan, have a district with 6 adjacent unpillaged districts",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 2.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "City of Kongo",
+      "description": "Playing as Kongo, have a capital city with a population of 30",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1.3
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Viking Raid",
+      "description": "Capture a settler with a Viking Longship",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Missed That Day in History Class",
+      "description": "Clear nuclear contamination with a Roman Legion",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Trans-Siberian Railroad",
+      "description": "Playing as Russia, have a city that is at least 60 tiles away from your capital, connected by a Trade Route and road at the start of the turn.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Scythian Horse Rush",
+      "description": "Playing as Scythia have 10 Saka Horse Archers in your army",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 2.1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Nobody Expects the Spanish Inquisition",
+      "description": "Launch an Inquisition as Spain",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.5
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Epic of Gilgamesh",
+      "description": "As Sumeria, have the first Great Work of Writing",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.6
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Origin of Species",
+      "description": "Activate Darwin adjacent to the Galapagos Islands",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 5.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Oneth By Land Twoeth By Sea",
+      "description": "Have an Army of land Units and 2 Armadas",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 19.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Here's Looking At You Kid",
+      "description": "Win a regular game on a Duel Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 5.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Four Corners Offense",
+      "description": "Win a regular game on a Tiny Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 6.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Six Shooter",
+      "description": "Win a regular game on a Small Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 19.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Eight is Enough",
+      "description": "Win a regular game on a Standard Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 20.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ten Commandments",
+      "description": "Win a regular game on a Large Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 9.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Dirty Dozen",
+      "description": "Win a regular game on a Huge Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 15.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_3_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Tectonic Shift",
+      "description": "Win a regular game on the Continents Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 24.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mare Nostrum",
+      "description": "Win a regular game on the Inland Sea Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Taste of Victory",
+      "description": "Win a regular game on the Island Plates Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 4.5
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Riffle and Bridge",
+      "description": "Win a regular game on the Shuffle Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 6.8
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Alfred Wegener's Legacy",
+      "description": "Win a regular game on the Pangaea Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 13.4
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_5",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Archimedes Bath",
+      "description": "Get 5 Tech boosts in 1 turn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 25.2
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_6",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Civ 6 Civets System",
+      "description": "Get 5 Civic boosts in 1 turn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_7",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Luftballons",
+      "description": "Use a bomber class unit to detonate a nuclear device, as long as its base and 9 Observation Balloons are located on the continent of Nena at the time of detonation.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_8",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Pizza Party!",
+      "description": "Activate Leonardo da Vinci in New York with Great Works from Michelangelo and Donatello -- and a sewer -- all in that city",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_9",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Seven Wonders of the Post-Apocalyptic World",
+      "description": "Launch a weapon of mass destruction and have it pillage seven wonders",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Repo Man",
+      "description": "Steal a Great Work of Art and don't get caught",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 15.4
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "District 12",
+      "description": "Build every district type in one city and the Colosseum",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 7.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Land Party",
+      "description": "Play a multiplayer game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 38.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Escort Service",
+      "description": "Put two units into a formation",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 70.6
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "If You Build It, They Will Come",
+      "description": "Have 6 Improvements at one time.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 74.6
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Voyage of the Mayflower",
+      "description": "Found or conquer a city on a different continent",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 60.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Everything is Awesome!!!",
+      "description": "At the start of the turn have an Ecstatic city.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 64.6
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Investment Banking",
+      "description": "Have an enemy city under siege at the start of the turn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 49.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Case for War",
+      "description": "Declare a formal war",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 38.4
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Naming Rights",
+      "description": "Name a unit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 34.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Revolution Without Dancing",
+      "description": "Change your government",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 73.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Secret Service",
+      "description": "Have top secret access with five civilizations in one game at once.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 5.4
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Silver Anniversary",
+      "description": "Possess 6 Silver luxury resources at the start of the turn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 8.3
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "New Orleans Style Spanish Rice",
+      "description": "Become Suzerain of a City-State",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 69.1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Man on the Moon",
+      "description": "Win a regular game with a Science victory on any difficulty with any leader with a captured Egyptian city -- having also activated Newton and Darwin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "We Are The Champions",
+      "description": "Win a regular game with a Religious victory with your dominant religion being Zoroastrianism and at the time of victory you are the Suzerain of Zanzibar",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Selfie",
+      "description": "Win a regular game with a Culture victory with your leader in the game as your opponent as well",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Island Hopping",
+      "description": "Win a regular game with a Domination victory on any difficulty with any leader on a Huge Island Plates map.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Test of Time",
+      "description": "Win a regular game with an Ancient Era start",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 36.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "After Antiquity",
+      "description": "Win a regular game with a Classical Era start",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 2.2
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Out of the Dark Ages",
+      "description": "Win a regular game with a Medieval Era start",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Renaissance Man",
+      "description": "Win a regular game with a Renaissance Era start",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1.5
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_5_0",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Captain of Industry",
+      "description": "Win a regular game with an Industrial Era start",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1.1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_5_1",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Modern Major General",
+      "description": "Win a regular game with a Modern Era start",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_5_2",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Splitting the Atom",
+      "description": "Win a regular game with an Atomic Era start",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.9
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_5_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Through the Digital Age",
+      "description": "Win a regular game with an Information Era start",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1.7
+    },
+    {
+      "apiname": "NEW_ACHIEVEMENT_4_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Unique Snowflake",
+      "description": "Win a regular game on Fractal Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 4.5
+    },
+    {
+      "apiname": "DLC1_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Even Our Castles Have Castles",
+      "description": "Build an Alcazar within 2 tiles of the Alhambra",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1.7
+    },
+    {
+      "apiname": "DLC1_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Finn MacCool's Pipe Organ",
+      "description": "Build a Monastery within 2 tiles of the Giant's Causeway",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "DLC1_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "What Do You Mean, \"Active Volcano?\"",
+      "description": "Build three Aerodromes within 2 tiles of Eyjafjallajökull",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC1_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Absolutely Nothing Rotten in the State of Denmark",
+      "description": "Win Vikings, Traders, and Raiders! as Canute",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "DLC1_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "More Hacksilver For Harald",
+      "description": "Win Vikings, Traders, and Raiders! as Harald Hardrada",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "DLC1_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Master of the Baltic",
+      "description": "Win Vikings, Traders, and Raiders! as Olof Skötkonung",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "DLC1_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "God of the Sea",
+      "description": "Win Vikings, Traders, and Raiders! at Deity difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC2_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Armor of Faith",
+      "description": "Win a regular game as Jadwiga",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 2.5
+    },
+    {
+      "apiname": "DLC2_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "You Are A Terrible Person",
+      "description": "Playing as Poland, destroy another civilization's incomplete wonder by initiating a Culture Bomb",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC2_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Winged Hussar Mastery",
+      "description": "Win Jadwiga's Legacy as Stanislaw Potocki",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1.2
+    },
+    {
+      "apiname": "DLC2_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Always Bet On Black",
+      "description": "Win Jadwiga's Legacy as Mikolaj \"the Black\" Radziwill",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "DLC2_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Grandest of Hetmans",
+      "description": "Win Jadwiga's Legacy as Konstanty Ostrogski",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "DLC2_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "God-Like Legacy",
+      "description": "Win Jadwiga's Legacy at Deity difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "DLC3_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Smashing Victory",
+      "description": "Win a regular game as John Curtin",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.5
+    },
+    {
+      "apiname": "DLC3_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Wood for Sheep",
+      "description": "Playing as Australia, build a Pasture over Sheep and steal an adjacent player's Lumbermill",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC3_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Revenge of the Banana Benders",
+      "description": "Win Outback Tycoon as Queensland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "DLC3_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Crow-eater Conquest",
+      "description": "Win Outback Tycoon as South Australia",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "DLC3_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Gumsucker Punch",
+      "description": "Win Outback Tycoon as Victoria",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "DLC3_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sandgroper Sweep",
+      "description": "Win Outback Tycoon as Western Australia",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "DLC3_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Meanwhile, in Australia",
+      "description": "Win Outback Tycoon at Deity difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC3_ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Quite a Crowded House",
+      "description": "Complete an online multiplayer game of Outback Tycoon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "DLC3_ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Midnight Oil",
+      "description": "Build an Oil Well on the final turn of the Outback Tycoon scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC3_ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Attack of the Drop Bear",
+      "description": "Lose a unit to the perils of Australia in the Outback Tycoon scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3
+    },
+    {
+      "apiname": "DLC4_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Never Lost a Battle",
+      "description": "Win a regular game as Alexander",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3.3
+    },
+    {
+      "apiname": "DLC4_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "King of the Four Corners of the World",
+      "description": "Win a regular game as Cyrus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 2.3
+    },
+    {
+      "apiname": "DLC4_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Greatest Is As Greatest Does",
+      "description": "Playing as Macedon, conquer a city containing both the Great Library and Great Lighthouse wonders",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC4_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Some Wine For Your Soldiers?",
+      "description": "Playing as Persia, conquer the original Scythian capital within 10 turns of declaring a surprise war on Scythia",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "DLC4_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Envoy Convoy",
+      "description": "After building the Apadana wonder, construct 7 additional wonders in the same city",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 11.9
+    },
+    {
+      "apiname": "DLC4_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "No More Worlds To Conquer",
+      "description": "Win Conquests of Alexander on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.9
+    },
+    {
+      "apiname": "DLC4_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "You're the Demonstrably Greatest",
+      "description": "Achieve the highest possible rank in Conquests of Alexander at Deity difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "DLC4_ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "He Named Them All After Himself?",
+      "description": "Settle four cities in Conquests of Alexander on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "DLC4_ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Resplendent Panoply",
+      "description": "Possess all of the following after conquering a city in Conquests of Alexander: Hoplite, Saka Horse Archer, Maryannu Chariot Archer, Immortal, and Varu",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "DLC4_ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I Quenched Your Thirst For Blood",
+      "description": "Playing as Scythia, recapture one of your founded cities from Persia",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC5_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "gg nub",
+      "description": "Win a regular game as Amanitore",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 2.8
+    },
+    {
+      "apiname": "DLC5_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Pyramid Scheme",
+      "description": "As Nubia, earn six different adjacency bonuses on a Nubian Pyramid",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC5_ACHIEVEMENT_3",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Claim the Fourth Cataract",
+      "description": "Playing as Egypt in a regular game, conquer the original Nubian capital within 10 turns of declaring a formal war on Nubia",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "DLC5_ACHIEVEMENT_4",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The 25th Dynasty",
+      "description": "Playing as Nubia, liberate the original Egyptian capital in a liberation war with the capital's conqueror",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "DLC5_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Overclocked Conviction",
+      "description": "After building the Jebel Barkal wonder, earn 28 Faith per turn on its tile",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 3
+    },
+    {
+      "apiname": "DLC5_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "More Wind for the Wind God",
+      "description": "Win Gifts of the Nile on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 1.2
+    },
+    {
+      "apiname": "DLC5_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Total A-Nile-hilation",
+      "description": "Playing Gifts of the Nile as Egypt, win on Deity difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC5_ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "That's Some Good Kerma",
+      "description": "Playing Gifts of the Nile as Nubia, win on Deity difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC5_ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sea of the Bow",
+      "description": "Playing Gifts of the Nile as Nubia, found a coastal city on the Mediterranean Sea",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC5_ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "From Med to Red to the Land of the Dead",
+      "description": "Playing Gifts of the Nile as Egypt, conquer Irem and Punt",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC6_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Cardamom and Mangos and Elephants",
+      "description": "Win a regular game as Jayavarman VII",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 2.9
+    },
+    {
+      "apiname": "DLC6_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "All Beneath the Wings of Garuda",
+      "description": "Win a regular game as Gitarja",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 2.1
+    },
+    {
+      "apiname": "DLC6_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "What is Mind? No Matter. ",
+      "description": "Win the Path to Nirvana scenario on any difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "DLC6_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "What is Matter? Nevermind. ",
+      "description": "Win the Path to Nirvana scenario on Deity",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "DLC6_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Wat is Love",
+      "description": "Build Angkor Wat and a Wat in Angkor Wat",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC6_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Thalassocratophile ",
+      "description": "Have 5 cities on landmasses 5 or less tiles with Indonesia",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "DLC6_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Try To Snatch the Pebble From My Hand ",
+      "description": "Have a Warrior Monk with 4 Promotions",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 1.1
+    },
+    {
+      "apiname": "DLC6_ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Raid Healer",
+      "description": "With a Guru Heal 7 religious units with one action",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "DLC6_ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Many Signs and Wonders ",
+      "description": "Build all 3 Wonders in the Paths to Nirvana scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "DLC6_ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Do You Have A Moment To Talk About Salvation?",
+      "description": "Convert 3 opposing Holy Cities in the Paths to Nirvana scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "uSuthu! uSuthu!",
+      "description": "Win a regular game as Shaka",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 2
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Burning Splendor",
+      "description": "Win a regular game as Chandragupta",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 1.4
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A small Country, a great people, so sorely tried",
+      "description": "Win a regular game as Queen Wilhelmina",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 2.6
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Lord of All Who Live in Felt Tents",
+      "description": "Win a regular game as Genghis Khan",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 2.4
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "From Peonies to Doricheon",
+      "description": "Win a regular game as Queen Seondeok",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 4.5
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Let gentle blood shew generous might",
+      "description": "Win a regular game as Robert the Bruce",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 2.3
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Radiant Deeds, Bright as Sunshine",
+      "description": "Win a regular game as Tamar",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 1.7
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Deeds of a Monarch-Scorning People",
+      "description": "Win a regular game as Lautaro",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 1.7
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Justice and Lasting Peace",
+      "description": "Win a regular game as Poundmaker",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 2.6
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Master and Commander",
+      "description": "Win a regular game on the Archipelago Map",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 3.5
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Reverse Colonialism",
+      "description": "As Lautaro, capture Philip II's original capital city ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Buying your Deels and Listening to Your Throat Singing",
+      "description": "As Genghis, win a Cultural Victory",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Triple Seven",
+      "description": "As Wilhelmina, have seven cities and seven Zeven de Provincien at the start of the turn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mulligan",
+      "description": "Build a Golf Course in a tile where you had previously attempted to build a Wonder, but got beaten to the Wonder by another Civ",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Adamantine Confederacy",
+      "description": "As Poundmaker, have an active Alliance of every type",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.9
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I Thought We'd Moved Past This Joke",
+      "description": "As Chandragupta, launch a nuclear weapon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Advanced Seminar in Astrophysics",
+      "description": "As Seondeok, build a Spaceport district next to a Seowon",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 2.8
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ibutho",
+      "description": "As Shaka, train a Corps of Impi using the Ikanda district",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 1.6
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Holy Righteous Queen Tamar",
+      "description": "As Tamar, have every city-state in the game following the religion you founded",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Subject Matter Expert",
+      "description": "Have a Governor with every promotion",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 24.7
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Getting the Band Back Together",
+      "description": "Unlock every Governor, and have them established at the same time before the game reaches the Industrial Era",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 3.4
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Drama Queen",
+      "description": "Join or be the target of 3 Emergencies in a single game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 19.8
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Curse your sudden but inevitable betrayal!",
+      "description": "Join a Betrayal Emergency",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 3
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Blackest Queen",
+      "description": "As France, build an Intelligence Agency",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 4.4
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Bromance",
+      "description": "Achieve the maximum Alliance level with Gilgamesh",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 2.2
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Die Another Day",
+      "description": "Neutralize a Governor with a Spy",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 13.9
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Circle of Life",
+      "description": "Build a Fishery adjacent to the Great Barrier Reef",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 1.4
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Extend the Olive Branch",
+      "description": "Make a peace deal which includes you giving or receiving an Olives resource",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 4.9
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Shopping Spree",
+      "description": "Have 10 Shopping Malls in your civilization at the same time",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 3.6
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Desperate Times Call For Desperate Measures",
+      "description": "Assign a Dark Policy to your Government",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 20.3
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Frenemy",
+      "description": "Gain control of an Ally's city after it becomes disloyal, and choose to keep it",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 8.4
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Elcano's Revenge",
+      "description": "Be the first player to circumnavigate the world after Ferdinand Magellan has been recruited by another player",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 11.1
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Dark Horse",
+      "description": "Win the game while in a Dark Age",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 5.9
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Taxation Without Representation",
+      "description": "As England, lose a city to disloyalty which has an established Financier Governor",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 1
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Victory Belongs to the Most Persevering",
+      "description": "Achieve a Heroic Age",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 27.4
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I'm going to break the wheel",
+      "description": "Earn three Golden Ages in a row",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 20.5
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "What Could Possibly Go Wrong?",
+      "description": "Have an improved Amber resource in a city with a Zoo and an Archaeological Museum at the start of the turn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 7.5
+    },
+    {
+      "apiname": "RAF_ACHIEVEMENT_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Metroplex",
+      "description": "Completely surround your Government Plaza with districts or wonders you own at the start of the turn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 7.7
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Treasures of Heaven and Earth",
+      "description": "Win a game as Mansa Musa",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/8b753b1bf93139706476e54b9649c3451693c32a.jpg",
+      "hidden": 0,
+      "globalPercent": 2.2
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Lord of Tahuantinsuyo",
+      "description": "Win a game as Pachacuti",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 2.5
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Queen of the Byrsa",
+      "description": "Win a game as Dido",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 2
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Padishah Efendim",
+      "description": "Win a game as Suleiman The Magnificent",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 2.2
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Literally Playable",
+      "description": "Win a game as Kristina",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 2.5
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Sunny Way",
+      "description": "Win a game as Wilfrid Laurier",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 2.8
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Majestrix of the Court of Love",
+      "description": "Win a game as Eleanor of Aquitaine",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 4.1
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Laurels of Virtues and Letters",
+      "description": "Win a game as Matthias Corvinus",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/8b753b1bf93139706476e54b9649c3451693c32a.jpg",
+      "hidden": 0,
+      "globalPercent": 2
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Tu Meke",
+      "description": "Win a game as Kupe",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 2.8
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Art of Telling Plain Truths",
+      "description": "Win a Diplomatic Victory",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/8b753b1bf93139706476e54b9649c3451693c32a.jpg",
+      "hidden": 0,
+      "globalPercent": 7.8
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Rivals on Ice",
+      "description": "Playing as Russia, conquer a city with an Ice Hockey rink",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sid Meier's Ditchdigging Simulator",
+      "description": "Use two cities and the Panama Canal to make 7 contiguous land tiles passable by ships",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "An Engineer's Dream",
+      "description": "Have a Canal, Dam, Aqueduct, Railroad, Golden Gate Bridge, and Mountain Tunnel in a city",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_14",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "When Diplomacy Fails",
+      "description": "Have a fully upgraded Giant Death Robot capture a city",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 14.5
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_15",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "A Man A Plan A Canal Panama",
+      "description": "Build the Panama Canal as Teddy Roosevelt",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 2.3
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_16",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Surprise Attack",
+      "description": "Move a military unit into an enemy's owned tile using a Mountain Tunnel (or Qhapaq Nan)",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 19.6
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_17",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "One Tree Hill",
+      "description": "Have one of your Rock Band units perform a concert adjacent to a Maori Pa unique improvement",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_18",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Seahenge",
+      "description": "Have Stonehenge become submerged due to Coastal Flooding",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/8b753b1bf93139706476e54b9649c3451693c32a.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_19",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Rock God",
+      "description": "Have no cities following your religion then convert a city to your religion using a Rock Band unit",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.9
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_20",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Nobel-er than the Noblest",
+      "description": "Achieve first place in all three Nobel Prizes in the same game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 2.8
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_21",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Airing Your Grievances",
+      "description": "Win a Diplomatic Victory Resolution and use it to reduce another player's progress toward that victory",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 8.9
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_22",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Peacekeeper",
+      "description": "As Wilfrid Laurier, successfully complete an Emergency",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 4.3
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_23",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Shield of Christianity",
+      "description": "As Hungary, have Christianity as your dominant religion and defeat a unit whose Civilization's dominant religion is not Christianity",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_24",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Po-tay-toes!",
+      "description": "As Pachacuti, construct a Terrace Farm that is adjacent to 2 Aqueducts and 4 Mountains",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/8b753b1bf93139706476e54b9649c3451693c32a.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_25",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "One does not simply walk into Ngauruhoe",
+      "description": "As the Maori, have a Maori Toa discover the Ngauruhoe volcano",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_26",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Hajj",
+      "description": "As Mansa Musa, send a Trade Route to Mecca that gives the sending player at least 30 gold",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_27",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Purple Reign",
+      "description": "As Dido, complete the Move Capital project on 4 different continents",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_28",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Nobody's Business But the Turks",
+      "description": "As the Ottomans, capture another Civilization's capital and then rename it",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_29",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Smörgåsbord",
+      "description": "As Kristina, at the start of a turn have cities in five different terrain types (Snow, Tundra, Desert, Plains and Grassland) and have Open Air Museums in all of them",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/8b753b1bf93139706476e54b9649c3451693c32a.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_30",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Meet the New Boss, Same as the Old Boss",
+      "description": "As Eleanor, gain a city to loyalty that was owned by a different civilization with Eleanor as its leader",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_31",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Let Our Powers Combine – Wait Heart is Missing!",
+      "description": "Have a city with a Wind Farm, Solar Farm, Hydroelectric Dam, and Geothermal Plant",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 1.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_32",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Toward Carbon Neutrality",
+      "description": "Complete the Carbon Recapture project 10 times during a single game",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 9
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_33",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Future is Now",
+      "description": "Be the first to complete all the technologies in the Future Era in a game with 8 or more players",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 15.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_34",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "And the Walls Kept Tumbling Down",
+      "description": "Have your Roman city lose 6 population from one Vesuvius eruption",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_35",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Real Estate Disclosures Required",
+      "description": "Have a district be pillaged by 3 different random events",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 35.3
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_36",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Eat, Drink and Be Merry",
+      "description": "Win the Black Death as England",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_37",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Santé Passe Richesse",
+      "description": "Win the Black Death as France",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_38",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Bendición",
+      "description": "Win the Black Death as Castile",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_39",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Gesundheit",
+      "description": "Win the Black Death as the Holy Roman Empire",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/8b753b1bf93139706476e54b9649c3451693c32a.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_40",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I'm Not Dead Yet",
+      "description": "Win the Black Death after turn 80",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_41",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Aggressive Strain",
+      "description": "Win the Black Death after conquering five cities",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_42",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Medieval Medicine",
+      "description": "Train 25 Plague Doctors during the Black Death scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_43",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Élan",
+      "description": "Win War Machine as France",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_44",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Auftragstaktik",
+      "description": "Win War Machine as Germany",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_45",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "With The Army You Have",
+      "description": "Win War Machine without training any units",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_46",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Vernichtungsstrategie",
+      "description": "As Germany, win War Machine within 25 turns",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_47",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Croix de Lorraine",
+      "description": "In War Machine, as France, conquer Metz within 5 turns",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_48",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Big Bertha",
+      "description": "In War Machine, reduce and capture a full-health city in a single turn",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_49",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Danse Macabre",
+      "description": "Win the Black Death scenario on Deity difficulty",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "VSV_ACHIEVEMENT_50",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Hello Cleveland!",
+      "description": "Perform a Rock Concert in Cleveland",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "ROYALE_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Test of Royale",
+      "description": "Win the Red Death scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/297b0ab8ce64536bfc71ddc969bff7ad27f77cfe.jpg",
+      "hidden": 0,
+      "globalPercent": 1.7
+    },
+    {
+      "apiname": "ROYALE_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Do Unto Others",
+      "description": "Nuclear Strike another faction in the Red Death scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/297b0ab8ce64536bfc71ddc969bff7ad27f77cfe.jpg",
+      "hidden": 0,
+      "globalPercent": 1.4
+    },
+    {
+      "apiname": "ROYALE_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Have Them Do Unto You",
+      "description": "Get nuked by another faction in the Red Death scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/297b0ab8ce64536bfc71ddc969bff7ad27f77cfe.jpg",
+      "hidden": 0,
+      "globalPercent": 1.4
+    },
+    {
+      "apiname": "ROYALE_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Reinforcements Have Arrived",
+      "description": "Claim a Supply Drop in the Red Death scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/297b0ab8ce64536bfc71ddc969bff7ad27f77cfe.jpg",
+      "hidden": 0,
+      "globalPercent": 2
+    },
+    {
+      "apiname": "ROYALE_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Good Die Young",
+      "description": "Lose your last Civilian within the first ten turns in the Red Death scenario",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/297b0ab8ce64536bfc71ddc969bff7ad27f77cfe.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "STK1_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The stars are right",
+      "description": "Win a regular game as Lady Six Sky.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/8b753b1bf93139706476e54b9649c3451693c32a.jpg",
+      "hidden": 0,
+      "globalPercent": 1.7
+    },
+    {
+      "apiname": "STK1_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "El Libertador",
+      "description": "Win a regular game as Simón Bolívar.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 2
+    },
+    {
+      "apiname": "STK1_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Court of Itzamna",
+      "description": "As the Maya found a settlement adjacent to 4 luxury resources.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "STK1_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "To plow the sea",
+      "description": "As Simón Bolívar activate all the Comandante Generals across multiple games.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "STK1_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I'll melt with you",
+      "description": "Win any Victory with Apocalypse mode enabled.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 3.2
+    },
+    {
+      "apiname": "STK1_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The end of the world as we know it",
+      "description": "Be the last person standing after comets begin falling.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "STK1_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The accursed share",
+      "description": "Use a max-promotions Soothsayer to sacrifice a max-promotions GDR.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/8b753b1bf93139706476e54b9649c3451693c32a.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ashes of Time",
+      "description": "Wanderers - Explore 30 city ruins across multiple games.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Experience Is Everything",
+      "description": "Preppers - Have 5 units earn 5 promotions across multiple games.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.2
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "It's Alive!",
+      "description": "Mad Scientists - Heal 1000 health points across multiple games.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Hope Springs Eternal",
+      "description": "Be defeated 5 times in the Red Death scenario.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "From the Outer Darkness",
+      "description": "Mutants - Attack a unit outside the Red Death while inside the Red Death 20 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.2
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Getting Pruney",
+      "description": "Pirates - Spend 50 turns in the water across multiple games.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "U mad, bro?",
+      "description": "Borderlords - Trick enemy factions into triggering Grieving Gifts 5 times across multiple games.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "It Hungers",
+      "description": "Cultists - Kill 10 units with the Undying Eye.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "NERDS!",
+      "description": "Jocks - Use Hail Marys to wound, but not kill, 5 Civilians across multiple games.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "They're coming to get you, Barbara",
+      "description": "Zombie Beastmasters - Spawn 30 Zombie Hordes through combat kills.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "RD2_ACHIEVEMENT_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Out of Sight, Out of Mind",
+      "description": "Aliens - Attack while cloaked 20 times.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.2
+    },
+    {
+      "apiname": "STK2_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Lion of Judah",
+      "description": "Win a regular game as Menelik II.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 1.6
+    },
+    {
+      "apiname": "STK2_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Battle of Adwa",
+      "description": "Defeat an Infantry unit whose capital is on another continent with an Oromo Cavalry.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.2
+    },
+    {
+      "apiname": "STK2_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Mask of Baphomet",
+      "description": "Earn all Governor promotions for the Owls of Minerva Secret Society.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 4
+    },
+    {
+      "apiname": "STK2_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Voice of Aiwass",
+      "description": "Earn all Governor promotions for the Hermetic Order Secret Society.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 3.4
+    },
+    {
+      "apiname": "STK2_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Dead But Dreaming",
+      "description": "Earn all Governor promotions for the Voidsingers Secret Society.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 3.2
+    },
+    {
+      "apiname": "STK2_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "This Blood is the Life",
+      "description": "Earn all Governor promotions for the Sanguine Pact Secret Society.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 2.2
+    },
+    {
+      "apiname": "STK3_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "One Eye in One Hundred",
+      "description": "Win a regular game as Basil II.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 2.2
+    },
+    {
+      "apiname": "STK3_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Et tu, Gallia?",
+      "description": "Win a regular game as Ambiorix.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 2.2
+    },
+    {
+      "apiname": "STK3_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Rome is Where the Heart is",
+      "description": "As Byzantium, take the original capital of Rome while it is following your founded religion.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "STK3_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Crom Laughs at Your Tanks",
+      "description": "As Gaul, kill a Tank with a Gaesatae.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "STK3_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Things Fall Apart",
+      "description": "In Dramatic Ages Mode, lose 4 or more cities by entering a Dark Age.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.9
+    },
+    {
+      "apiname": "STK3_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The City Ever-Shining",
+      "description": "In Dramatic Ages Mode, enter a Golden Age with an excess 20 Era Score",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 5.7
+    },
+    {
+      "apiname": "STK3_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "No Light Without the Dark",
+      "description": "In Dramatic Age Mode, as Georgia, have simultaneously a Golden and a Dark Policy active.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "ARR_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Abyss is Hungry",
+      "description": "Dread Pirate - Sink 10 ships while using Walk the Plank across multiple games.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "ARR_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Naval Supremacy",
+      "description": "Privateer - Ensure that your patron has a naval fleet twice the size of any other colonial power.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "ARR_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Port in Every Storm",
+      "description": "Swashbuckler - Visit the tavern of 10 ports in a single game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "ARR_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Love It When a Plan Comes Together",
+      "description": "Hoarder - Sink or capture a treasure ship while a treasure escort is locked by a chainshot.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "ARR_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I am a Pirate King!",
+      "description": "Win the Pirates scenario.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 1.3
+    },
+    {
+      "apiname": "ARR_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Forced Retirement",
+      "description": "Lose the Pirates scenario due to mutiny.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "ARR_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Liquid Assets",
+      "description": "Sink or capture a treasure ship.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 1.4
+    },
+    {
+      "apiname": "ARR_ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mine! Mine! Mine!",
+      "description": "Win the Pirates scenario using mostly Treasure Points.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "ARR_ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I am Kind of a Big Deal",
+      "description": "Win the Pirates scenario using mostly Infamous Pirate Points.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "ARR_ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I Want You to Hit Me as Hard as You Can",
+      "description": "Win the Pirates scenario using mostly Fightin' Points.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 1.1
+    },
+    {
+      "apiname": "STK4_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Babylon Rocker",
+      "description": "Win a regular game as Hammurabi.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 3
+    },
+    {
+      "apiname": "STK4_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Let's Do the Time Warp Again",
+      "description": "As Babylon, earn 5 tech boosts for techs that are at least one era later than your current era.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 6.2
+    },
+    {
+      "apiname": "STK4_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Sing, O Muse",
+      "description": "Claim every Hero across multiple games.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 6.9
+    },
+    {
+      "apiname": "STK4_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Clash of the Titans",
+      "description": "Kill an enemy Hero with your Hero.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 2.3
+    },
+    {
+      "apiname": "STK4_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Brave Live Forever",
+      "description": "Recall a Hero 5 times in a single game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "STK4_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Steel-Driving Man",
+      "description": "Recall a Hero after the Industrial Era.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 3.7
+    },
+    {
+      "apiname": "STK4_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Dream Team",
+      "description": "Claim 5 Heroes in a single game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 2.8
+    },
+    {
+      "apiname": "STK5_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I will not bend my back",
+      "description": "Win a regular game as Bà Triệu.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 1.6
+    },
+    {
+      "apiname": "STK5_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "For he on honey-dew hath fed",
+      "description": "Win a regular game as Kublai Khan.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 1.5
+    },
+    {
+      "apiname": "STK5_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Top Hat and Monocle",
+      "description": "Control a 100% Monopoly on a given Luxury Resource on a Standard sized map or larger.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 7.4
+    },
+    {
+      "apiname": "STK5_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Jack of all Trades, Master of None",
+      "description": "Win a game on a Standard sized map or larger with 5 or more Industries, but no Corporations.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 3.8
+    },
+    {
+      "apiname": "STK5_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Robber Baron",
+      "description": "Control 5 Luxury Resource Monopolies at once on a Standard sized map or larger.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 4
+    },
+    {
+      "apiname": "STK5_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Limited Edition",
+      "description": "Hire a unique unit from a Barbarian Clan.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 4.1
+    },
+    {
+      "apiname": "STK5_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Finder's Fee",
+      "description": "Ransom 5 units from Barbarian Clans in a single game.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "STK5_ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Frenemies",
+      "description": "Hire, Bribe, Incite, and Raid the same Barbarian Clan.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "STK6_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Spice Must Flow",
+      "description": "Win a regular game as João III.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 2.2
+    },
+    {
+      "apiname": "STK6_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Ultramar Português",
+      "description": "As Portugal, have a Trading Post in cities belonging to Brazil, India, and Japan.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 0.4
+    },
+    {
+      "apiname": "STK6_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Re-Animator",
+      "description": "Control at least 20 Zombie units at the start of your turn.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    },
+    {
+      "apiname": "STK6_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Well Hello Mr. Fancypants",
+      "description": "Destroy a Zombie unit that has +50 or more Mutation Strength.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
+      "hidden": 0,
+      "globalPercent": 1.3
+    },
+    {
+      "apiname": "STK6_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "It's a Trap!!!",
+      "description": "Deal 50 or more damage to a single unit from trap damage on a single tile in one turn.",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
+      "hidden": 0,
+      "globalPercent": 0.3
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_01",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Salad Sensation",
+      "description": "Win a regular game as Julius Caesar",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 1
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_02",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Addressing Gettysburg",
+      "description": "Win a regular game as Abraham Lincoln",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 0.9
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_03",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Self-Made Throne",
+      "description": "Win a regular game as Nzinga Mbande",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_04",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "I Will Wait",
+      "description": "Win a regular game as Tokugawa",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 1
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_05",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Claimants of the Peacock Throne",
+      "description": "Win a regular game as Nader Shah",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 0.5
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_06",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Live Yongle Reaction",
+      "description": "Win a regular game as Yongle",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 1.7
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_07",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Mother’s Day",
+      "description": "Win a regular game as Wu Zetian",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_08",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Valley of Kings",
+      "description": "Win a regular game as Ramses II",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_09",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Dawn of a Dynasty",
+      "description": "Win a regular game as Sundiata Keita",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 0.6
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_10",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Father of Korean Literature",
+      "description": "Win a regular game as Sejong",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_11",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "Partial Completionist",
+      "description": "Win a regular game as Ludwig II",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 1
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_12",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Power Beside the Throne",
+      "description": "Win a regular game as Theodora",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 0.8
+    },
+    {
+      "apiname": "NEB_ACHIEVEMENT_13",
+      "achieved": 0,
+      "unlocktime": 0,
+      "displayName": "The Triumphs of Oriana",
+      "description": "Win a regular game as Elizabeth I",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
+      "hidden": 0,
+      "globalPercent": 0.7
+    }
+  ],
+  "success": true,
+  "fetchedAt": "2026-01-06T14:04:07.149Z"
+}

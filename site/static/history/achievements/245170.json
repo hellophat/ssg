@@ -130,7 +130,7 @@
       "description": "Retaliate against repetition.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/9cdc86e0dbeb49bf3e0b77e9b0b0dbc80dd3bfaf.jpg",
       "hidden": 0,
-      "globalPercent": 27.5
+      "globalPercent": 27.4
     },
     {
       "apiname": "ACHIEVEMENT_CALL_THE_WARDROBE",
@@ -410,7 +410,7 @@
       "description": "This city and he, they've been through a lot.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/2b6d04c9595a5e9e7582f33e63767df4e3ebe4b2.jpg",
       "hidden": 0,
-      "globalPercent": 2.8
+      "globalPercent": 2.9
     },
     {
       "apiname": "ACHIEVEMENT_LET_THEM_ALL_BATHE_IN_MY_GLORY",
@@ -454,5 +454,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-06T12:05:23.021Z"
+  "fetchedAt": "2026-01-06T14:04:00.009Z"
 }
