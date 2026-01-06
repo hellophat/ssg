@@ -40,7 +40,7 @@
       "description": "Defeat every boss in Inkwell Isle III",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/78d4a0ccd6796e7dd8b26062b1de45a11dafcf52.jpg",
       "hidden": 0,
-      "globalPercent": 21.4
+      "globalPercent": 21.5
     },
     {
       "apiname": "CompleteDicePalace",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-06T06:04:43.159Z"
+  "fetchedAt": "2026-01-06T08:04:42.985Z"
 }

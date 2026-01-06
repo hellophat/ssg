@@ -150,7 +150,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/89932c93a77be76d4c1607581905925b12543d9d.jpg",
       "hidden": 1,
-      "globalPercent": 24.7
+      "globalPercent": 24.8
     },
     {
       "apiname": "ACH_FINISH_HUBBLE_02",
@@ -174,5 +174,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-06T06:04:50.345Z"
+  "fetchedAt": "2026-01-06T08:04:49.625Z"
 }
