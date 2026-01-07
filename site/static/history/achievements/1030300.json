@@ -440,7 +440,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/c91cefb630dcfab9099f9de5301774ec826d8161.jpg",
       "hidden": 1,
-      "globalPercent": 37.9
+      "globalPercent": 37.8
     },
     {
       "apiname": "ENDING_D",
@@ -524,5 +524,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-07T08:04:42.930Z"
+  "fetchedAt": "2026-01-07T10:04:15.743Z"
 }
