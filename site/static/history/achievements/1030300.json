@@ -40,7 +40,7 @@
       "description": "Bind all Silk Skills",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/711c759ff9066ed10c39f3075d169f6970fe670f.jpg",
       "hidden": 0,
-      "globalPercent": 28.7
+      "globalPercent": 28.6
     },
     {
       "apiname": "FIRST_CREST",
@@ -524,5 +524,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-08T08:04:35.806Z"
+  "fetchedAt": "2026-01-08T10:04:25.599Z"
 }
