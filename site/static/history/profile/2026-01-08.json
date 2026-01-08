@@ -8,15 +8,13 @@
   "avatarmedium": "https://avatars.steamstatic.com/a442122f2c3a73829abc844b2b54212031f7d305_medium.jpg",
   "avatarfull": "https://avatars.steamstatic.com/a442122f2c3a73829abc844b2b54212031f7d305_full.jpg",
   "avatarhash": "a442122f2c3a73829abc844b2b54212031f7d305",
-  "lastlogoff": 1767804362,
-  "personastate": 1,
+  "lastlogoff": 1767892906,
+  "personastate": 0,
   "realname": "Phát",
   "primaryclanid": "103582791429521408",
   "timecreated": 1384655393,
   "personastateflags": 0,
-  "gameextrainfo": "Hades II",
-  "gameid": "1145350",
   "loccountrycode": "VN",
   "locstatecode": "52",
-  "fetchedAt": "2026-01-08T16:04:51.731Z"
+  "fetchedAt": "2026-01-08T18:04:35.123Z"
 }
