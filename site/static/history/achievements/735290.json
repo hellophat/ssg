@@ -10,7 +10,7 @@
       "description": "Witnessed the beginning.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/0be2d6dcfb7fe1b06bcf892419b508195ea5aa60.jpg",
       "hidden": 0,
-      "globalPercent": 56.4
+      "globalPercent": 56.5
     },
     {
       "apiname": "ACH_FINISH_FOLLOWING_01",
@@ -174,5 +174,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-08T18:04:46.416Z"
+  "fetchedAt": "2026-01-08T20:04:15.903Z"
 }
