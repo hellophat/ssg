@@ -10,7 +10,7 @@
       "description": "Clear Erebus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/974c728e91ee0068539259f7cc6f4bc5f3373fd8.jpg",
       "hidden": 0,
-      "globalPercent": 58.8
+      "globalPercent": 58.9
     },
     {
       "apiname": "AchClearOceanus",
@@ -20,7 +20,7 @@
       "description": "Clear Oceanus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9bd88f9a13639e00c4b9371fdce7303c5ff241fc.jpg",
       "hidden": 0,
-      "globalPercent": 53.5
+      "globalPercent": 53.6
     },
     {
       "apiname": "AchClearFields",
@@ -50,7 +50,7 @@
       "description": "Clear the City of Ephyra",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/be944d65c04c2446f9389c0ea15fdb34a15cba47.jpg",
       "hidden": 0,
-      "globalPercent": 44.8
+      "globalPercent": 44.9
     },
     {
       "apiname": "AchClearThessaly",
@@ -60,7 +60,7 @@
       "description": "Clear the Rift of Thessaly",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/af62d5e2b3ef2777c6b094da2957f37992d4e49b.jpg",
       "hidden": 0,
-      "globalPercent": 41.6
+      "globalPercent": 41.7
     },
     {
       "apiname": "AchClearOlympus",
@@ -160,7 +160,7 @@
       "description": "Fulfill the Prophecy 'Breadth of Knowledge'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/8ecff233744db9661a80ab2ffbb1c2ae675d83fd.jpg",
       "hidden": 0,
-      "globalPercent": 33.3
+      "globalPercent": 33.4
     },
     {
       "apiname": "AchAllArcanaMax",
@@ -300,7 +300,7 @@
       "description": "Fulfill the Prophecy 'Haunted by the Past'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/7b158e9bdb0e99859046ee870e4a778102f79657.jpg",
       "hidden": 0,
-      "globalPercent": 13.9
+      "globalPercent": 14
     },
     {
       "apiname": "AchHelpHypnos",
@@ -420,7 +420,7 @@
       "description": "Slay a Sister of the Dead while afflicted with Twilight Curse",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/3d6457b3ce55d171cb5c3a56d9158e012212581a.jpg",
       "hidden": 0,
-      "globalPercent": 34.8
+      "globalPercent": 34.9
     },
     {
       "apiname": "AchSummonSiren",
@@ -490,7 +490,7 @@
       "description": "Reach the epilogue of the story",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/daf490f764c402808fc8b317d1d49a904dc4f6f9.jpg",
       "hidden": 0,
-      "globalPercent": 6.8
+      "globalPercent": 6.9
     },
     {
       "apiname": "AchAllOtherAch",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-08T00:12:50.048Z"
+  "fetchedAt": "2026-01-08T02:38:44.891Z"
 }

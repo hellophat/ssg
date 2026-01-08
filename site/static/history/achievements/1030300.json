@@ -40,7 +40,7 @@
       "description": "Bind all Silk Skills",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/711c759ff9066ed10c39f3075d169f6970fe670f.jpg",
       "hidden": 0,
-      "globalPercent": 28.7
+      "globalPercent": 28.6
     },
     {
       "apiname": "FIRST_CREST",
@@ -190,7 +190,7 @@
       "description": "Rescue all of Pharloom's lost fleas and receive their final gift",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/85d79e525987607b323cb7ba2f1177c70d921d84.jpg",
       "hidden": 0,
-      "globalPercent": 33.8
+      "globalPercent": 33.7
     },
     {
       "apiname": "DEFEATED_BELLBEAST",
@@ -270,7 +270,7 @@
       "description": "Defeat Lace in the Cradle",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/150935e5e3a5b1000e83032829a693f871326e34.jpg",
       "hidden": 0,
-      "globalPercent": 45.2
+      "globalPercent": 45.1
     },
     {
       "apiname": "DEFEATED_PHANTOM_1",
@@ -440,7 +440,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/c91cefb630dcfab9099f9de5301774ec826d8161.jpg",
       "hidden": 1,
-      "globalPercent": 37.9
+      "globalPercent": 37.8
     },
     {
       "apiname": "ENDING_D",
@@ -500,7 +500,7 @@
       "description": "Achieve 100% game completion and finish the game in under 30 hours",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7cc0488ebd2e0e7a03a03752ab82c196d60899d8.jpg",
       "hidden": 0,
-      "globalPercent": 3.1
+      "globalPercent": 3
     },
     {
       "apiname": "STEEL_SOUL",
@@ -524,5 +524,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-08T00:12:57.439Z"
+  "fetchedAt": "2026-01-08T02:38:51.676Z"
 }
