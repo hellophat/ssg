@@ -4,18 +4,18 @@
     {
       "appid": 1145350,
       "name": "Hades II",
-      "playtime_2weeks": 3008,
-      "playtime_forever": 3008,
+      "playtime_2weeks": 3071,
+      "playtime_forever": 3071,
       "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
       "playtime_windows_forever": 0,
-      "playtime_mac_forever": 3008,
+      "playtime_mac_forever": 3071,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
     {
       "appid": 268910,
       "name": "Cuphead",
-      "playtime_2weeks": 819,
+      "playtime_2weeks": 808,
       "playtime_forever": 1706,
       "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
       "playtime_windows_forever": 0,
@@ -57,6 +57,17 @@
       "playtime_deck_forever": 0
     },
     {
+      "appid": 289070,
+      "name": "Sid Meier's Civilization VI",
+      "playtime_2weeks": 23,
+      "playtime_forever": 23,
+      "img_icon_url": "9dc914132fec244adcede62fb8e7524a72a7398c",
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 23,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
       "appid": 735290,
       "name": "Genesis Noir",
       "playtime_2weeks": 21,
@@ -66,18 +77,7 @@
       "playtime_mac_forever": 25,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
-    },
-    {
-      "appid": 289070,
-      "name": "Sid Meier's Civilization VI",
-      "playtime_2weeks": 1,
-      "playtime_forever": 1,
-      "img_icon_url": "9dc914132fec244adcede62fb8e7524a72a7398c",
-      "playtime_windows_forever": 0,
-      "playtime_mac_forever": 1,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-09T14:04:11.113Z"
+  "fetchedAt": "2026-01-09T16:03:58.269Z"
 }
