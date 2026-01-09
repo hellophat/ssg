@@ -130,7 +130,7 @@
       "description": "Retaliate against repetition.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/9cdc86e0dbeb49bf3e0b77e9b0b0dbc80dd3bfaf.jpg",
       "hidden": 0,
-      "globalPercent": 27.5
+      "globalPercent": 27.4
     },
     {
       "apiname": "ACHIEVEMENT_CALL_THE_WARDROBE",
@@ -454,5 +454,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-09T20:04:12.131Z"
+  "fetchedAt": "2026-01-09T22:03:47.511Z"
 }
