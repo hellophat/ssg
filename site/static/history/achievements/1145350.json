@@ -60,7 +60,7 @@
       "description": "Clear the Rift of Thessaly",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/af62d5e2b3ef2777c6b094da2957f37992d4e49b.jpg",
       "hidden": 0,
-      "globalPercent": 42.1
+      "globalPercent": 42
     },
     {
       "apiname": "AchClearOlympus",
@@ -160,7 +160,7 @@
       "description": "Fulfill the Prophecy 'Breadth of Knowledge'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/8ecff233744db9661a80ab2ffbb1c2ae675d83fd.jpg",
       "hidden": 0,
-      "globalPercent": 33.7
+      "globalPercent": 33.6
     },
     {
       "apiname": "AchAllArcanaMax",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-10T08:04:07.095Z"
+  "fetchedAt": "2026-01-10T10:03:07.769Z"
 }
