@@ -80,7 +80,7 @@
       "description": "Acquire all Mask Shards",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7916677f494071e74ab6f845cb778a0baaf65fd5.jpg",
       "hidden": 0,
-      "globalPercent": 21.8
+      "globalPercent": 21.9
     },
     {
       "apiname": "FIRST_SILK_SPOOL",
@@ -120,7 +120,7 @@
       "description": "Acquire a map of each area",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/5274283d871a3a1726a2db9710eb4093631de268.jpg",
       "hidden": 0,
-      "globalPercent": 27.9
+      "globalPercent": 28
     },
     {
       "apiname": "BELLWAYS_FULL",
@@ -140,7 +140,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/6edbccd7149e1ee90f5345f9fdb1d8ae81ef06fe.jpg",
       "hidden": 1,
-      "globalPercent": 37.4
+      "globalPercent": 37.5
     },
     {
       "apiname": "TUBES_FULL",
@@ -180,7 +180,7 @@
       "description": "Rescue half of Pharloom's lost fleas",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/981a17e1f83061b2dd64724b1b9bb6a3bb8de471.jpg",
       "hidden": 0,
-      "globalPercent": 49.9
+      "globalPercent": 50
     },
     {
       "apiname": "FLEAS_ALL",
@@ -190,7 +190,7 @@
       "description": "Rescue all of Pharloom's lost fleas and receive their final gift",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/85d79e525987607b323cb7ba2f1177c70d921d84.jpg",
       "hidden": 0,
-      "globalPercent": 33.7
+      "globalPercent": 33.8
     },
     {
       "apiname": "DEFEATED_BELLBEAST",
@@ -240,7 +240,7 @@
       "description": "Defeat the Last Judge",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/c9adb431ea87c9912d58166bde7acbf9c52c8659.jpg",
       "hidden": 0,
-      "globalPercent": 59.4
+      "globalPercent": 59.5
     },
     {
       "apiname": "DEFEATED_COGWORK_DANCERS",
@@ -270,7 +270,7 @@
       "description": "Defeat Lace in the Cradle",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/150935e5e3a5b1000e83032829a693f871326e34.jpg",
       "hidden": 0,
-      "globalPercent": 45.1
+      "globalPercent": 45.2
     },
     {
       "apiname": "DEFEATED_PHANTOM_1",
@@ -290,7 +290,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/ff09e7204911e0d213d2e75ba535112ccc005a50.jpg",
       "hidden": 1,
-      "globalPercent": 39.4
+      "globalPercent": 39.5
     },
     {
       "apiname": "DEFEATED_CORAL_KING",
@@ -310,7 +310,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/35a5fec5d59538ef4c24e0fba6948e67f12ccb5d.jpg",
       "hidden": 1,
-      "globalPercent": 31.5
+      "globalPercent": 31.6
     },
     {
       "apiname": "DEFEATED_HUNTER_QUEEN",
@@ -320,7 +320,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/455d4c40b7511c668106becdbb3d24c100fa8aff.jpg",
       "hidden": 1,
-      "globalPercent": 30.7
+      "globalPercent": 30.8
     },
     {
       "apiname": "DEFEATED_GREEN_PRINCE",
@@ -330,7 +330,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a071ee201b3230c3421b1e3cf446d86e61d24519.jpg",
       "hidden": 1,
-      "globalPercent": 27.5
+      "globalPercent": 27.6
     },
     {
       "apiname": "FIRST_WISH",
@@ -340,7 +340,7 @@
       "description": "Grant your first wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/4cae086731038d810d9df5af8977a24b4dc87a44.jpg",
       "hidden": 0,
-      "globalPercent": 83
+      "globalPercent": 82.9
     },
     {
       "apiname": "GOURMAND_WISH",
@@ -360,7 +360,7 @@
       "description": "Grant Shakra's wish",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/63c76c65e6e05301678fc1a3c528045a8cc54575.jpg",
       "hidden": 0,
-      "globalPercent": 41.2
+      "globalPercent": 41.3
     },
     {
       "apiname": "GARMOND_FINAL_QUEST",
@@ -370,7 +370,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/54735ddde7c65925ed533136cddde2f0cb4ec52a.jpg",
       "hidden": 1,
-      "globalPercent": 29
+      "globalPercent": 29.1
     },
     {
       "apiname": "PINSTRESS_WISH",
@@ -400,7 +400,7 @@
       "description": "Acquire your own Bellhome",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7e34a5cdb17062b939748eb15066a44d5b0114f0.jpg",
       "hidden": 0,
-      "globalPercent": 45.7
+      "globalPercent": 45.8
     },
     {
       "apiname": "CITADEL_SONG",
@@ -420,7 +420,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/cad15d0d414daeff1d466dbdb9725bd0ef70ec06.jpg",
       "hidden": 1,
-      "globalPercent": 30.4
+      "globalPercent": 30.5
     },
     {
       "apiname": "ENDING_A",
@@ -470,7 +470,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/42f86f65efcada2816cf88389450657b83f03121.jpg",
       "hidden": 1,
-      "globalPercent": 15.8
+      "globalPercent": 15.9
     },
     {
       "apiname": "COMPLETION",
@@ -480,7 +480,7 @@
       "description": "Achieve 100% game completion and finish the game",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/f851c8d42eac15ec3765b5f0eb64fbd51f9f47cd.jpg",
       "hidden": 0,
-      "globalPercent": 15.5
+      "globalPercent": 15.6
     },
     {
       "apiname": "SPEEDRUN_1",
@@ -500,7 +500,7 @@
       "description": "Achieve 100% game completion and finish the game in under 30 hours",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/7cc0488ebd2e0e7a03a03752ab82c196d60899d8.jpg",
       "hidden": 0,
-      "globalPercent": 3
+      "globalPercent": 3.1
     },
     {
       "apiname": "STEEL_SOUL",
@@ -510,7 +510,7 @@
       "description": "Finish the game in Steel Soul mode",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/2aacd283950cff267f32ebb7eaf82f4f5e6355f1.jpg",
       "hidden": 0,
-      "globalPercent": 2.9
+      "globalPercent": 3
     },
     {
       "apiname": "STEEL_SOUL_FULL",
@@ -520,9 +520,9 @@
       "description": "Achieve 100% game completion and finish the game in Steel Soul mode",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/65c7108093f2efc39d5fc3eaddecc35675b8dfb1.jpg",
       "hidden": 0,
-      "globalPercent": 2.2
+      "globalPercent": 2.3
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-10T10:03:14.529Z"
+  "fetchedAt": "2026-01-10T12:04:34.266Z"
 }
