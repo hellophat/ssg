@@ -24,17 +24,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 245170,
-      "name": "Skullgirls 2nd Encore",
-      "playtime_2weeks": 236,
-      "playtime_forever": 270,
-      "img_icon_url": "0931d59aa0e33244275f4fa6c4409816ccf00296",
-      "playtime_windows_forever": 0,
-      "playtime_mac_forever": 270,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 683320,
       "name": "GRIS",
       "playtime_2weeks": 217,
@@ -46,13 +35,13 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 1030300,
-      "name": "Hollow Knight: Silksong",
-      "playtime_2weeks": 58,
-      "playtime_forever": 7718,
-      "img_icon_url": "b4a999c1302e3ac123c041fd41bb8a34528c6ab5",
+      "appid": 245170,
+      "name": "Skullgirls 2nd Encore",
+      "playtime_2weeks": 197,
+      "playtime_forever": 270,
+      "img_icon_url": "0931d59aa0e33244275f4fa6c4409816ccf00296",
       "playtime_windows_forever": 0,
-      "playtime_mac_forever": 7718,
+      "playtime_mac_forever": 270,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
@@ -77,7 +66,18 @@
       "playtime_mac_forever": 25,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1030300,
+      "name": "Hollow Knight: Silksong",
+      "playtime_2weeks": 11,
+      "playtime_forever": 7718,
+      "img_icon_url": "b4a999c1302e3ac123c041fd41bb8a34528c6ab5",
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 7718,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-11T08:04:00.583Z"
+  "fetchedAt": "2026-01-11T10:03:26.323Z"
 }
