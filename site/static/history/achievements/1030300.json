@@ -30,7 +30,7 @@
       "description": "Bind your first Silk Skill",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/a34b4da6c1652ec31603b82de0e983173917b2ad.jpg",
       "hidden": 0,
-      "globalPercent": 88.4
+      "globalPercent": 88.5
     },
     {
       "apiname": "ALL_SILK_SKILLS",
@@ -40,7 +40,7 @@
       "description": "Bind all Silk Skills",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/711c759ff9066ed10c39f3075d169f6970fe670f.jpg",
       "hidden": 0,
-      "globalPercent": 28.6
+      "globalPercent": 28.7
     },
     {
       "apiname": "FIRST_CREST",
@@ -50,7 +50,7 @@
       "description": "Claim your first Crest",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/78a69856138d377fe00fd3c988960f795391fb5c.jpg",
       "hidden": 0,
-      "globalPercent": 71.6
+      "globalPercent": 71.7
     },
     {
       "apiname": "ALL_CRESTS",
@@ -210,7 +210,7 @@
       "description": "Defeat Lace in Deep Docks",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/3851723da35a65dae364366513aaa32297ccb537.jpg",
       "hidden": 0,
-      "globalPercent": 78
+      "globalPercent": 78.1
     },
     {
       "apiname": "DEFEATED_SONG_GOLEM",
@@ -270,7 +270,7 @@
       "description": "Defeat Lace in the Cradle",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1030300/150935e5e3a5b1000e83032829a693f871326e34.jpg",
       "hidden": 0,
-      "globalPercent": 45.1
+      "globalPercent": 45.2
     },
     {
       "apiname": "DEFEATED_PHANTOM_1",
@@ -524,5 +524,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-11T06:04:29.763Z"
+  "fetchedAt": "2026-01-11T08:04:10.651Z"
 }
