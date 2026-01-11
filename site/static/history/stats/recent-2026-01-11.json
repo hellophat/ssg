@@ -15,7 +15,7 @@
     {
       "appid": 268910,
       "name": "Cuphead",
-      "playtime_2weeks": 380,
+      "playtime_2weeks": 285,
       "playtime_forever": 1706,
       "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
       "playtime_windows_forever": 0,
@@ -68,5 +68,5 @@
       "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-11T12:05:21.050Z"
+  "fetchedAt": "2026-01-11T14:02:54.823Z"
 }

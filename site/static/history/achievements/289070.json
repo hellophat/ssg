@@ -570,7 +570,7 @@
       "description": "Have an Army of land Units and 2 Armadas",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 19.8
+      "globalPercent": 19.7
     },
     {
       "apiname": "NEW_ACHIEVEMENT_3_25",
@@ -3180,7 +3180,7 @@
       "description": "Win a regular game as Ludwig II",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
       "hidden": 0,
-      "globalPercent": 1.1
+      "globalPercent": 1
     },
     {
       "apiname": "NEB_ACHIEVEMENT_12",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-11T12:05:30.756Z"
+  "fetchedAt": "2026-01-11T14:03:03.727Z"
 }
