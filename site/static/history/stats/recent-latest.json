@@ -1,5 +1,5 @@
 {
-  "total_count": 7,
+  "total_count": 6,
   "games": [
     {
       "appid": 1145350,
@@ -15,7 +15,7 @@
     {
       "appid": 268910,
       "name": "Cuphead",
-      "playtime_2weeks": 488,
+      "playtime_2weeks": 380,
       "playtime_forever": 1706,
       "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
       "playtime_windows_forever": 0,
@@ -66,18 +66,7 @@
       "playtime_mac_forever": 25,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
-    },
-    {
-      "appid": 1030300,
-      "name": "Hollow Knight: Silksong",
-      "playtime_2weeks": 11,
-      "playtime_forever": 7718,
-      "img_icon_url": "b4a999c1302e3ac123c041fd41bb8a34528c6ab5",
-      "playtime_windows_forever": 0,
-      "playtime_mac_forever": 7718,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-11T10:03:26.323Z"
+  "fetchedAt": "2026-01-11T12:05:21.050Z"
 }
