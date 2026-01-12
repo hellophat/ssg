@@ -50,7 +50,7 @@
       "description": "Trailed a destructive history.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/4c8e3dfac9653e07b0fc13c5a5a07ee064d39487.jpg",
       "hidden": 0,
-      "globalPercent": 29.4
+      "globalPercent": 29.5
     },
     {
       "apiname": "ACH_FINISH_ZEN",
@@ -174,5 +174,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-12T14:06:11.979Z"
+  "fetchedAt": "2026-01-12T16:05:38.180Z"
 }
