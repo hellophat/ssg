@@ -30,7 +30,7 @@
       "description": "Defeat every boss in Inkwell Isle II",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/98e1a4ed96b1f9c90e7ceaa2809c71d6f2d98573.jpg",
       "hidden": 0,
-      "globalPercent": 31
+      "globalPercent": 30.9
     },
     {
       "apiname": "CompleteWorld3",
@@ -80,7 +80,7 @@
       "description": "Get an S-Rank",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/a7d7ff0b3435ff7924d946fb48efc19630692d77.jpg",
       "hidden": 0,
-      "globalPercent": 8.4
+      "globalPercent": 8.3
     },
     {
       "apiname": "ARankWorld1",
@@ -90,7 +90,7 @@
       "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle I",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/c40360f73dcc4dc43053f620b37865b49b978173.jpg",
       "hidden": 0,
-      "globalPercent": 9.3
+      "globalPercent": 9.2
     },
     {
       "apiname": "ARankWorld2",
@@ -110,7 +110,7 @@
       "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle III",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/ec0a838951f37b2a2e11795ea7bca99937465ab7.jpg",
       "hidden": 0,
-      "globalPercent": 4.9
+      "globalPercent": 4.8
     },
     {
       "apiname": "ARankWorld4",
@@ -200,7 +200,7 @@
       "description": "Obtain all Super Arts",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/b6e8e325158aec050b3534bc7489286577686ae1.jpg",
       "hidden": 0,
-      "globalPercent": 23.8
+      "globalPercent": 23.7
     },
     {
       "apiname": "NoHitsTaken",
@@ -220,7 +220,7 @@
       "description": "Get every coin in all of the levels",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/fcc6cd08b814faf2fad7541afe22b97169c269f0.jpg",
       "hidden": 0,
-      "globalPercent": 12.6
+      "globalPercent": 12.5
     },
     {
       "apiname": "ParryChain",
@@ -230,7 +230,7 @@
       "description": "Parry five times before hitting the ground",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/586281026d280336f751d7fab15984118e39cc4d.jpg",
       "hidden": 0,
-      "globalPercent": 21.1
+      "globalPercent": 21
     },
     {
       "apiname": "ParryApprentice",
@@ -270,7 +270,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/474f5bdc62295816da274588774b9ac34cd6baad.jpg",
       "hidden": 1,
-      "globalPercent": 7.8
+      "globalPercent": 7.7
     },
     {
       "apiname": "PacifistRun",
@@ -400,7 +400,7 @@
       "description": "Have 9HP at one time",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/bafc7caf5b6c240e5515e560d46d5fffb406888f.jpg",
       "hidden": 0,
-      "globalPercent": 4
+      "globalPercent": 3.9
     },
     {
       "apiname": "DefeatDevilPhase2",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-12T18:04:29.641Z"
+  "fetchedAt": "2026-01-12T20:03:01.357Z"
 }
