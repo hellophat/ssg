@@ -270,7 +270,7 @@
       "description": "My, your skeleton is looking positively punishing today!",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/245170/9702d20858f5a69ee38b5140cdf4ad1be4b17031.jpg",
       "hidden": 0,
-      "globalPercent": 4.4
+      "globalPercent": 4.3
     },
     {
       "apiname": "ACHIEVEMENT_BY_THE_SCRUFFS_OF_THEIR_NECKS",
@@ -454,5 +454,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-12T06:05:54.212Z"
+  "fetchedAt": "2026-01-12T08:04:36.222Z"
 }
