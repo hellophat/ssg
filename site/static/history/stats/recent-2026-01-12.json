@@ -35,17 +35,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 245170,
-      "name": "Skullgirls 2nd Encore",
-      "playtime_2weeks": 70,
-      "playtime_forever": 270,
-      "img_icon_url": "0931d59aa0e33244275f4fa6c4409816ccf00296",
-      "playtime_windows_forever": 0,
-      "playtime_mac_forever": 270,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 289070,
       "name": "Sid Meier's Civilization VI",
       "playtime_2weeks": 23,
@@ -53,6 +42,17 @@
       "img_icon_url": "9dc914132fec244adcede62fb8e7524a72a7398c",
       "playtime_windows_forever": 0,
       "playtime_mac_forever": 23,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 245170,
+      "name": "Skullgirls 2nd Encore",
+      "playtime_2weeks": 23,
+      "playtime_forever": 270,
+      "img_icon_url": "0931d59aa0e33244275f4fa6c4409816ccf00296",
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 270,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
@@ -68,5 +68,5 @@
       "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-12T12:05:45.492Z"
+  "fetchedAt": "2026-01-12T14:06:01.578Z"
 }
