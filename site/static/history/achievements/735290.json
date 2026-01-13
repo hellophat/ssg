@@ -30,7 +30,7 @@
       "description": "No more encores.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/a6ad38ee8569b69977bce2e9bfe0014db10ec169.jpg",
       "hidden": 0,
-      "globalPercent": 37.9
+      "globalPercent": 37.8
     },
     {
       "apiname": "ACH_FINISH_HUNT",
@@ -160,7 +160,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/735290/b93ccae974414cecaa64100d74c689f57a353e0b.jpg",
       "hidden": 1,
-      "globalPercent": 20.3
+      "globalPercent": 20.2
     },
     {
       "apiname": "ACH_FINISH_HUBBLE_03",
@@ -174,5 +174,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-13T06:04:41.474Z"
+  "fetchedAt": "2026-01-13T08:04:31.151Z"
 }
