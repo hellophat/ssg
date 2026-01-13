@@ -30,7 +30,7 @@
       "description": "Clear the Fields of Mourning",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/829a116afe40a17c47b05fa41bfb3edbef73eca9.jpg",
       "hidden": 0,
-      "globalPercent": 50.8
+      "globalPercent": 50.9
     },
     {
       "apiname": "AchClearTartarus",
@@ -70,7 +70,7 @@
       "description": "Clear Mount Olympus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9836d475ab4c692991b945465d721b2f14774e6c.jpg",
       "hidden": 0,
-      "globalPercent": 37.6
+      "globalPercent": 37.7
     },
     {
       "apiname": "AchClearSummit",
@@ -90,7 +90,7 @@
       "description": "Cast 50 Incantations at the Crossroads Cauldron",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/34764be7ef10aab87367f521c18b20e7c90b230b.jpg",
       "hidden": 0,
-      "globalPercent": 38.3
+      "globalPercent": 38.4
     },
     {
       "apiname": "AchBathHouse",
@@ -110,7 +110,7 @@
       "description": "Take one of your comrades to the Fishing Pier",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/dcf255248de3bcf46aa84f2d2fd9404021cb14b2.jpg",
       "hidden": 0,
-      "globalPercent": 32.2
+      "globalPercent": 32.3
     },
     {
       "apiname": "AchTaverna",
@@ -120,7 +120,7 @@
       "description": "Take one of your comrades to the Taverna",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/80dc1ec718bfdfad65164abcce19a1f8b7b3beab.jpg",
       "hidden": 0,
-      "globalPercent": 29.8
+      "globalPercent": 29.9
     },
     {
       "apiname": "AchForgeBonds",
@@ -330,7 +330,7 @@
       "description": "Fulfill the Prophecy 'Voice and Vanity'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b9cdb4a23b73fcaf5abc37775ca59dc0f34ac031.jpg",
       "hidden": 0,
-      "globalPercent": 10.1
+      "globalPercent": 10.2
     },
     {
       "apiname": "AchCatchFish",
@@ -400,7 +400,7 @@
       "description": "Earn 1,000 Gold competing against Nemesis",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/caf791f68909a5f4b2e679192c180c5ce3485543.jpg",
       "hidden": 0,
-      "globalPercent": 11.5
+      "globalPercent": 11.6
     },
     {
       "apiname": "AchFamiliarCostumes",
@@ -420,7 +420,7 @@
       "description": "Slay a Sister of the Dead while afflicted with Twilight Curse",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/3d6457b3ce55d171cb5c3a56d9158e012212581a.jpg",
       "hidden": 0,
-      "globalPercent": 35.5
+      "globalPercent": 35.6
     },
     {
       "apiname": "AchSummonSiren",
@@ -500,9 +500,9 @@
       "description": "Earn all other Achievements",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/d0d5ecd013b17e976a486bc24071ef125167afd4.jpg",
       "hidden": 0,
-      "globalPercent": 2.9
+      "globalPercent": 3
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-13T00:10:39.799Z"
+  "fetchedAt": "2026-01-13T02:38:09.942Z"
 }
