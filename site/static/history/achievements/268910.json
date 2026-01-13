@@ -40,7 +40,7 @@
       "description": "Defeat every boss in Inkwell Isle III",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/78d4a0ccd6796e7dd8b26062b1de45a11dafcf52.jpg",
       "hidden": 0,
-      "globalPercent": 21.4
+      "globalPercent": 21.5
     },
     {
       "apiname": "CompleteDicePalace",
@@ -110,7 +110,7 @@
       "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle III",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/ec0a838951f37b2a2e11795ea7bca99937465ab7.jpg",
       "hidden": 0,
-      "globalPercent": 4.8
+      "globalPercent": 4.9
     },
     {
       "apiname": "ARankWorld4",
@@ -270,7 +270,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/474f5bdc62295816da274588774b9ac34cd6baad.jpg",
       "hidden": 1,
-      "globalPercent": 7.7
+      "globalPercent": 7.8
     },
     {
       "apiname": "PacifistRun",
@@ -320,7 +320,7 @@
       "description": "Defeat 10 bosses with Ms. Chalice",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/05d3fb262ba15b5ed5b8b11b12121403bf2d89e7.jpg",
       "hidden": 0,
-      "globalPercent": 5.7
+      "globalPercent": 5.8
     },
     {
       "apiname": "ChaliceSuperWin",
@@ -400,7 +400,7 @@
       "description": "Have 9HP at one time",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/bafc7caf5b6c240e5515e560d46d5fffb406888f.jpg",
       "hidden": 0,
-      "globalPercent": 3.9
+      "globalPercent": 4
     },
     {
       "apiname": "DefeatDevilPhase2",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-13T04:17:13.841Z"
+  "fetchedAt": "2026-01-13T06:04:35.708Z"
 }

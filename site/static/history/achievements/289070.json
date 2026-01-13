@@ -960,7 +960,7 @@
       "description": "Win a regular game with an Industrial Era start",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 1.1
+      "globalPercent": 1.2
     },
     {
       "apiname": "NEW_ACHIEVEMENT_5_1",
@@ -1770,7 +1770,7 @@
       "description": "As France, build an Intelligence Agency",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 4.4
+      "globalPercent": 4.5
     },
     {
       "apiname": "RAF_ACHIEVEMENT_25",
@@ -2050,7 +2050,7 @@
       "description": "Have a fully upgraded Giant Death Robot capture a city",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 14.5
+      "globalPercent": 14.6
     },
     {
       "apiname": "VSV_ACHIEVEMENT_15",
@@ -2450,7 +2450,7 @@
       "description": "Claim a Supply Drop in the Red Death scenario",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/297b0ab8ce64536bfc71ddc969bff7ad27f77cfe.jpg",
       "hidden": 0,
-      "globalPercent": 2
+      "globalPercent": 2.1
     },
     {
       "apiname": "ROYALE_ACHIEVEMENT_05",
@@ -2660,7 +2660,7 @@
       "description": "Defeat an Infantry unit whose capital is on another continent with an Oromo Cavalry.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 0.2
+      "globalPercent": 0.3
     },
     {
       "apiname": "STK2_ACHIEVEMENT_03",
@@ -2730,7 +2730,7 @@
       "description": "As Byzantium, take the original capital of Rome while it is following your founded religion.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
       "hidden": 0,
-      "globalPercent": 0.5
+      "globalPercent": 0.6
     },
     {
       "apiname": "STK3_ACHIEVEMENT_04",
@@ -2990,7 +2990,7 @@
       "description": "Control 5 Luxury Resource Monopolies at once on a Standard sized map or larger.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
       "hidden": 0,
-      "globalPercent": 4
+      "globalPercent": 4.1
     },
     {
       "apiname": "STK5_ACHIEVEMENT_06",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-13T04:17:17.450Z"
+  "fetchedAt": "2026-01-13T06:04:39.617Z"
 }
