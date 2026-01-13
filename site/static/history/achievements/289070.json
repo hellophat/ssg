@@ -350,7 +350,7 @@
       "description": "Levy the military of Nan Madol",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 3.4
+      "globalPercent": 3.5
     },
     {
       "apiname": "NEW_ACHIEVEMENT_3_3",
@@ -570,7 +570,7 @@
       "description": "Have an Army of land Units and 2 Armadas",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 19.7
+      "globalPercent": 19.8
     },
     {
       "apiname": "NEW_ACHIEVEMENT_3_25",
@@ -690,7 +690,7 @@
       "description": "Get 5 Tech boosts in 1 turn",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 25.2
+      "globalPercent": 25.3
     },
     {
       "apiname": "NEW_ACHIEVEMENT_4_6",
@@ -920,7 +920,7 @@
       "description": "Win a regular game with an Ancient Era start",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 36.7
+      "globalPercent": 36.8
     },
     {
       "apiname": "NEW_ACHIEVEMENT_4_29",
@@ -1470,7 +1470,7 @@
       "description": "Win the Path to Nirvana scenario on Deity",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 0.3
+      "globalPercent": 0.4
     },
     {
       "apiname": "DLC6_ACHIEVEMENT_05",
@@ -1590,7 +1590,7 @@
       "description": "Win a regular game as Robert the Bruce",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 2.3
+      "globalPercent": 2.4
     },
     {
       "apiname": "RAF_ACHIEVEMENT_07",
@@ -1790,7 +1790,7 @@
       "description": "Neutralize a Governor with a Spy",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 13.9
+      "globalPercent": 14
     },
     {
       "apiname": "RAF_ACHIEVEMENT_27",
@@ -2010,7 +2010,7 @@
       "description": "Win a Diplomatic Victory",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/8b753b1bf93139706476e54b9649c3451693c32a.jpg",
       "hidden": 0,
-      "globalPercent": 7.8
+      "globalPercent": 7.9
     },
     {
       "apiname": "VSV_ACHIEVEMENT_11",
@@ -2260,7 +2260,7 @@
       "description": "Have a district be pillaged by 3 different random events",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 35.3
+      "globalPercent": 35.4
     },
     {
       "apiname": "VSV_ACHIEVEMENT_36",
@@ -2900,7 +2900,7 @@
       "description": "Claim every Hero across multiple games.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
       "hidden": 0,
-      "globalPercent": 6.9
+      "globalPercent": 7
     },
     {
       "apiname": "STK4_ACHIEVEMENT_04",
@@ -3090,7 +3090,7 @@
       "description": "Win a regular game as Abraham Lincoln",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
       "hidden": 0,
-      "globalPercent": 0.9
+      "globalPercent": 1
     },
     {
       "apiname": "NEB_ACHIEVEMENT_03",
@@ -3180,7 +3180,7 @@
       "description": "Win a regular game as Ludwig II",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
       "hidden": 0,
-      "globalPercent": 1
+      "globalPercent": 1.1
     },
     {
       "apiname": "NEB_ACHIEVEMENT_12",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-13T02:38:15.433Z"
+  "fetchedAt": "2026-01-13T04:17:17.450Z"
 }
