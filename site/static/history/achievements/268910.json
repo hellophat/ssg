@@ -40,7 +40,7 @@
       "description": "Defeat every boss in Inkwell Isle III",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/78d4a0ccd6796e7dd8b26062b1de45a11dafcf52.jpg",
       "hidden": 0,
-      "globalPercent": 21.4
+      "globalPercent": 21.5
     },
     {
       "apiname": "CompleteDicePalace",
@@ -50,7 +50,7 @@
       "description": "Complete the Casino",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/3fc46cd738f18f2b104795b4a45dedd8cc59a820.jpg",
       "hidden": 0,
-      "globalPercent": 17.9
+      "globalPercent": 18
     },
     {
       "apiname": "CompleteDevil",
@@ -320,7 +320,7 @@
       "description": "Defeat 10 bosses with Ms. Chalice",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/05d3fb262ba15b5ed5b8b11b12121403bf2d89e7.jpg",
       "hidden": 0,
-      "globalPercent": 5.7
+      "globalPercent": 5.8
     },
     {
       "apiname": "ChaliceSuperWin",
@@ -390,7 +390,7 @@
       "description": "Defeat a boss on Inkwell Isle IV without killing any of its minions",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/e8b51bc902465b07b79fe2be03bee20c6d29e63f.jpg",
       "hidden": 0,
-      "globalPercent": 2.8
+      "globalPercent": 2.9
     },
     {
       "apiname": "HP9",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-14T10:04:04.892Z"
+  "fetchedAt": "2026-01-14T12:05:32.359Z"
 }
