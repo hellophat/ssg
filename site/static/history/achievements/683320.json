@@ -20,7 +20,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/bdbe48c9a5b067049fee151fe7606341ef9aeeb5.jpg",
       "hidden": 1,
-      "globalPercent": 7.7
+      "globalPercent": 7.8
     },
     {
       "apiname": "Z2_DISCOVER_GREEN",
@@ -60,7 +60,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/683320/f1ceee93b14423b7c2cf303f7adad6396933bb7e.jpg",
       "hidden": 1,
-      "globalPercent": 7.5
+      "globalPercent": 7.6
     },
     {
       "apiname": "Z4_DISCOVER_YELLOW",
@@ -174,5 +174,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-14T14:05:43.593Z"
+  "fetchedAt": "2026-01-14T16:04:52.645Z"
 }
