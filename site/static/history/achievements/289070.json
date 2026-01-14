@@ -1890,7 +1890,7 @@
       "description": "Earn three Golden Ages in a row",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 20.6
+      "globalPercent": 20.5
     },
     {
       "apiname": "RAF_ACHIEVEMENT_37",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-14T02:43:27.174Z"
+  "fetchedAt": "2026-01-14T04:21:12.047Z"
 }
