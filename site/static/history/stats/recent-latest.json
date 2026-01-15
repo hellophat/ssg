@@ -13,17 +13,6 @@
       "playtime_deck_forever": 0
     },
     {
-      "appid": 683320,
-      "name": "GRIS",
-      "playtime_2weeks": 89,
-      "playtime_forever": 269,
-      "img_icon_url": "10a3afeac4adedb37acaec02885bdc3c102eca93",
-      "playtime_windows_forever": 0,
-      "playtime_mac_forever": 269,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 268910,
       "name": "Cuphead",
       "playtime_2weeks": 81,
@@ -31,6 +20,17 @@
       "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
       "playtime_windows_forever": 0,
       "playtime_mac_forever": 1706,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
+    },
+    {
+      "appid": 683320,
+      "name": "GRIS",
+      "playtime_2weeks": 73,
+      "playtime_forever": 269,
+      "img_icon_url": "10a3afeac4adedb37acaec02885bdc3c102eca93",
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 269,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
@@ -57,5 +57,5 @@
       "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-15T08:04:30.641Z"
+  "fetchedAt": "2026-01-15T10:04:09.743Z"
 }
