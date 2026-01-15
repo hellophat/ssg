@@ -30,7 +30,7 @@
       "description": "Defeat every boss in Inkwell Isle II",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/98e1a4ed96b1f9c90e7ceaa2809c71d6f2d98573.jpg",
       "hidden": 0,
-      "globalPercent": 30.9
+      "globalPercent": 31
     },
     {
       "apiname": "CompleteWorld3",
@@ -80,7 +80,7 @@
       "description": "Get an S-Rank",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/a7d7ff0b3435ff7924d946fb48efc19630692d77.jpg",
       "hidden": 0,
-      "globalPercent": 8.3
+      "globalPercent": 8.4
     },
     {
       "apiname": "ARankWorld1",
@@ -90,7 +90,7 @@
       "description": "Obtain an A-Rank or higher on all bosses in Inkwell Isle I",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/c40360f73dcc4dc43053f620b37865b49b978173.jpg",
       "hidden": 0,
-      "globalPercent": 9.2
+      "globalPercent": 9.3
     },
     {
       "apiname": "ARankWorld2",
@@ -200,7 +200,7 @@
       "description": "Obtain all Super Arts",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/b6e8e325158aec050b3534bc7489286577686ae1.jpg",
       "hidden": 0,
-      "globalPercent": 23.7
+      "globalPercent": 23.8
     },
     {
       "apiname": "NoHitsTaken",
@@ -220,7 +220,7 @@
       "description": "Get every coin in all of the levels",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/fcc6cd08b814faf2fad7541afe22b97169c269f0.jpg",
       "hidden": 0,
-      "globalPercent": 12.5
+      "globalPercent": 12.6
     },
     {
       "apiname": "ParryChain",
@@ -230,7 +230,7 @@
       "description": "Parry five times before hitting the ground",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/586281026d280336f751d7fab15984118e39cc4d.jpg",
       "hidden": 0,
-      "globalPercent": 21
+      "globalPercent": 21.1
     },
     {
       "apiname": "ParryApprentice",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-15T10:04:14.160Z"
+  "fetchedAt": "2026-01-15T12:05:50.358Z"
 }
