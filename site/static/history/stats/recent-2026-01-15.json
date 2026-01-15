@@ -15,7 +15,7 @@
     {
       "appid": 268910,
       "name": "Cuphead",
-      "playtime_2weeks": 193,
+      "playtime_2weeks": 192,
       "playtime_forever": 1706,
       "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
       "playtime_windows_forever": 0,
@@ -26,7 +26,7 @@
     {
       "appid": 683320,
       "name": "GRIS",
-      "playtime_2weeks": 168,
+      "playtime_2weeks": 89,
       "playtime_forever": 269,
       "img_icon_url": "10a3afeac4adedb37acaec02885bdc3c102eca93",
       "playtime_windows_forever": 0,
@@ -57,5 +57,5 @@
       "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-15T04:18:16.294Z"
+  "fetchedAt": "2026-01-15T06:04:40.054Z"
 }
