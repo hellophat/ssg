@@ -1,25 +1,14 @@
 {
-  "total_count": 3,
+  "total_count": 2,
   "games": [
     {
       "appid": 1145350,
       "name": "Hades II",
-      "playtime_2weeks": 3179,
-      "playtime_forever": 3179,
+      "playtime_2weeks": 3239,
+      "playtime_forever": 3239,
       "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
       "playtime_windows_forever": 0,
-      "playtime_mac_forever": 3179,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
-      "appid": 268910,
-      "name": "Cuphead",
-      "playtime_2weeks": 81,
-      "playtime_forever": 1706,
-      "img_icon_url": "c19f1bd916b6d171e94089d03112ec4e4e4da84e",
-      "playtime_windows_forever": 0,
-      "playtime_mac_forever": 1706,
+      "playtime_mac_forever": 3239,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
     },
@@ -35,5 +24,5 @@
       "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-15T14:05:13.599Z"
+  "fetchedAt": "2026-01-15T16:07:15.911Z"
 }

@@ -114,11 +114,11 @@
     },
     {
       "apiname": "AchTaverna",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1768492910,
       "displayName": "Ambrosia for Two",
       "description": "Take one of your comrades to the Taverna",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/80dc1ec718bfdfad65164abcce19a1f8b7b3beab.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/35594904194adbdf5f28f24b3bcdb7ed798b3cf4.jpg",
       "hidden": 0,
       "globalPercent": 29.9
     },
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-15T14:05:15.668Z"
+  "fetchedAt": "2026-01-15T16:07:17.942Z"
 }
