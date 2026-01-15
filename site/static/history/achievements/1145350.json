@@ -40,7 +40,7 @@
       "description": "Clear Tartarus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/810e785977be190207d8be8ef1f4eeba83b3f3b2.jpg",
       "hidden": 0,
-      "globalPercent": 40.6
+      "globalPercent": 40.5
     },
     {
       "apiname": "AchClearEphyra",
@@ -210,7 +210,7 @@
       "description": "Recruit all Animal Familiars",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b612eb4bcdc7781d9d796e71cad520a845dc8b8a.jpg",
       "hidden": 0,
-      "globalPercent": 22
+      "globalPercent": 21.9
     },
     {
       "apiname": "AchAllFamiliarsMax",
@@ -280,7 +280,7 @@
       "description": "Fulfill the Prophecy 'Natural Talent'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/0e53b0d64078862e358bd8820eb611a39380af8b.jpg",
       "hidden": 0,
-      "globalPercent": 26.3
+      "globalPercent": 26.2
     },
     {
       "apiname": "AchHelpOdysseus",
@@ -420,7 +420,7 @@
       "description": "Slay a Sister of the Dead while afflicted with Twilight Curse",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/3d6457b3ce55d171cb5c3a56d9158e012212581a.jpg",
       "hidden": 0,
-      "globalPercent": 35.9
+      "globalPercent": 35.8
     },
     {
       "apiname": "AchSummonSiren",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-15T02:39:27.736Z"
+  "fetchedAt": "2026-01-15T04:18:18.751Z"
 }
