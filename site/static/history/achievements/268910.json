@@ -80,7 +80,7 @@
       "description": "Get an S-Rank",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/a7d7ff0b3435ff7924d946fb48efc19630692d77.jpg",
       "hidden": 0,
-      "globalPercent": 8.4
+      "globalPercent": 8.3
     },
     {
       "apiname": "ARankWorld1",
@@ -220,7 +220,7 @@
       "description": "Get every coin in all of the levels",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/268910/fcc6cd08b814faf2fad7541afe22b97169c269f0.jpg",
       "hidden": 0,
-      "globalPercent": 12.6
+      "globalPercent": 12.5
     },
     {
       "apiname": "ParryChain",
@@ -424,5 +424,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-14T22:03:31.246Z"
+  "fetchedAt": "2026-01-15T00:12:36.694Z"
 }
