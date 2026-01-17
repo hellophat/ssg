@@ -2220,7 +2220,7 @@
       "description": "Have a city with a Wind Farm, Solar Farm, Hydroelectric Dam, and Geothermal Plant",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 1.5
+      "globalPercent": 1.4
     },
     {
       "apiname": "VSV_ACHIEVEMENT_32",
@@ -3130,7 +3130,7 @@
       "description": "Win a regular game as Yongle",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
       "hidden": 0,
-      "globalPercent": 1.8
+      "globalPercent": 1.7
     },
     {
       "apiname": "NEB_ACHIEVEMENT_07",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-17T14:03:22.782Z"
+  "fetchedAt": "2026-01-17T16:03:40.068Z"
 }
