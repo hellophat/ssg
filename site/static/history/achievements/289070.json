@@ -30,7 +30,7 @@
       "description": "Win a regular game at Warlord difficulty or harder",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 31.8
+      "globalPercent": 31.9
     },
     {
       "apiname": "NEW_ACHIEVEMENT_2_3",
@@ -2220,7 +2220,7 @@
       "description": "Have a city with a Wind Farm, Solar Farm, Hydroelectric Dam, and Geothermal Plant",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 1.4
+      "globalPercent": 1.5
     },
     {
       "apiname": "VSV_ACHIEVEMENT_32",
@@ -3110,7 +3110,7 @@
       "description": "Win a regular game as Tokugawa",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
       "hidden": 0,
-      "globalPercent": 1
+      "globalPercent": 1.1
     },
     {
       "apiname": "NEB_ACHIEVEMENT_05",
@@ -3130,7 +3130,7 @@
       "description": "Win a regular game as Yongle",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
       "hidden": 0,
-      "globalPercent": 1.7
+      "globalPercent": 1.8
     },
     {
       "apiname": "NEB_ACHIEVEMENT_07",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-18T08:03:58.238Z"
+  "fetchedAt": "2026-01-18T10:03:14.338Z"
 }
