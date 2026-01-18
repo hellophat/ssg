@@ -360,7 +360,7 @@
       "description": "Fulfill the Prophecy 'Sword of the Night'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/683178bcd525d5ff8faf28205e10dbd5565e9136.jpg",
       "hidden": 0,
-      "globalPercent": 11.5
+      "globalPercent": 11.6
     },
     {
       "apiname": "AchBeatChronosWithArcana",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-18T00:13:39.024Z"
+  "fetchedAt": "2026-01-18T02:45:56.840Z"
 }
