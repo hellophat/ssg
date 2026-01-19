@@ -30,7 +30,7 @@
       "description": "Win a regular game at Warlord difficulty or harder",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 31.9
+      "globalPercent": 31.8
     },
     {
       "apiname": "NEW_ACHIEVEMENT_2_3",
@@ -80,7 +80,7 @@
       "description": "Win a regular game at Deity difficulty",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 6.9
+      "globalPercent": 6.8
     },
     {
       "apiname": "NEW_ACHIEVEMENT_2_8",
@@ -1890,7 +1890,7 @@
       "description": "Earn three Golden Ages in a row",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 20.6
+      "globalPercent": 20.5
     },
     {
       "apiname": "RAF_ACHIEVEMENT_37",
@@ -2220,7 +2220,7 @@
       "description": "Have a city with a Wind Farm, Solar Farm, Hydroelectric Dam, and Geothermal Plant",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 1.5
+      "globalPercent": 1.4
     },
     {
       "apiname": "VSV_ACHIEVEMENT_32",
@@ -3110,7 +3110,7 @@
       "description": "Win a regular game as Tokugawa",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
       "hidden": 0,
-      "globalPercent": 1.1
+      "globalPercent": 1
     },
     {
       "apiname": "NEB_ACHIEVEMENT_05",
@@ -3130,7 +3130,7 @@
       "description": "Win a regular game as Yongle",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
       "hidden": 0,
-      "globalPercent": 1.8
+      "globalPercent": 1.7
     },
     {
       "apiname": "NEB_ACHIEVEMENT_07",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-19T08:05:01.901Z"
+  "fetchedAt": "2026-01-19T10:05:31.839Z"
 }
