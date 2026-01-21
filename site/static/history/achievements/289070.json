@@ -2750,7 +2750,7 @@
       "description": "In Dramatic Ages Mode, lose 4 or more cities by entering a Dark Age.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
       "hidden": 0,
-      "globalPercent": 0.9
+      "globalPercent": 1
     },
     {
       "apiname": "STK3_ACHIEVEMENT_06",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-21T18:12:58.735Z"
+  "fetchedAt": "2026-01-21T20:06:58.369Z"
 }
