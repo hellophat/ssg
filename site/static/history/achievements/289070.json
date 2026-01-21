@@ -2070,7 +2070,7 @@
       "description": "Move a military unit into an enemy's owned tile using a Mountain Tunnel (or Qhapaq Nan)",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 19.7
+      "globalPercent": 19.6
     },
     {
       "apiname": "VSV_ACHIEVEMENT_17",
@@ -2240,7 +2240,7 @@
       "description": "Be the first to complete all the technologies in the Future Era in a game with 8 or more players",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 15.5
+      "globalPercent": 15.4
     },
     {
       "apiname": "VSV_ACHIEVEMENT_34",
@@ -2750,7 +2750,7 @@
       "description": "In Dramatic Ages Mode, lose 4 or more cities by entering a Dark Age.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
       "hidden": 0,
-      "globalPercent": 1
+      "globalPercent": 0.9
     },
     {
       "apiname": "STK3_ACHIEVEMENT_06",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-21T16:07:38.428Z"
+  "fetchedAt": "2026-01-21T18:12:58.735Z"
 }
