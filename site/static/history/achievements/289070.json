@@ -30,7 +30,7 @@
       "description": "Win a regular game at Warlord difficulty or harder",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 31.8
+      "globalPercent": 31.9
     },
     {
       "apiname": "NEW_ACHIEVEMENT_2_3",
@@ -2070,7 +2070,7 @@
       "description": "Move a military unit into an enemy's owned tile using a Mountain Tunnel (or Qhapaq Nan)",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 19.6
+      "globalPercent": 19.7
     },
     {
       "apiname": "VSV_ACHIEVEMENT_17",
@@ -2240,7 +2240,7 @@
       "description": "Be the first to complete all the technologies in the Future Era in a game with 8 or more players",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 15.4
+      "globalPercent": 15.5
     },
     {
       "apiname": "VSV_ACHIEVEMENT_34",
@@ -2750,7 +2750,7 @@
       "description": "In Dramatic Ages Mode, lose 4 or more cities by entering a Dark Age.",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/20e5601bf0603c4740efa0d153f7878f02e5d307.jpg",
       "hidden": 0,
-      "globalPercent": 0.9
+      "globalPercent": 1
     },
     {
       "apiname": "STK3_ACHIEVEMENT_06",
@@ -3110,7 +3110,7 @@
       "description": "Win a regular game as Tokugawa",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/3f5e7dabc4a04a25649fd0b952ed8e842f7b0ac3.jpg",
       "hidden": 0,
-      "globalPercent": 1
+      "globalPercent": 1.1
     },
     {
       "apiname": "NEB_ACHIEVEMENT_05",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-22T10:05:52.802Z"
+  "fetchedAt": "2026-01-22T12:06:01.564Z"
 }
