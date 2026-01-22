@@ -2070,7 +2070,7 @@
       "description": "Move a military unit into an enemy's owned tile using a Mountain Tunnel (or Qhapaq Nan)",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 19.7
+      "globalPercent": 19.6
     },
     {
       "apiname": "VSV_ACHIEVEMENT_17",
@@ -2240,7 +2240,7 @@
       "description": "Be the first to complete all the technologies in the Future Era in a game with 8 or more players",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 15.5
+      "globalPercent": 15.4
     },
     {
       "apiname": "VSV_ACHIEVEMENT_34",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-22T12:06:01.564Z"
+  "fetchedAt": "2026-01-22T14:09:18.340Z"
 }
