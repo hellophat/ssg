@@ -1,28 +1,17 @@
 {
-  "total_count": 2,
+  "total_count": 1,
   "games": [
     {
       "appid": 1145350,
       "name": "Hades II",
-      "playtime_2weeks": 840,
+      "playtime_2weeks": 784,
       "playtime_forever": 3874,
       "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
       "playtime_windows_forever": 0,
       "playtime_mac_forever": 3874,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
-    },
-    {
-      "appid": 289070,
-      "name": "Sid Meier's Civilization VI",
-      "playtime_2weeks": 22,
-      "playtime_forever": 23,
-      "img_icon_url": "9dc914132fec244adcede62fb8e7524a72a7398c",
-      "playtime_windows_forever": 0,
-      "playtime_mac_forever": 23,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-23T14:05:56.099Z"
+  "fetchedAt": "2026-01-23T16:04:53.978Z"
 }
