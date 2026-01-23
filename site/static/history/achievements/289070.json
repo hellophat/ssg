@@ -790,7 +790,7 @@
       "description": "Found or conquer a city on a different continent",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 60.8
+      "globalPercent": 60.7
     },
     {
       "apiname": "NEW_ACHIEVEMENT_4_16",
@@ -1570,7 +1570,7 @@
       "description": "Win a regular game as Genghis Khan",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 2.5
+      "globalPercent": 2.4
     },
     {
       "apiname": "RAF_ACHIEVEMENT_05",
@@ -1830,7 +1830,7 @@
       "description": "Assign a Dark Policy to your Government",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 20.4
+      "globalPercent": 20.3
     },
     {
       "apiname": "RAF_ACHIEVEMENT_31",
@@ -2070,7 +2070,7 @@
       "description": "Move a military unit into an enemy's owned tile using a Mountain Tunnel (or Qhapaq Nan)",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 19.7
+      "globalPercent": 19.6
     },
     {
       "apiname": "VSV_ACHIEVEMENT_17",
@@ -2230,7 +2230,7 @@
       "description": "Complete the Carbon Recapture project 10 times during a single game",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 9.1
+      "globalPercent": 9
     },
     {
       "apiname": "VSV_ACHIEVEMENT_33",
@@ -2240,7 +2240,7 @@
       "description": "Be the first to complete all the technologies in the Future Era in a game with 8 or more players",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 15.5
+      "globalPercent": 15.4
     },
     {
       "apiname": "VSV_ACHIEVEMENT_34",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-23T06:04:53.310Z"
+  "fetchedAt": "2026-01-23T08:04:19.597Z"
 }
