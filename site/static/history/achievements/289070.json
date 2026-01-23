@@ -790,7 +790,7 @@
       "description": "Found or conquer a city on a different continent",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c29e93fd82f9033ea2029b866c5bc29f1813d649.jpg",
       "hidden": 0,
-      "globalPercent": 60.7
+      "globalPercent": 60.8
     },
     {
       "apiname": "NEW_ACHIEVEMENT_4_16",
@@ -1570,7 +1570,7 @@
       "description": "Win a regular game as Genghis Khan",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 2.4
+      "globalPercent": 2.5
     },
     {
       "apiname": "RAF_ACHIEVEMENT_05",
@@ -1830,7 +1830,7 @@
       "description": "Assign a Dark Policy to your Government",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/c05dd3fc1d3b8ac1b04314e73dfeebb8aa7ffb26.jpg",
       "hidden": 0,
-      "globalPercent": 20.3
+      "globalPercent": 20.4
     },
     {
       "apiname": "RAF_ACHIEVEMENT_31",
@@ -2230,7 +2230,7 @@
       "description": "Complete the Carbon Recapture project 10 times during a single game",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/289070/ada80efbafc9f08d01ce9c6a160dfdcfbf8dade7.jpg",
       "hidden": 0,
-      "globalPercent": 9
+      "globalPercent": 9.1
     },
     {
       "apiname": "VSV_ACHIEVEMENT_33",
@@ -3204,5 +3204,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-23T04:18:55.157Z"
+  "fetchedAt": "2026-01-23T06:04:53.310Z"
 }
