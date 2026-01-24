@@ -50,7 +50,7 @@
       "description": "Clear the City of Ephyra",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/be944d65c04c2446f9389c0ea15fdb34a15cba47.jpg",
       "hidden": 0,
-      "globalPercent": 46.3
+      "globalPercent": 46.4
     },
     {
       "apiname": "AchClearThessaly",
@@ -120,7 +120,7 @@
       "description": "Take one of your comrades to the Taverna",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/35594904194adbdf5f28f24b3bcdb7ed798b3cf4.jpg",
       "hidden": 0,
-      "globalPercent": 30.5
+      "globalPercent": 30.6
     },
     {
       "apiname": "AchForgeBonds",
@@ -140,7 +140,7 @@
       "description": "Fulfill 60 Minor Prophecies",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/f97bc84742bcbab0cc1282a6d4e32e6c2a78c4b3.jpg",
       "hidden": 0,
-      "globalPercent": 10.6
+      "globalPercent": 10.7
     },
     {
       "apiname": "AchMaxMem",
@@ -160,7 +160,7 @@
       "description": "Fulfill the Prophecy 'Breadth of Knowledge'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/8ecff233744db9661a80ab2ffbb1c2ae675d83fd.jpg",
       "hidden": 0,
-      "globalPercent": 34.6
+      "globalPercent": 34.7
     },
     {
       "apiname": "AchAllArcanaMax",
@@ -200,7 +200,7 @@
       "description": "Fulfill the Prophecy 'Familiar Confidant'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/5a20c112ae2305e8a28635fa4f06be038c57294d.jpg",
       "hidden": 0,
-      "globalPercent": 33.2
+      "globalPercent": 33.3
     },
     {
       "apiname": "AchAllFamiliars",
@@ -210,7 +210,7 @@
       "description": "Recruit all Animal Familiars",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b612eb4bcdc7781d9d796e71cad520a845dc8b8a.jpg",
       "hidden": 0,
-      "globalPercent": 22.3
+      "globalPercent": 22.4
     },
     {
       "apiname": "AchAllFamiliarsMax",
@@ -300,7 +300,7 @@
       "description": "Fulfill the Prophecy 'Haunted by the Past'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/7b158e9bdb0e99859046ee870e4a778102f79657.jpg",
       "hidden": 0,
-      "globalPercent": 14.5
+      "globalPercent": 14.6
     },
     {
       "apiname": "AchHelpHypnos",
@@ -450,7 +450,7 @@
       "description": "Earn the first Gift of the Veil",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/d43cc5a6fd450378a3169fd43c9e3d4a35c31802.jpg",
       "hidden": 0,
-      "globalPercent": 21.8
+      "globalPercent": 21.9
     },
     {
       "apiname": "AchEarnStatue2",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-23T22:02:57.724Z"
+  "fetchedAt": "2026-01-24T00:12:16.491Z"
 }
