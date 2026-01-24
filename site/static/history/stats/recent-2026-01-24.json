@@ -4,7 +4,7 @@
     {
       "appid": 1145350,
       "name": "Hades II",
-      "playtime_2weeks": 746,
+      "playtime_2weeks": 734,
       "playtime_forever": 3874,
       "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
       "playtime_windows_forever": 0,
@@ -13,5 +13,5 @@
       "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-01-24T06:04:17.007Z"
+  "fetchedAt": "2026-01-24T08:03:57.679Z"
 }
