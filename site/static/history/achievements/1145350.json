@@ -120,7 +120,7 @@
       "description": "Take one of your comrades to the Taverna",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/35594904194adbdf5f28f24b3bcdb7ed798b3cf4.jpg",
       "hidden": 0,
-      "globalPercent": 30.5
+      "globalPercent": 30.6
     },
     {
       "apiname": "AchForgeBonds",
@@ -160,7 +160,7 @@
       "description": "Fulfill the Prophecy 'Breadth of Knowledge'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/8ecff233744db9661a80ab2ffbb1c2ae675d83fd.jpg",
       "hidden": 0,
-      "globalPercent": 34.6
+      "globalPercent": 34.7
     },
     {
       "apiname": "AchAllArcanaMax",
@@ -234,11 +234,11 @@
     },
     {
       "apiname": "AchAllKeepsakes",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1769326550,
       "displayName": "Sentimental Value",
       "description": "Collect every Keepsake",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/a6eea86ad94580bbf3b8f9e44de9af1fe6a458ef.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/8f7640b7274446300aac8aac059b73d7e05ee91e.jpg",
       "hidden": 0,
       "globalPercent": 9.2
     },
@@ -454,11 +454,11 @@
     },
     {
       "apiname": "AchEarnStatue2",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1769325144,
       "displayName": "Mercy, Night's Executioner",
       "description": "Earn the second Gift of the Veil",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6da3645832b6b76f6e9860dd5dd0846d4eb2bb3c.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/87c8ec980af4cac963523753dda84d3f63e138b3.jpg",
       "hidden": 0,
       "globalPercent": 14.7
     },
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-25T06:04:28.643Z"
+  "fetchedAt": "2026-01-25T08:04:08.286Z"
 }
