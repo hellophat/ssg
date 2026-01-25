@@ -464,11 +464,11 @@
     },
     {
       "apiname": "AchWinSecretContest",
-      "achieved": 0,
-      "unlocktime": 0,
+      "achieved": 1,
+      "unlocktime": 1769314977,
       "displayName": "Elysian Glory",
       "description": "Prevail in the Contest of Champions",
-      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/717c6d9887dacb40625ba0ed2fbc1bac0be5180d.jpg",
+      "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/4642a4347918734ecd5c0432064218c104541b5a.jpg",
       "hidden": 0,
       "globalPercent": 13.9
     },
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-25T02:48:15.961Z"
+  "fetchedAt": "2026-01-25T04:24:23.572Z"
 }
