@@ -30,7 +30,7 @@
       "description": "Clear the Fields of Mourning",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/829a116afe40a17c47b05fa41bfb3edbef73eca9.jpg",
       "hidden": 0,
-      "globalPercent": 51.7
+      "globalPercent": 51.6
     },
     {
       "apiname": "AchClearTartarus",
@@ -40,7 +40,7 @@
       "description": "Clear Tartarus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/810e785977be190207d8be8ef1f4eeba83b3f3b2.jpg",
       "hidden": 0,
-      "globalPercent": 41.1
+      "globalPercent": 41
     },
     {
       "apiname": "AchClearEphyra",
@@ -70,7 +70,7 @@
       "description": "Clear Mount Olympus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9836d475ab4c692991b945465d721b2f14774e6c.jpg",
       "hidden": 0,
-      "globalPercent": 38.5
+      "globalPercent": 38.4
     },
     {
       "apiname": "AchClearSummit",
@@ -80,7 +80,7 @@
       "description": "Clear the Summit",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ddfad8618ab85d131992a91e7b6cb29191e4dbaa.jpg",
       "hidden": 0,
-      "globalPercent": 32.2
+      "globalPercent": 32.1
     },
     {
       "apiname": "AchCauldronSpells1",
@@ -90,7 +90,7 @@
       "description": "Cast 50 Incantations at the Crossroads Cauldron",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/34764be7ef10aab87367f521c18b20e7c90b230b.jpg",
       "hidden": 0,
-      "globalPercent": 39.1
+      "globalPercent": 39
     },
     {
       "apiname": "AchBathHouse",
@@ -100,7 +100,7 @@
       "description": "Take one of your comrades to the Hot Springs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9ef902f4f1ee2f0172ae132c48227ad0546d840d.jpg",
       "hidden": 0,
-      "globalPercent": 42.6
+      "globalPercent": 42.5
     },
     {
       "apiname": "AchFishingPier",
@@ -130,7 +130,7 @@
       "description": "Forge a bond with 10 comrades",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/5fb1266ca5567441d8c9aa08fb238a37d725138e.jpg",
       "hidden": 0,
-      "globalPercent": 10.3
+      "globalPercent": 10.2
     },
     {
       "apiname": "AchProphecies1",
@@ -150,7 +150,7 @@
       "description": "Gain 30 Grasp at the Altar of Ashes",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/4d28974d1f966e6bac5221972ec64441a283944d.jpg",
       "hidden": 0,
-      "globalPercent": 29.9
+      "globalPercent": 29.8
     },
     {
       "apiname": "AchAllArcana",
@@ -180,7 +180,7 @@
       "description": "Fulfill the Prophecy 'The Arms of Night'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/2f8d693ca8f4c5d1f809b5ca8052656dc530b31a.jpg",
       "hidden": 0,
-      "globalPercent": 41.5
+      "globalPercent": 41.4
     },
     {
       "apiname": "AchAllAspects",
@@ -190,7 +190,7 @@
       "description": "Fulfill the Prophecy 'The Unseen Sentinel'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/dbd50a4b00c42beb7acd7c28cf68e730cd495cb8.jpg",
       "hidden": 0,
-      "globalPercent": 8.8
+      "globalPercent": 8.7
     },
     {
       "apiname": "AchConfideFrinos",
@@ -310,7 +310,7 @@
       "description": "Fulfill the Prophecy 'Soundest of Sleepers'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/0135f7b6cdb456c7432ad3834282476a97447b7a.jpg",
       "hidden": 0,
-      "globalPercent": 13.6
+      "globalPercent": 13.5
     },
     {
       "apiname": "AchHelpArachne",
@@ -330,7 +330,7 @@
       "description": "Fulfill the Prophecy 'Voice and Vanity'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b9cdb4a23b73fcaf5abc37775ca59dc0f34ac031.jpg",
       "hidden": 0,
-      "globalPercent": 10.4
+      "globalPercent": 10.3
     },
     {
       "apiname": "AchCatchFish",
@@ -370,7 +370,7 @@
       "description": "Fulfill the Prophecy 'Arcana of the Ages'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/880a5f03a316fb349e79314fcc805937d8da4067.jpg",
       "hidden": 0,
-      "globalPercent": 14
+      "globalPercent": 13.9
     },
     {
       "apiname": "AchClearWithAllAspects",
@@ -420,7 +420,7 @@
       "description": "Slay a Sister of the Dead while afflicted with Twilight Curse",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/3d6457b3ce55d171cb5c3a56d9158e012212581a.jpg",
       "hidden": 0,
-      "globalPercent": 36.4
+      "globalPercent": 36.3
     },
     {
       "apiname": "AchSummonSiren",
@@ -430,7 +430,7 @@
       "description": "Use Night Bloom to raise a Siren",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/79e935f097f6dcaaf973aefc7d3645c8010de193.jpg",
       "hidden": 0,
-      "globalPercent": 20.7
+      "globalPercent": 20.6
     },
     {
       "apiname": "AchTartarusInDress",
@@ -480,7 +480,7 @@
       "description": "Complete the lifelong task of the Princess of the Underworld",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/60027445235d9c9f118df7c7e006e9dc8928781f.jpg",
       "hidden": 0,
-      "globalPercent": 23.2
+      "globalPercent": 23.1
     },
     {
       "apiname": "AchEpilogue",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-25T22:03:27.543Z"
+  "fetchedAt": "2026-01-26T00:13:44.318Z"
 }
