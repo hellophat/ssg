@@ -40,7 +40,7 @@
       "description": "Clear Tartarus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/810e785977be190207d8be8ef1f4eeba83b3f3b2.jpg",
       "hidden": 0,
-      "globalPercent": 41.5
+      "globalPercent": 41.4
     },
     {
       "apiname": "AchClearEphyra",
@@ -130,7 +130,7 @@
       "description": "Forge a bond with 10 comrades",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/5fb1266ca5567441d8c9aa08fb238a37d725138e.jpg",
       "hidden": 0,
-      "globalPercent": 10.5
+      "globalPercent": 10.4
     },
     {
       "apiname": "AchProphecies1",
@@ -320,7 +320,7 @@
       "description": "Fulfill the Prophecy 'Silk and Spitefulness'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/036988949f251d0e00bce500e2083d99be6307ba.jpg",
       "hidden": 0,
-      "globalPercent": 5.6
+      "globalPercent": 5.5
     },
     {
       "apiname": "AchHelpNarcissusAndEcho",
@@ -350,7 +350,7 @@
       "description": "Fulfill the Prophecy 'Unrivaled Prowess'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/e49f2f8289bbe30db779d69fd4e5a92b18ffc43c.jpg",
       "hidden": 0,
-      "globalPercent": 8.8
+      "globalPercent": 8.7
     },
     {
       "apiname": "AchBeatTyphonWithWeapons",
@@ -360,7 +360,7 @@
       "description": "Fulfill the Prophecy 'Sword of the Night'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/683178bcd525d5ff8faf28205e10dbd5565e9136.jpg",
       "hidden": 0,
-      "globalPercent": 11.9
+      "globalPercent": 11.8
     },
     {
       "apiname": "AchBeatChronosWithArcana",
@@ -370,7 +370,7 @@
       "description": "Fulfill the Prophecy 'Arcana of the Ages'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/880a5f03a316fb349e79314fcc805937d8da4067.jpg",
       "hidden": 0,
-      "globalPercent": 14.2
+      "globalPercent": 14.1
     },
     {
       "apiname": "AchClearWithAllAspects",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-01-31T00:14:29.748Z"
+  "fetchedAt": "2026-01-31T02:52:08.381Z"
 }
