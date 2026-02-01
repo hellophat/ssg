@@ -80,7 +80,7 @@
       "description": "Clear the Summit",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ddfad8618ab85d131992a91e7b6cb29191e4dbaa.jpg",
       "hidden": 0,
-      "globalPercent": 32.5
+      "globalPercent": 32.6
     },
     {
       "apiname": "AchCauldronSpells1",
@@ -170,7 +170,7 @@
       "description": "Fully upgrade all Arcana",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/f1f05955c0e2427ec09306211bc103ec728f71bd.jpg",
       "hidden": 0,
-      "globalPercent": 10.4
+      "globalPercent": 10.5
     },
     {
       "apiname": "AchAllWeapons",
@@ -390,7 +390,7 @@
       "description": "Fulfill the Prophecy 'Born to Win'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/1731de7007a4539362a073676c76710a16ea9ac5.jpg",
       "hidden": 0,
-      "globalPercent": 9.3
+      "globalPercent": 9.4
     },
     {
       "apiname": "AchNemesisCombat",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-01T00:16:59.353Z"
+  "fetchedAt": "2026-02-01T03:01:44.574Z"
 }
