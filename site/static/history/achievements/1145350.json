@@ -20,7 +20,7 @@
       "description": "Clear Oceanus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9bd88f9a13639e00c4b9371fdce7303c5ff241fc.jpg",
       "hidden": 0,
-      "globalPercent": 55.4
+      "globalPercent": 55.5
     },
     {
       "apiname": "AchClearFields",
@@ -60,7 +60,7 @@
       "description": "Clear the Rift of Thessaly",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/af62d5e2b3ef2777c6b094da2957f37992d4e49b.jpg",
       "hidden": 0,
-      "globalPercent": 43.4
+      "globalPercent": 43.5
     },
     {
       "apiname": "AchClearOlympus",
@@ -70,7 +70,7 @@
       "description": "Clear Mount Olympus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9836d475ab4c692991b945465d721b2f14774e6c.jpg",
       "hidden": 0,
-      "globalPercent": 38.8
+      "globalPercent": 38.9
     },
     {
       "apiname": "AchClearSummit",
@@ -80,7 +80,7 @@
       "description": "Clear the Summit",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ddfad8618ab85d131992a91e7b6cb29191e4dbaa.jpg",
       "hidden": 0,
-      "globalPercent": 32.5
+      "globalPercent": 32.6
     },
     {
       "apiname": "AchCauldronSpells1",
@@ -170,7 +170,7 @@
       "description": "Fully upgrade all Arcana",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/f1f05955c0e2427ec09306211bc103ec728f71bd.jpg",
       "hidden": 0,
-      "globalPercent": 10.4
+      "globalPercent": 10.5
     },
     {
       "apiname": "AchAllWeapons",
@@ -280,7 +280,7 @@
       "description": "Fulfill the Prophecy 'Natural Talent'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/0e53b0d64078862e358bd8820eb611a39380af8b.jpg",
       "hidden": 0,
-      "globalPercent": 27
+      "globalPercent": 27.1
     },
     {
       "apiname": "AchHelpOdysseus",
@@ -390,7 +390,7 @@
       "description": "Fulfill the Prophecy 'Born to Win'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/1731de7007a4539362a073676c76710a16ea9ac5.jpg",
       "hidden": 0,
-      "globalPercent": 9.3
+      "globalPercent": 9.4
     },
     {
       "apiname": "AchNemesisCombat",
@@ -420,7 +420,7 @@
       "description": "Slay a Sister of the Dead while afflicted with Twilight Curse",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/3d6457b3ce55d171cb5c3a56d9158e012212581a.jpg",
       "hidden": 0,
-      "globalPercent": 36.7
+      "globalPercent": 36.8
     },
     {
       "apiname": "AchSummonSiren",
@@ -480,7 +480,7 @@
       "description": "Complete the lifelong task of the Princess of the Underworld",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/60027445235d9c9f118df7c7e006e9dc8928781f.jpg",
       "hidden": 0,
-      "globalPercent": 23.5
+      "globalPercent": 23.6
     },
     {
       "apiname": "AchEpilogue",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-01T18:05:39.028Z"
+  "fetchedAt": "2026-02-01T20:03:57.321Z"
 }
