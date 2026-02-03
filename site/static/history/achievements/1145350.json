@@ -20,7 +20,7 @@
       "description": "Clear Oceanus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9bd88f9a13639e00c4b9371fdce7303c5ff241fc.jpg",
       "hidden": 0,
-      "globalPercent": 55.4
+      "globalPercent": 55.5
     },
     {
       "apiname": "AchClearFields",
@@ -30,7 +30,7 @@
       "description": "Clear the Fields of Mourning",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/829a116afe40a17c47b05fa41bfb3edbef73eca9.jpg",
       "hidden": 0,
-      "globalPercent": 52
+      "globalPercent": 52.1
     },
     {
       "apiname": "AchClearTartarus",
@@ -40,7 +40,7 @@
       "description": "Clear Tartarus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/810e785977be190207d8be8ef1f4eeba83b3f3b2.jpg",
       "hidden": 0,
-      "globalPercent": 41.4
+      "globalPercent": 41.5
     },
     {
       "apiname": "AchClearEphyra",
@@ -50,7 +50,7 @@
       "description": "Clear the City of Ephyra",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/be944d65c04c2446f9389c0ea15fdb34a15cba47.jpg",
       "hidden": 0,
-      "globalPercent": 46.7
+      "globalPercent": 46.8
     },
     {
       "apiname": "AchClearThessaly",
@@ -60,7 +60,7 @@
       "description": "Clear the Rift of Thessaly",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/af62d5e2b3ef2777c6b094da2957f37992d4e49b.jpg",
       "hidden": 0,
-      "globalPercent": 43.4
+      "globalPercent": 43.5
     },
     {
       "apiname": "AchClearOlympus",
@@ -70,7 +70,7 @@
       "description": "Clear Mount Olympus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9836d475ab4c692991b945465d721b2f14774e6c.jpg",
       "hidden": 0,
-      "globalPercent": 38.8
+      "globalPercent": 38.9
     },
     {
       "apiname": "AchClearSummit",
@@ -80,7 +80,7 @@
       "description": "Clear the Summit",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ddfad8618ab85d131992a91e7b6cb29191e4dbaa.jpg",
       "hidden": 0,
-      "globalPercent": 32.5
+      "globalPercent": 32.6
     },
     {
       "apiname": "AchCauldronSpells1",
@@ -90,7 +90,7 @@
       "description": "Cast 50 Incantations at the Crossroads Cauldron",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/34764be7ef10aab87367f521c18b20e7c90b230b.jpg",
       "hidden": 0,
-      "globalPercent": 39.4
+      "globalPercent": 39.5
     },
     {
       "apiname": "AchBathHouse",
@@ -100,7 +100,7 @@
       "description": "Take one of your comrades to the Hot Springs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/9ef902f4f1ee2f0172ae132c48227ad0546d840d.jpg",
       "hidden": 0,
-      "globalPercent": 42.9
+      "globalPercent": 43
     },
     {
       "apiname": "AchFishingPier",
@@ -110,7 +110,7 @@
       "description": "Take one of your comrades to the Fishing Pier",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/dcf255248de3bcf46aa84f2d2fd9404021cb14b2.jpg",
       "hidden": 0,
-      "globalPercent": 33.3
+      "globalPercent": 33.4
     },
     {
       "apiname": "AchTaverna",
@@ -120,7 +120,7 @@
       "description": "Take one of your comrades to the Taverna",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/35594904194adbdf5f28f24b3bcdb7ed798b3cf4.jpg",
       "hidden": 0,
-      "globalPercent": 30.8
+      "globalPercent": 30.9
     },
     {
       "apiname": "AchForgeBonds",
@@ -130,7 +130,7 @@
       "description": "Forge a bond with 10 comrades",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/5fb1266ca5567441d8c9aa08fb238a37d725138e.jpg",
       "hidden": 0,
-      "globalPercent": 10.4
+      "globalPercent": 10.5
     },
     {
       "apiname": "AchProphecies1",
@@ -150,7 +150,7 @@
       "description": "Gain 30 Grasp at the Altar of Ashes",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6509592859018e1ed3b5fd977ecd19b2b4e28b9d.jpg",
       "hidden": 0,
-      "globalPercent": 30.2
+      "globalPercent": 30.3
     },
     {
       "apiname": "AchAllArcana",
@@ -170,7 +170,7 @@
       "description": "Fully upgrade all Arcana",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/f1f05955c0e2427ec09306211bc103ec728f71bd.jpg",
       "hidden": 0,
-      "globalPercent": 10.4
+      "globalPercent": 10.5
     },
     {
       "apiname": "AchAllWeapons",
@@ -180,7 +180,7 @@
       "description": "Fulfill the Prophecy 'The Arms of Night'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/2f8d693ca8f4c5d1f809b5ca8052656dc530b31a.jpg",
       "hidden": 0,
-      "globalPercent": 41.8
+      "globalPercent": 41.9
     },
     {
       "apiname": "AchAllAspects",
@@ -210,7 +210,7 @@
       "description": "Recruit all Animal Familiars",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/b612eb4bcdc7781d9d796e71cad520a845dc8b8a.jpg",
       "hidden": 0,
-      "globalPercent": 22.6
+      "globalPercent": 22.7
     },
     {
       "apiname": "AchAllFamiliarsMax",
@@ -220,7 +220,7 @@
       "description": "Fully upgrade all Animal Familiars",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ac72ab7813c4da9bd26e05069659b984b18070c4.jpg",
       "hidden": 0,
-      "globalPercent": 7.6
+      "globalPercent": 7.7
     },
     {
       "apiname": "AchEarnPrestige1",
@@ -230,7 +230,7 @@
       "description": "Earn 10,000 Kudos",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6939fa86ab96cff5068d1d631203274585d8f24f.jpg",
       "hidden": 0,
-      "globalPercent": 16.9
+      "globalPercent": 17
     },
     {
       "apiname": "AchAllKeepsakes",
@@ -280,7 +280,7 @@
       "description": "Fulfill the Prophecy 'Natural Talent'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/0e53b0d64078862e358bd8820eb611a39380af8b.jpg",
       "hidden": 0,
-      "globalPercent": 27
+      "globalPercent": 27.1
     },
     {
       "apiname": "AchHelpOdysseus",
@@ -320,7 +320,7 @@
       "description": "Fulfill the Prophecy 'Silk and Spitefulness'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/036988949f251d0e00bce500e2083d99be6307ba.jpg",
       "hidden": 0,
-      "globalPercent": 5.5
+      "globalPercent": 5.6
     },
     {
       "apiname": "AchHelpNarcissusAndEcho",
@@ -340,7 +340,7 @@
       "description": "Fulfill the Prophecy 'Denizens of the Depths'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/22fad3142d7234ae65005529c90154c95a35a846.jpg",
       "hidden": 0,
-      "globalPercent": 13.3
+      "globalPercent": 13.4
     },
     {
       "apiname": "AchBeatRivalsVow1",
@@ -350,7 +350,7 @@
       "description": "Fulfill the Prophecy 'Unrivaled Prowess'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/e49f2f8289bbe30db779d69fd4e5a92b18ffc43c.jpg",
       "hidden": 0,
-      "globalPercent": 8.7
+      "globalPercent": 8.8
     },
     {
       "apiname": "AchBeatTyphonWithWeapons",
@@ -360,7 +360,7 @@
       "description": "Fulfill the Prophecy 'Sword of the Night'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/683178bcd525d5ff8faf28205e10dbd5565e9136.jpg",
       "hidden": 0,
-      "globalPercent": 11.8
+      "globalPercent": 11.9
     },
     {
       "apiname": "AchBeatChronosWithArcana",
@@ -370,7 +370,7 @@
       "description": "Fulfill the Prophecy 'Arcana of the Ages'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/880a5f03a316fb349e79314fcc805937d8da4067.jpg",
       "hidden": 0,
-      "globalPercent": 14.1
+      "globalPercent": 14.2
     },
     {
       "apiname": "AchClearWithAllAspects",
@@ -390,7 +390,7 @@
       "description": "Fulfill the Prophecy 'Born to Win'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/1731de7007a4539362a073676c76710a16ea9ac5.jpg",
       "hidden": 0,
-      "globalPercent": 9.3
+      "globalPercent": 9.4
     },
     {
       "apiname": "AchNemesisCombat",
@@ -400,7 +400,7 @@
       "description": "Earn 1,000 Gold competing against Nemesis",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/caf791f68909a5f4b2e679192c180c5ce3485543.jpg",
       "hidden": 0,
-      "globalPercent": 12.2
+      "globalPercent": 12.3
     },
     {
       "apiname": "AchFamiliarCostumes",
@@ -420,7 +420,7 @@
       "description": "Slay a Sister of the Dead while afflicted with Twilight Curse",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/3d6457b3ce55d171cb5c3a56d9158e012212581a.jpg",
       "hidden": 0,
-      "globalPercent": 36.7
+      "globalPercent": 36.8
     },
     {
       "apiname": "AchSummonSiren",
@@ -430,7 +430,7 @@
       "description": "Use Night Bloom to raise a Siren",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/79e935f097f6dcaaf973aefc7d3645c8010de193.jpg",
       "hidden": 0,
-      "globalPercent": 20.9
+      "globalPercent": 21
     },
     {
       "apiname": "AchTartarusInDress",
@@ -450,7 +450,7 @@
       "description": "Earn the first Gift of the Veil",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/d43cc5a6fd450378a3169fd43c9e3d4a35c31802.jpg",
       "hidden": 0,
-      "globalPercent": 22.1
+      "globalPercent": 22.2
     },
     {
       "apiname": "AchEarnStatue2",
@@ -470,7 +470,7 @@
       "description": "Prevail in the Contest of Champions",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/4642a4347918734ecd5c0432064218c104541b5a.jpg",
       "hidden": 0,
-      "globalPercent": 14.1
+      "globalPercent": 14.2
     },
     {
       "apiname": "AchTrueEnding",
@@ -480,7 +480,7 @@
       "description": "Complete the lifelong task of the Princess of the Underworld",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/60027445235d9c9f118df7c7e006e9dc8928781f.jpg",
       "hidden": 0,
-      "globalPercent": 23.5
+      "globalPercent": 23.6
     },
     {
       "apiname": "AchEpilogue",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-03T16:16:38.051Z"
+  "fetchedAt": "2026-02-03T18:17:37.350Z"
 }
