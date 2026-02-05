@@ -220,7 +220,7 @@
       "description": "Rescue half of the imprisoned grubs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/585f5c9dc4d8fc9a7ba24c808e184837fa1c28c4.jpg",
       "hidden": 0,
-      "globalPercent": 38.3
+      "globalPercent": 38.4
     },
     {
       "apiname": "METAMORPHOSIS",
@@ -260,7 +260,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/2a2f11ae513ba698b9fde0790f82f9a1292176d9.jpg",
       "hidden": 1,
-      "globalPercent": 9.9
+      "globalPercent": 10
     },
     {
       "apiname": "QUIRREL_EPILOGUE",
@@ -400,7 +400,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/d9a08fbe0afb16ffae9ebcd67c41bb73388a8c26.jpg",
       "hidden": 1,
-      "globalPercent": 18.5
+      "globalPercent": 18.6
     },
     {
       "apiname": "ENDING_C",
@@ -440,7 +440,7 @@
       "description": "Complete the game in under 5 hours",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/426bfd57af49ba6c1e199f6dffb6393fdd87e98c.jpg",
       "hidden": 0,
-      "globalPercent": 5.1
+      "globalPercent": 5.2
     },
     {
       "apiname": "COMPLETION",
@@ -450,7 +450,7 @@
       "description": "Achieve 100% game completion and finish the game",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/eba8bd5fc8e2d0b968bc2eb80433b8112a0d337c.jpg",
       "hidden": 0,
-      "globalPercent": 18.7
+      "globalPercent": 18.8
     },
     {
       "apiname": "SPEED_COMPLETION",
@@ -560,7 +560,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/11e465df607e6c5338c241612abd25bd31f44986.jpg",
       "hidden": 1,
-      "globalPercent": 15.9
+      "globalPercent": 16
     },
     {
       "apiname": "BANISHMENT",
@@ -610,7 +610,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
       "hidden": 1,
-      "globalPercent": 9.5
+      "globalPercent": 9.6
     },
     {
       "apiname": "ENDINGD",
@@ -634,5 +634,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-05T00:16:12.565Z"
+  "fetchedAt": "2026-02-05T02:58:01.534Z"
 }
