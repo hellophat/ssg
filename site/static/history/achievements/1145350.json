@@ -110,7 +110,7 @@
       "description": "Take one of your comrades to the Fishing Pier",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/dcf255248de3bcf46aa84f2d2fd9404021cb14b2.jpg",
       "hidden": 0,
-      "globalPercent": 33.5
+      "globalPercent": 33.6
     },
     {
       "apiname": "AchTaverna",
@@ -140,7 +140,7 @@
       "description": "Fulfill 60 Minor Prophecies",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/f97bc84742bcbab0cc1282a6d4e32e6c2a78c4b3.jpg",
       "hidden": 0,
-      "globalPercent": 10.9
+      "globalPercent": 11
     },
     {
       "apiname": "AchMaxMem",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-06T00:13:54.494Z"
+  "fetchedAt": "2026-02-06T02:56:50.527Z"
 }
