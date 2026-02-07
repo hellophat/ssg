@@ -610,7 +610,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
       "hidden": 1,
-      "globalPercent": 9.5
+      "globalPercent": 9.6
     },
     {
       "apiname": "ENDINGD",
@@ -634,5 +634,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-07T16:04:46.932Z"
+  "fetchedAt": "2026-02-07T18:05:22.676Z"
 }
