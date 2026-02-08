@@ -220,7 +220,7 @@
       "description": "Rescue half of the imprisoned grubs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/585f5c9dc4d8fc9a7ba24c808e184837fa1c28c4.jpg",
       "hidden": 0,
-      "globalPercent": 38.3
+      "globalPercent": 38.4
     },
     {
       "apiname": "METAMORPHOSIS",
@@ -610,7 +610,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
       "hidden": 1,
-      "globalPercent": 9.5
+      "globalPercent": 9.6
     },
     {
       "apiname": "ENDINGD",
@@ -634,5 +634,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-08T00:20:02.446Z"
+  "fetchedAt": "2026-02-08T03:01:45.337Z"
 }

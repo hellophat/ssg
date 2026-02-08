@@ -180,7 +180,7 @@
       "description": "Fulfill the Prophecy 'The Arms of Night'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/2f8d693ca8f4c5d1f809b5ca8052656dc530b31a.jpg",
       "hidden": 0,
-      "globalPercent": 42
+      "globalPercent": 42.1
     },
     {
       "apiname": "AchAllAspects",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-08T00:20:00.513Z"
+  "fetchedAt": "2026-02-08T03:01:43.685Z"
 }
