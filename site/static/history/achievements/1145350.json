@@ -40,7 +40,7 @@
       "description": "Clear Tartarus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/810e785977be190207d8be8ef1f4eeba83b3f3b2.jpg",
       "hidden": 0,
-      "globalPercent": 41.8
+      "globalPercent": 41.7
     },
     {
       "apiname": "AchClearEphyra",
@@ -80,7 +80,7 @@
       "description": "Clear the Summit",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/ddfad8618ab85d131992a91e7b6cb29191e4dbaa.jpg",
       "hidden": 0,
-      "globalPercent": 32.9
+      "globalPercent": 32.8
     },
     {
       "apiname": "AchCauldronSpells1",
@@ -160,7 +160,7 @@
       "description": "Fulfill the Prophecy 'Breadth of Knowledge'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/8ecff233744db9661a80ab2ffbb1c2ae675d83fd.jpg",
       "hidden": 0,
-      "globalPercent": 35.3
+      "globalPercent": 35.2
     },
     {
       "apiname": "AchAllArcanaMax",
@@ -300,7 +300,7 @@
       "description": "Fulfill the Prophecy 'Haunted by the Past'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/7b158e9bdb0e99859046ee870e4a778102f79657.jpg",
       "hidden": 0,
-      "globalPercent": 15
+      "globalPercent": 14.9
     },
     {
       "apiname": "AchHelpHypnos",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-09T04:41:26.214Z"
+  "fetchedAt": "2026-02-09T06:23:45.836Z"
 }
