@@ -2,17 +2,6 @@
   "total_count": 2,
   "games": [
     {
-      "appid": 1145350,
-      "name": "Hades II",
-      "playtime_2weeks": 9,
-      "playtime_forever": 4229,
-      "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
-      "playtime_windows_forever": 0,
-      "playtime_mac_forever": 4229,
-      "playtime_linux_forever": 0,
-      "playtime_deck_forever": 0
-    },
-    {
       "appid": 367520,
       "name": "Hollow Knight",
       "playtime_2weeks": 2,
@@ -22,7 +11,18 @@
       "playtime_mac_forever": 2,
       "playtime_linux_forever": 0,
       "playtime_deck_forever": 0
+    },
+    {
+      "appid": 1145350,
+      "name": "Hades II",
+      "playtime_2weeks": 2,
+      "playtime_forever": 4229,
+      "img_icon_url": "621d9f1cfa204c0bae07a981f41007d2cf03a56c",
+      "playtime_windows_forever": 0,
+      "playtime_mac_forever": 4229,
+      "playtime_linux_forever": 0,
+      "playtime_deck_forever": 0
     }
   ],
-  "fetchedAt": "2026-02-10T14:27:48.229Z"
+  "fetchedAt": "2026-02-10T16:22:38.613Z"
 }
