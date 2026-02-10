@@ -70,7 +70,7 @@
       "description": "Acquire all Vessel Fragments",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/7830df3185b0252edd0e4830da6dcc008b162541.jpg",
       "hidden": 0,
-      "globalPercent": 25.1
+      "globalPercent": 25.2
     },
     {
       "apiname": "FK_DEFEAT",
@@ -220,7 +220,7 @@
       "description": "Rescue half of the imprisoned grubs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/585f5c9dc4d8fc9a7ba24c808e184837fa1c28c4.jpg",
       "hidden": 0,
-      "globalPercent": 38.3
+      "globalPercent": 38.4
     },
     {
       "apiname": "METAMORPHOSIS",
@@ -260,7 +260,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/2a2f11ae513ba698b9fde0790f82f9a1292176d9.jpg",
       "hidden": 1,
-      "globalPercent": 9.9
+      "globalPercent": 10
     },
     {
       "apiname": "QUIRREL_EPILOGUE",
@@ -270,7 +270,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/bebc7daebbce3dd0cef06f83e0b4ae69975062cc.jpg",
       "hidden": 1,
-      "globalPercent": 24.7
+      "globalPercent": 24.8
     },
     {
       "apiname": "MOURNER",
@@ -360,7 +360,7 @@
       "description": "Complete the Trial of the Warrior",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9f9fca30082bf6d65e8beb8cf5eb9955c0ed0bbf.jpg",
       "hidden": 0,
-      "globalPercent": 37.5
+      "globalPercent": 37.6
     },
     {
       "apiname": "COLOSSEUM_2",
@@ -370,7 +370,7 @@
       "description": "Complete the Trial of the Conqueror",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/4dce442376a62900d7064dbb04f66125678d0a99.jpg",
       "hidden": 0,
-      "globalPercent": 34.3
+      "globalPercent": 34.4
     },
     {
       "apiname": "COLOSSEUM_3",
@@ -390,7 +390,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/f62b5c62df1ccfcf68b18da288ee220e6bc34b2b.jpg",
       "hidden": 1,
-      "globalPercent": 24
+      "globalPercent": 24.1
     },
     {
       "apiname": "ENDING_B",
@@ -400,7 +400,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/d9a08fbe0afb16ffae9ebcd67c41bb73388a8c26.jpg",
       "hidden": 1,
-      "globalPercent": 18.5
+      "globalPercent": 18.6
     },
     {
       "apiname": "ENDING_C",
@@ -440,7 +440,7 @@
       "description": "Complete the game in under 5 hours",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/426bfd57af49ba6c1e199f6dffb6393fdd87e98c.jpg",
       "hidden": 0,
-      "globalPercent": 5.1
+      "globalPercent": 5.2
     },
     {
       "apiname": "COMPLETION",
@@ -450,7 +450,7 @@
       "description": "Achieve 100% game completion and finish the game",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/eba8bd5fc8e2d0b968bc2eb80433b8112a0d337c.jpg",
       "hidden": 0,
-      "globalPercent": 18.7
+      "globalPercent": 18.8
     },
     {
       "apiname": "SPEED_COMPLETION",
@@ -490,7 +490,7 @@
       "description": "Record all of Hallownest's creatures in the Hunter's Journal",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/4d6373b0678c444e8ec841f81b4789d36438b8c3.jpg",
       "hidden": 0,
-      "globalPercent": 7.5
+      "globalPercent": 7.6
     },
     {
       "apiname": "HUNTER_2",
@@ -520,7 +520,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/f922c5de7ecfb30d3f7287e5fc472d669ec67fb8.jpg",
       "hidden": 1,
-      "globalPercent": 23.8
+      "globalPercent": 23.9
     },
     {
       "apiname": "WHITE_DEFENDER",
@@ -540,7 +540,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/e9699d861ee64eb0b3bfd57f2571896be5db12b4.jpg",
       "hidden": 1,
-      "globalPercent": 21.4
+      "globalPercent": 21.5
     },
     {
       "apiname": "GRIMM",
@@ -560,7 +560,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/11e465df607e6c5338c241612abd25bd31f44986.jpg",
       "hidden": 1,
-      "globalPercent": 15.9
+      "globalPercent": 16
     },
     {
       "apiname": "BANISHMENT",
@@ -634,5 +634,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-09T22:10:50.514Z"
+  "fetchedAt": "2026-02-10T00:20:27.159Z"
 }
