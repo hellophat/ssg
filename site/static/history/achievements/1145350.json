@@ -120,7 +120,7 @@
       "description": "Take one of your comrades to the Taverna",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/35594904194adbdf5f28f24b3bcdb7ed798b3cf4.jpg",
       "hidden": 0,
-      "globalPercent": 31.3
+      "globalPercent": 31.2
     },
     {
       "apiname": "AchForgeBonds",
@@ -160,7 +160,7 @@
       "description": "Fulfill the Prophecy 'Breadth of Knowledge'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/8ecff233744db9661a80ab2ffbb1c2ae675d83fd.jpg",
       "hidden": 0,
-      "globalPercent": 35.5
+      "globalPercent": 35.4
     },
     {
       "apiname": "AchAllArcanaMax",
@@ -480,7 +480,7 @@
       "description": "Complete the lifelong task of the Princess of the Underworld",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/60027445235d9c9f118df7c7e006e9dc8928781f.jpg",
       "hidden": 0,
-      "globalPercent": 24.1
+      "globalPercent": 24
     },
     {
       "apiname": "AchEpilogue",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-12T00:15:49.886Z"
+  "fetchedAt": "2026-02-12T03:01:30.106Z"
 }
