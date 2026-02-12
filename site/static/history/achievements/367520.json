@@ -50,7 +50,7 @@
       "description": "Acquire all Mask Shards",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/6073f18f0da90c88ce535826b716ddc098723ae7.jpg",
       "hidden": 0,
-      "globalPercent": 20
+      "globalPercent": 20.1
     },
     {
       "apiname": "SOULFUL",
@@ -170,7 +170,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/109bb2a566d9a5841d634ac4cf778b0bb5421eb6.jpg",
       "hidden": 1,
-      "globalPercent": 30.9
+      "globalPercent": 31
     },
     {
       "apiname": "ZOTE",
@@ -350,7 +350,7 @@
       "description": "Acquire a map of each area",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9db745f7f05c507991e224f2ca73e8d4af36a114.jpg",
       "hidden": 0,
-      "globalPercent": 36.3
+      "globalPercent": 36.4
     },
     {
       "apiname": "COLOSSEUM_1",
@@ -410,7 +410,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a43f645a3916af81765b548b85fe19e826ba4c42.jpg",
       "hidden": 1,
-      "globalPercent": 20
+      "globalPercent": 20.1
     },
     {
       "apiname": "VOID",
@@ -634,5 +634,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-12T14:20:20.711Z"
+  "fetchedAt": "2026-02-12T16:19:08.470Z"
 }
