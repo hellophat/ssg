@@ -30,7 +30,7 @@
       "description": "Clear the Fields of Mourning",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/829a116afe40a17c47b05fa41bfb3edbef73eca9.jpg",
       "hidden": 0,
-      "globalPercent": 52.5
+      "globalPercent": 52.6
     },
     {
       "apiname": "AchClearTartarus",
@@ -60,7 +60,7 @@
       "description": "Clear the Rift of Thessaly",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/af62d5e2b3ef2777c6b094da2957f37992d4e49b.jpg",
       "hidden": 0,
-      "globalPercent": 43.9
+      "globalPercent": 44
     },
     {
       "apiname": "AchClearOlympus",
@@ -130,7 +130,7 @@
       "description": "Forge a bond with 10 comrades",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/5fb1266ca5567441d8c9aa08fb238a37d725138e.jpg",
       "hidden": 0,
-      "globalPercent": 10.7
+      "globalPercent": 10.8
     },
     {
       "apiname": "AchProphecies1",
@@ -230,7 +230,7 @@
       "description": "Earn 10,000 Kudos",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/6939fa86ab96cff5068d1d631203274585d8f24f.jpg",
       "hidden": 0,
-      "globalPercent": 17.2
+      "globalPercent": 17.3
     },
     {
       "apiname": "AchAllKeepsakes",
@@ -310,7 +310,7 @@
       "description": "Fulfill the Prophecy 'Soundest of Sleepers'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/0135f7b6cdb456c7432ad3834282476a97447b7a.jpg",
       "hidden": 0,
-      "globalPercent": 14.1
+      "globalPercent": 14.2
     },
     {
       "apiname": "AchHelpArachne",
@@ -370,7 +370,7 @@
       "description": "Fulfill the Prophecy 'Arcana of the Ages'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/880a5f03a316fb349e79314fcc805937d8da4067.jpg",
       "hidden": 0,
-      "globalPercent": 14.4
+      "globalPercent": 14.5
     },
     {
       "apiname": "AchClearWithAllAspects",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-12T16:19:10.208Z"
+  "fetchedAt": "2026-02-12T18:17:33.225Z"
 }
