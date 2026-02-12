@@ -20,7 +20,7 @@
       "description": "Acquire half of Hallownest's Charms",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/16cab0ef2c0b0acac9779a6cd9776158faa77a8a.jpg",
       "hidden": 0,
-      "globalPercent": 39.9
+      "globalPercent": 39.8
     },
     {
       "apiname": "BLESSED",
@@ -30,7 +30,7 @@
       "description": "Acquire all Charms and receive Salubra's blessing",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a577316f7ae64c8cfdd0568209a915a9fad0f8ad.jpg",
       "hidden": 0,
-      "globalPercent": 20
+      "globalPercent": 19.9
     },
     {
       "apiname": "PROTECTED",
@@ -230,7 +230,7 @@
       "description": "Rescue all of the imprisoned grubs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a1a99a2d1308a47ea46df2eff56301584d070246.jpg",
       "hidden": 0,
-      "globalPercent": 25.9
+      "globalPercent": 25.8
     },
     {
       "apiname": "NEGLECT",
@@ -290,7 +290,7 @@
       "description": "Defeat the Traitor Lord",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9204e1e5c4d80aa514583957e57d9ae86ebd0976.jpg",
       "hidden": 0,
-      "globalPercent": 33.2
+      "globalPercent": 33.1
     },
     {
       "apiname": "STAG_STATION_HALF",
@@ -420,7 +420,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/e11d971b5f2c1e977fd5679ad15cbf40b2cb2a4a.jpg",
       "hidden": 1,
-      "globalPercent": 25.8
+      "globalPercent": 25.7
     },
     {
       "apiname": "SPEEDRUN_1",
@@ -634,5 +634,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-12T20:09:01.140Z"
+  "fetchedAt": "2026-02-12T22:07:12.659Z"
 }
