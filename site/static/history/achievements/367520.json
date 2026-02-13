@@ -50,7 +50,7 @@
       "description": "Acquire all Mask Shards",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/6073f18f0da90c88ce535826b716ddc098723ae7.jpg",
       "hidden": 0,
-      "globalPercent": 20.1
+      "globalPercent": 20
     },
     {
       "apiname": "SOULFUL",
@@ -170,7 +170,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/109bb2a566d9a5841d634ac4cf778b0bb5421eb6.jpg",
       "hidden": 1,
-      "globalPercent": 31
+      "globalPercent": 30.9
     },
     {
       "apiname": "ZOTE",
@@ -320,7 +320,7 @@
       "description": "Destroy Monomon the Teacher",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/5a85ae25f9102058a0ac5bf541d08a510b466764.jpg",
       "hidden": 0,
-      "globalPercent": 37.7
+      "globalPercent": 37.6
     },
     {
       "apiname": "WATCHER",
@@ -410,7 +410,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a43f645a3916af81765b548b85fe19e826ba4c42.jpg",
       "hidden": 1,
-      "globalPercent": 20.1
+      "globalPercent": 20
     },
     {
       "apiname": "VOID",
@@ -634,5 +634,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-13T20:08:43.597Z"
+  "fetchedAt": "2026-02-13T22:08:10.129Z"
 }

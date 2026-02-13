@@ -290,7 +290,7 @@
       "description": "Fulfill the Prophecy 'Unfinished Business'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/aaa21730f2287b4fb2812bfb30bb84ba4d84040a.jpg",
       "hidden": 0,
-      "globalPercent": 6.8
+      "globalPercent": 6.7
     },
     {
       "apiname": "AchHelpDora",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-13T20:08:45.611Z"
+  "fetchedAt": "2026-02-13T22:08:11.994Z"
 }
