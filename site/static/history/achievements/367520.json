@@ -230,7 +230,7 @@
       "description": "Rescue all of the imprisoned grubs",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/a1a99a2d1308a47ea46df2eff56301584d070246.jpg",
       "hidden": 0,
-      "globalPercent": 25.8
+      "globalPercent": 25.9
     },
     {
       "apiname": "NEGLECT",
@@ -634,5 +634,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-15T14:07:57.834Z"
+  "fetchedAt": "2026-02-15T16:04:33.666Z"
 }
