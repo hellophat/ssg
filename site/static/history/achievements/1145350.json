@@ -480,7 +480,7 @@
       "description": "Complete the lifelong task of the Princess of the Underworld",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/60027445235d9c9f118df7c7e006e9dc8928781f.jpg",
       "hidden": 0,
-      "globalPercent": 24.1
+      "globalPercent": 24
     },
     {
       "apiname": "AchEpilogue",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-15T00:16:14.520Z"
+  "fetchedAt": "2026-02-15T03:01:42.885Z"
 }
