@@ -350,7 +350,7 @@
       "description": "Acquire a map of each area",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9db745f7f05c507991e224f2ca73e8d4af36a114.jpg",
       "hidden": 0,
-      "globalPercent": 36.4
+      "globalPercent": 36.3
     },
     {
       "apiname": "COLOSSEUM_1",
@@ -634,5 +634,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-16T10:17:54.348Z"
+  "fetchedAt": "2026-02-16T12:10:39.184Z"
 }
