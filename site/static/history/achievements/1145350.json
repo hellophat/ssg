@@ -10,7 +10,7 @@
       "description": "Clear Erebus",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/974c728e91ee0068539259f7cc6f4bc5f3373fd8.jpg",
       "hidden": 0,
-      "globalPercent": 61.6
+      "globalPercent": 61.7
     },
     {
       "apiname": "AchClearOceanus",
@@ -30,7 +30,7 @@
       "description": "Clear the Fields of Mourning",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/829a116afe40a17c47b05fa41bfb3edbef73eca9.jpg",
       "hidden": 0,
-      "globalPercent": 52.6
+      "globalPercent": 52.7
     },
     {
       "apiname": "AchClearTartarus",
@@ -60,7 +60,7 @@
       "description": "Clear the Rift of Thessaly",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/af62d5e2b3ef2777c6b094da2957f37992d4e49b.jpg",
       "hidden": 0,
-      "globalPercent": 44
+      "globalPercent": 44.1
     },
     {
       "apiname": "AchClearOlympus",
@@ -120,7 +120,7 @@
       "description": "Take one of your comrades to the Taverna",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/35594904194adbdf5f28f24b3bcdb7ed798b3cf4.jpg",
       "hidden": 0,
-      "globalPercent": 31.3
+      "globalPercent": 31.4
     },
     {
       "apiname": "AchForgeBonds",
@@ -170,7 +170,7 @@
       "description": "Fully upgrade all Arcana",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/f1f05955c0e2427ec09306211bc103ec728f71bd.jpg",
       "hidden": 0,
-      "globalPercent": 10.7
+      "globalPercent": 10.8
     },
     {
       "apiname": "AchAllWeapons",
@@ -200,7 +200,7 @@
       "description": "Fulfill the Prophecy 'Familiar Confidant'",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/5a20c112ae2305e8a28635fa4f06be038c57294d.jpg",
       "hidden": 0,
-      "globalPercent": 33.9
+      "globalPercent": 34
     },
     {
       "apiname": "AchAllFamiliars",
@@ -240,7 +240,7 @@
       "description": "Collect every Keepsake",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/8f7640b7274446300aac8aac059b73d7e05ee91e.jpg",
       "hidden": 0,
-      "globalPercent": 9.7
+      "globalPercent": 9.8
     },
     {
       "apiname": "AchBounties1",
@@ -250,7 +250,7 @@
       "description": "Clear 20 Chaos Trials",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/099dcc124bb47e61099afd259e4f8e40669c370c.jpg",
       "hidden": 0,
-      "globalPercent": 8.7
+      "globalPercent": 8.8
     },
     {
       "apiname": "AchAllRandomStreak",
@@ -400,7 +400,7 @@
       "description": "Earn 1,000 Gold competing against Nemesis",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/1145350/caf791f68909a5f4b2e679192c180c5ce3485543.jpg",
       "hidden": 0,
-      "globalPercent": 12.6
+      "globalPercent": 12.7
     },
     {
       "apiname": "AchFamiliarCostumes",
@@ -504,5 +504,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-16T08:12:56.317Z"
+  "fetchedAt": "2026-02-16T10:17:56.230Z"
 }
