@@ -90,7 +90,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/9f449ef6aacd0ef2423439931ef68466cd762456.jpg",
       "hidden": 1,
-      "globalPercent": 26.3
+      "globalPercent": 26.4
     },
     {
       "apiname": "HORNET_1",
@@ -130,7 +130,7 @@
       "description": "Defeat the Broken Vessel",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/b252c4bde96e9b00acc82780dd4aa32b26a5253b.jpg",
       "hidden": 0,
-      "globalPercent": 41.8
+      "globalPercent": 41.9
     },
     {
       "apiname": "DREAM_BROKEN_VESSEL",
@@ -250,7 +250,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/23f190fe7fdc961652855d6134a096b2703bf479.jpg",
       "hidden": 1,
-      "globalPercent": 18.4
+      "globalPercent": 18.5
     },
     {
       "apiname": "NAILSMITH_SPARE",
@@ -430,7 +430,7 @@
       "description": "Complete the game in under 10 hours",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/d273e50186bcfe48d2c0a07b20bd0efa8d843293.jpg",
       "hidden": 0,
-      "globalPercent": 6.2
+      "globalPercent": 6.3
     },
     {
       "apiname": "SPEEDRUN_2",
@@ -580,7 +580,7 @@
       "description": "",
       "icon": "https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/367520/",
       "hidden": 1,
-      "globalPercent": 17
+      "globalPercent": 17.1
     },
     {
       "apiname": "PANTHEON2",
@@ -634,5 +634,5 @@
     }
   ],
   "success": true,
-  "fetchedAt": "2026-02-16T14:17:35.715Z"
+  "fetchedAt": "2026-02-16T16:12:54.190Z"
 }
